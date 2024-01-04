@@ -1,0 +1,11 @@
+framework module MobilePlayslips {
+  umbrella header "MobilePlayslips-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module MobilePlayslips.Swift {
+  header "MobilePlayslips-Swift.h"
+  requires objc
+}

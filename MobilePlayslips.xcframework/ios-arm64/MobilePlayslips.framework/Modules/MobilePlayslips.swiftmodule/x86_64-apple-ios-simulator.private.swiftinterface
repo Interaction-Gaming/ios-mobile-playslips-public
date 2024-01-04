@@ -1,0 +1,99 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 5.7 (swiftlang-5.7.0.127.4 clang-1400.0.29.50)
+// swift-module-flags: -target x86_64-apple-ios14-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name MobilePlayslips
+// swift-module-flags-ignorable: -enable-bare-slash-regex
+import CryptoKit
+import DropDown
+import Foundation
+import Lottie
+@_exported import MobilePlayslips
+import ReSwift
+import Swift
+import UIColor_Hex_Swift
+import UIKit
+import _Concurrency
+import _StringProcessing
+public enum HorizontalAlignment {
+  case left
+  case right
+  case leading
+  case trailing
+  case justified
+  public static func == (a: MobilePlayslips.HorizontalAlignment, b: MobilePlayslips.HorizontalAlignment) -> Swift.Bool
+  public func hash(into hasher: inout Swift.Hasher)
+  public var hashValue: Swift.Int {
+    get
+  }
+}
+public enum VerticalAlignment {
+  case top
+  case center
+  case bottom
+  public static func == (a: MobilePlayslips.VerticalAlignment, b: MobilePlayslips.VerticalAlignment) -> Swift.Bool
+  public func hash(into hasher: inout Swift.Hasher)
+  public var hashValue: Swift.Int {
+    get
+  }
+}
+@objc @_Concurrency.MainActor(unsafe) open class AlignedCollectionViewFlowLayout : UIKit.UICollectionViewFlowLayout {
+  @_Concurrency.MainActor(unsafe) public var horizontalAlignment: MobilePlayslips.HorizontalAlignment
+  @_Concurrency.MainActor(unsafe) public var verticalAlignment: MobilePlayslips.VerticalAlignment
+  @_Concurrency.MainActor(unsafe) public init(horizontalAlignment: MobilePlayslips.HorizontalAlignment = .justified, verticalAlignment: MobilePlayslips.VerticalAlignment = .center)
+  @_Concurrency.MainActor(unsafe) @objc required dynamic public init?(coder aDecoder: Foundation.NSCoder)
+  @_Concurrency.MainActor(unsafe) @objc override dynamic open func layoutAttributesForItem(at indexPath: Foundation.IndexPath) -> UIKit.UICollectionViewLayoutAttributes?
+  @_Concurrency.MainActor(unsafe) @objc override dynamic open func layoutAttributesForElements(in rect: CoreFoundation.CGRect) -> [UIKit.UICollectionViewLayoutAttributes]?
+  @objc deinit
+}
+public protocol ButtonDisplayable {
+  var backgroundColor: UIKit.UIColor? { get }
+  var titleColor: UIKit.UIColor? { get }
+  var titleFont: UIKit.UIFont? { get }
+  var tintColor: UIKit.UIColor? { get }
+  var title: Swift.String? { get }
+  var image: UIKit.UIImage? { get }
+  var cornerRadius: CoreFoundation.CGFloat? { get }
+  var borderWidth: CoreFoundation.CGFloat { get }
+  var borderColor: UIKit.UIColor? { get }
+  var disabledAlpha: CoreFoundation.CGFloat { get }
+}
+public enum DrawGameIdentifier : Swift.String, Swift.Codable, Swift.Equatable {
+  case powerball
+  case megabucksDoubler
+  case massCash
+  case megaMillions
+  case luckyForLife
+  case theNumbersGame
+  case allOrNothing
+  case keno
+  case wheelOfLuck
+  case none
+  public init(from decoder: Swift.Decoder) throws
+  public init?(rawValue: Swift.String)
+  public typealias RawValue = Swift.String
+  public var rawValue: Swift.String {
+    get
+  }
+}
+public class MobilePlayslipsDelegate {
+  public init()
+  public func applicationClosed()
+  public func setHost(host: Swift.String)
+  public func setLottery(lottery: Swift.String)
+  public func applicationLaunched()
+  @objc deinit
+}
+extension UIKit.UIFont {
+  public static func igBoldFont(size: CoreFoundation.CGFloat) -> UIKit.UIFont
+  public static func igBoldSlabFont(size: CoreFoundation.CGFloat) -> UIKit.UIFont
+  public static func igBoldItalicFont(size: CoreFoundation.CGFloat) -> UIKit.UIFont
+  public static func igRegularFont(size: CoreFoundation.CGFloat) -> UIKit.UIFont
+  public static func igRegularSlabFont(size: CoreFoundation.CGFloat) -> UIKit.UIFont
+  public static func igItalicsFont(size: CoreFoundation.CGFloat) -> UIKit.UIFont
+  public static func ganache(size: CoreFoundation.CGFloat) -> UIKit.UIFont
+}
+extension MobilePlayslips.HorizontalAlignment : Swift.Equatable {}
+extension MobilePlayslips.HorizontalAlignment : Swift.Hashable {}
+extension MobilePlayslips.VerticalAlignment : Swift.Equatable {}
+extension MobilePlayslips.VerticalAlignment : Swift.Hashable {}
+extension MobilePlayslips.DrawGameIdentifier : Swift.Hashable {}
+extension MobilePlayslips.DrawGameIdentifier : Swift.RawRepresentable {}

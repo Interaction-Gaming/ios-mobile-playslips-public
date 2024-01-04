@@ -1,0 +1,5418 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "TopLevel",
+    "printedName": "TopLevel",
+    "children": [
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "MobilePlayslips",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "MobilePlayslips",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "HorizontalAlignment",
+        "printedName": "HorizontalAlignment",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "left",
+            "printedName": "left",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(MobilePlayslips.HorizontalAlignment.Type) -> MobilePlayslips.HorizontalAlignment",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "HorizontalAlignment",
+                    "printedName": "MobilePlayslips.HorizontalAlignment",
+                    "usr": "s:15MobilePlayslips19HorizontalAlignmentO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "MobilePlayslips.HorizontalAlignment.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "HorizontalAlignment",
+                        "printedName": "MobilePlayslips.HorizontalAlignment",
+                        "usr": "s:15MobilePlayslips19HorizontalAlignmentO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:15MobilePlayslips19HorizontalAlignmentO4leftyA2CmF",
+            "mangledName": "$s15MobilePlayslips19HorizontalAlignmentO4leftyA2CmF",
+            "moduleName": "MobilePlayslips"
+          },
+          {
+            "kind": "Var",
+            "name": "right",
+            "printedName": "right",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(MobilePlayslips.HorizontalAlignment.Type) -> MobilePlayslips.HorizontalAlignment",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "HorizontalAlignment",
+                    "printedName": "MobilePlayslips.HorizontalAlignment",
+                    "usr": "s:15MobilePlayslips19HorizontalAlignmentO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "MobilePlayslips.HorizontalAlignment.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "HorizontalAlignment",
+                        "printedName": "MobilePlayslips.HorizontalAlignment",
+                        "usr": "s:15MobilePlayslips19HorizontalAlignmentO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:15MobilePlayslips19HorizontalAlignmentO5rightyA2CmF",
+            "mangledName": "$s15MobilePlayslips19HorizontalAlignmentO5rightyA2CmF",
+            "moduleName": "MobilePlayslips"
+          },
+          {
+            "kind": "Var",
+            "name": "leading",
+            "printedName": "leading",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(MobilePlayslips.HorizontalAlignment.Type) -> MobilePlayslips.HorizontalAlignment",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "HorizontalAlignment",
+                    "printedName": "MobilePlayslips.HorizontalAlignment",
+                    "usr": "s:15MobilePlayslips19HorizontalAlignmentO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "MobilePlayslips.HorizontalAlignment.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "HorizontalAlignment",
+                        "printedName": "MobilePlayslips.HorizontalAlignment",
+                        "usr": "s:15MobilePlayslips19HorizontalAlignmentO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:15MobilePlayslips19HorizontalAlignmentO7leadingyA2CmF",
+            "mangledName": "$s15MobilePlayslips19HorizontalAlignmentO7leadingyA2CmF",
+            "moduleName": "MobilePlayslips"
+          },
+          {
+            "kind": "Var",
+            "name": "trailing",
+            "printedName": "trailing",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(MobilePlayslips.HorizontalAlignment.Type) -> MobilePlayslips.HorizontalAlignment",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "HorizontalAlignment",
+                    "printedName": "MobilePlayslips.HorizontalAlignment",
+                    "usr": "s:15MobilePlayslips19HorizontalAlignmentO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "MobilePlayslips.HorizontalAlignment.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "HorizontalAlignment",
+                        "printedName": "MobilePlayslips.HorizontalAlignment",
+                        "usr": "s:15MobilePlayslips19HorizontalAlignmentO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:15MobilePlayslips19HorizontalAlignmentO8trailingyA2CmF",
+            "mangledName": "$s15MobilePlayslips19HorizontalAlignmentO8trailingyA2CmF",
+            "moduleName": "MobilePlayslips"
+          },
+          {
+            "kind": "Var",
+            "name": "justified",
+            "printedName": "justified",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(MobilePlayslips.HorizontalAlignment.Type) -> MobilePlayslips.HorizontalAlignment",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "HorizontalAlignment",
+                    "printedName": "MobilePlayslips.HorizontalAlignment",
+                    "usr": "s:15MobilePlayslips19HorizontalAlignmentO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "MobilePlayslips.HorizontalAlignment.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "HorizontalAlignment",
+                        "printedName": "MobilePlayslips.HorizontalAlignment",
+                        "usr": "s:15MobilePlayslips19HorizontalAlignmentO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:15MobilePlayslips19HorizontalAlignmentO9justifiedyA2CmF",
+            "mangledName": "$s15MobilePlayslips19HorizontalAlignmentO9justifiedyA2CmF",
+            "moduleName": "MobilePlayslips"
+          },
+          {
+            "kind": "Function",
+            "name": "==",
+            "printedName": "==(_:_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "HorizontalAlignment",
+                "printedName": "MobilePlayslips.HorizontalAlignment",
+                "usr": "s:15MobilePlayslips19HorizontalAlignmentO"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "HorizontalAlignment",
+                "printedName": "MobilePlayslips.HorizontalAlignment",
+                "usr": "s:15MobilePlayslips19HorizontalAlignmentO"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:15MobilePlayslips19HorizontalAlignmentO2eeoiySbAC_ACtFZ",
+            "mangledName": "$s15MobilePlayslips19HorizontalAlignmentO2eeoiySbAC_ACtFZ",
+            "moduleName": "MobilePlayslips",
+            "static": true,
+            "implicit": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Var",
+            "name": "hashValue",
+            "printedName": "hashValue",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:15MobilePlayslips19HorizontalAlignmentO9hashValueSivp",
+            "mangledName": "$s15MobilePlayslips19HorizontalAlignmentO9hashValueSivp",
+            "moduleName": "MobilePlayslips",
+            "implicit": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:15MobilePlayslips19HorizontalAlignmentO9hashValueSivg",
+                "mangledName": "$s15MobilePlayslips19HorizontalAlignmentO9hashValueSivg",
+                "moduleName": "MobilePlayslips",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Function",
+            "name": "hash",
+            "printedName": "hash(into:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Hasher",
+                "printedName": "Swift.Hasher",
+                "paramValueOwnership": "InOut",
+                "usr": "s:s6HasherV"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:15MobilePlayslips19HorizontalAlignmentO4hash4intoys6HasherVz_tF",
+            "mangledName": "$s15MobilePlayslips19HorizontalAlignmentO4hash4intoys6HasherVz_tF",
+            "moduleName": "MobilePlayslips",
+            "implicit": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Enum",
+        "usr": "s:15MobilePlayslips19HorizontalAlignmentO",
+        "mangledName": "$s15MobilePlayslips19HorizontalAlignmentO",
+        "moduleName": "MobilePlayslips",
+        "declAttributes": [
+          "AccessControl",
+          "RawDocComment"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "VerticalAlignment",
+        "printedName": "VerticalAlignment",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "top",
+            "printedName": "top",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(MobilePlayslips.VerticalAlignment.Type) -> MobilePlayslips.VerticalAlignment",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "VerticalAlignment",
+                    "printedName": "MobilePlayslips.VerticalAlignment",
+                    "usr": "s:15MobilePlayslips17VerticalAlignmentO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "MobilePlayslips.VerticalAlignment.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "VerticalAlignment",
+                        "printedName": "MobilePlayslips.VerticalAlignment",
+                        "usr": "s:15MobilePlayslips17VerticalAlignmentO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:15MobilePlayslips17VerticalAlignmentO3topyA2CmF",
+            "mangledName": "$s15MobilePlayslips17VerticalAlignmentO3topyA2CmF",
+            "moduleName": "MobilePlayslips"
+          },
+          {
+            "kind": "Var",
+            "name": "center",
+            "printedName": "center",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(MobilePlayslips.VerticalAlignment.Type) -> MobilePlayslips.VerticalAlignment",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "VerticalAlignment",
+                    "printedName": "MobilePlayslips.VerticalAlignment",
+                    "usr": "s:15MobilePlayslips17VerticalAlignmentO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "MobilePlayslips.VerticalAlignment.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "VerticalAlignment",
+                        "printedName": "MobilePlayslips.VerticalAlignment",
+                        "usr": "s:15MobilePlayslips17VerticalAlignmentO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:15MobilePlayslips17VerticalAlignmentO6centeryA2CmF",
+            "mangledName": "$s15MobilePlayslips17VerticalAlignmentO6centeryA2CmF",
+            "moduleName": "MobilePlayslips"
+          },
+          {
+            "kind": "Var",
+            "name": "bottom",
+            "printedName": "bottom",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(MobilePlayslips.VerticalAlignment.Type) -> MobilePlayslips.VerticalAlignment",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "VerticalAlignment",
+                    "printedName": "MobilePlayslips.VerticalAlignment",
+                    "usr": "s:15MobilePlayslips17VerticalAlignmentO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "MobilePlayslips.VerticalAlignment.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "VerticalAlignment",
+                        "printedName": "MobilePlayslips.VerticalAlignment",
+                        "usr": "s:15MobilePlayslips17VerticalAlignmentO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:15MobilePlayslips17VerticalAlignmentO6bottomyA2CmF",
+            "mangledName": "$s15MobilePlayslips17VerticalAlignmentO6bottomyA2CmF",
+            "moduleName": "MobilePlayslips"
+          },
+          {
+            "kind": "Function",
+            "name": "==",
+            "printedName": "==(_:_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "VerticalAlignment",
+                "printedName": "MobilePlayslips.VerticalAlignment",
+                "usr": "s:15MobilePlayslips17VerticalAlignmentO"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "VerticalAlignment",
+                "printedName": "MobilePlayslips.VerticalAlignment",
+                "usr": "s:15MobilePlayslips17VerticalAlignmentO"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:15MobilePlayslips17VerticalAlignmentO2eeoiySbAC_ACtFZ",
+            "mangledName": "$s15MobilePlayslips17VerticalAlignmentO2eeoiySbAC_ACtFZ",
+            "moduleName": "MobilePlayslips",
+            "static": true,
+            "implicit": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Var",
+            "name": "hashValue",
+            "printedName": "hashValue",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:15MobilePlayslips17VerticalAlignmentO9hashValueSivp",
+            "mangledName": "$s15MobilePlayslips17VerticalAlignmentO9hashValueSivp",
+            "moduleName": "MobilePlayslips",
+            "implicit": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:15MobilePlayslips17VerticalAlignmentO9hashValueSivg",
+                "mangledName": "$s15MobilePlayslips17VerticalAlignmentO9hashValueSivg",
+                "moduleName": "MobilePlayslips",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Function",
+            "name": "hash",
+            "printedName": "hash(into:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Hasher",
+                "printedName": "Swift.Hasher",
+                "paramValueOwnership": "InOut",
+                "usr": "s:s6HasherV"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:15MobilePlayslips17VerticalAlignmentO4hash4intoys6HasherVz_tF",
+            "mangledName": "$s15MobilePlayslips17VerticalAlignmentO4hash4intoys6HasherVz_tF",
+            "moduleName": "MobilePlayslips",
+            "implicit": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Enum",
+        "usr": "s:15MobilePlayslips17VerticalAlignmentO",
+        "mangledName": "$s15MobilePlayslips17VerticalAlignmentO",
+        "moduleName": "MobilePlayslips",
+        "declAttributes": [
+          "AccessControl",
+          "RawDocComment"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "AlignedCollectionViewFlowLayout",
+        "printedName": "AlignedCollectionViewFlowLayout",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "horizontalAlignment",
+            "printedName": "horizontalAlignment",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "HorizontalAlignment",
+                "printedName": "MobilePlayslips.HorizontalAlignment",
+                "usr": "s:15MobilePlayslips19HorizontalAlignmentO"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:15MobilePlayslips31AlignedCollectionViewFlowLayoutC19horizontalAlignmentAA010HorizontalI0Ovp",
+            "mangledName": "$s15MobilePlayslips31AlignedCollectionViewFlowLayoutC19horizontalAlignmentAA010HorizontalI0Ovp",
+            "moduleName": "MobilePlayslips",
+            "declAttributes": [
+              "Custom",
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "HorizontalAlignment",
+                    "printedName": "MobilePlayslips.HorizontalAlignment",
+                    "usr": "s:15MobilePlayslips19HorizontalAlignmentO"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:15MobilePlayslips31AlignedCollectionViewFlowLayoutC19horizontalAlignmentAA010HorizontalI0Ovg",
+                "mangledName": "$s15MobilePlayslips31AlignedCollectionViewFlowLayoutC19horizontalAlignmentAA010HorizontalI0Ovg",
+                "moduleName": "MobilePlayslips",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "HorizontalAlignment",
+                    "printedName": "MobilePlayslips.HorizontalAlignment",
+                    "usr": "s:15MobilePlayslips19HorizontalAlignmentO"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:15MobilePlayslips31AlignedCollectionViewFlowLayoutC19horizontalAlignmentAA010HorizontalI0Ovs",
+                "mangledName": "$s15MobilePlayslips31AlignedCollectionViewFlowLayoutC19horizontalAlignmentAA010HorizontalI0Ovs",
+                "moduleName": "MobilePlayslips",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:15MobilePlayslips31AlignedCollectionViewFlowLayoutC19horizontalAlignmentAA010HorizontalI0OvM",
+                "mangledName": "$s15MobilePlayslips31AlignedCollectionViewFlowLayoutC19horizontalAlignmentAA010HorizontalI0OvM",
+                "moduleName": "MobilePlayslips",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "verticalAlignment",
+            "printedName": "verticalAlignment",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "VerticalAlignment",
+                "printedName": "MobilePlayslips.VerticalAlignment",
+                "usr": "s:15MobilePlayslips17VerticalAlignmentO"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:15MobilePlayslips31AlignedCollectionViewFlowLayoutC17verticalAlignmentAA08VerticalI0Ovp",
+            "mangledName": "$s15MobilePlayslips31AlignedCollectionViewFlowLayoutC17verticalAlignmentAA08VerticalI0Ovp",
+            "moduleName": "MobilePlayslips",
+            "declAttributes": [
+              "Custom",
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "VerticalAlignment",
+                    "printedName": "MobilePlayslips.VerticalAlignment",
+                    "usr": "s:15MobilePlayslips17VerticalAlignmentO"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:15MobilePlayslips31AlignedCollectionViewFlowLayoutC17verticalAlignmentAA08VerticalI0Ovg",
+                "mangledName": "$s15MobilePlayslips31AlignedCollectionViewFlowLayoutC17verticalAlignmentAA08VerticalI0Ovg",
+                "moduleName": "MobilePlayslips",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "VerticalAlignment",
+                    "printedName": "MobilePlayslips.VerticalAlignment",
+                    "usr": "s:15MobilePlayslips17VerticalAlignmentO"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:15MobilePlayslips31AlignedCollectionViewFlowLayoutC17verticalAlignmentAA08VerticalI0Ovs",
+                "mangledName": "$s15MobilePlayslips31AlignedCollectionViewFlowLayoutC17verticalAlignmentAA08VerticalI0Ovs",
+                "moduleName": "MobilePlayslips",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:15MobilePlayslips31AlignedCollectionViewFlowLayoutC17verticalAlignmentAA08VerticalI0OvM",
+                "mangledName": "$s15MobilePlayslips31AlignedCollectionViewFlowLayoutC17verticalAlignmentAA08VerticalI0OvM",
+                "moduleName": "MobilePlayslips",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(horizontalAlignment:verticalAlignment:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "AlignedCollectionViewFlowLayout",
+                "printedName": "MobilePlayslips.AlignedCollectionViewFlowLayout",
+                "usr": "c:@M@MobilePlayslips@objc(cs)AlignedCollectionViewFlowLayout"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "HorizontalAlignment",
+                "printedName": "MobilePlayslips.HorizontalAlignment",
+                "hasDefaultArg": true,
+                "usr": "s:15MobilePlayslips19HorizontalAlignmentO"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "VerticalAlignment",
+                "printedName": "MobilePlayslips.VerticalAlignment",
+                "hasDefaultArg": true,
+                "usr": "s:15MobilePlayslips17VerticalAlignmentO"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:15MobilePlayslips31AlignedCollectionViewFlowLayoutC19horizontalAlignment08verticalI0AcA010HorizontalI0O_AA08VerticalI0Otcfc",
+            "mangledName": "$s15MobilePlayslips31AlignedCollectionViewFlowLayoutC19horizontalAlignment08verticalI0AcA010HorizontalI0O_AA08VerticalI0Otcfc",
+            "moduleName": "MobilePlayslips",
+            "declAttributes": [
+              "Custom",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(coder:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "MobilePlayslips.AlignedCollectionViewFlowLayout?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "AlignedCollectionViewFlowLayout",
+                    "printedName": "MobilePlayslips.AlignedCollectionViewFlowLayout",
+                    "usr": "c:@M@MobilePlayslips@objc(cs)AlignedCollectionViewFlowLayout"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "NSCoder",
+                "printedName": "Foundation.NSCoder",
+                "usr": "c:objc(cs)NSCoder"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@MobilePlayslips@objc(cs)AlignedCollectionViewFlowLayout(im)initWithCoder:",
+            "mangledName": "$s15MobilePlayslips31AlignedCollectionViewFlowLayoutC5coderACSgSo7NSCoderC_tcfc",
+            "moduleName": "MobilePlayslips",
+            "overriding": true,
+            "objc_name": "initWithCoder:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Custom",
+              "AccessControl",
+              "Required"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Function",
+            "name": "layoutAttributesForItem",
+            "printedName": "layoutAttributesForItem(at:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "UIKit.UICollectionViewLayoutAttributes?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UICollectionViewLayoutAttributes",
+                    "printedName": "UIKit.UICollectionViewLayoutAttributes",
+                    "usr": "c:objc(cs)UICollectionViewLayoutAttributes"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "IndexPath",
+                "printedName": "Foundation.IndexPath",
+                "usr": "s:10Foundation9IndexPathV"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@MobilePlayslips@objc(cs)AlignedCollectionViewFlowLayout(im)layoutAttributesForItemAtIndexPath:",
+            "mangledName": "$s15MobilePlayslips31AlignedCollectionViewFlowLayoutC23layoutAttributesForItem2atSo012UICollectionegI0CSg10Foundation9IndexPathV_tF",
+            "moduleName": "MobilePlayslips",
+            "overriding": true,
+            "isOpen": true,
+            "objc_name": "layoutAttributesForItemAtIndexPath:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Custom",
+              "AccessControl",
+              "Override",
+              "RawDocComment"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "layoutAttributesForElements",
+            "printedName": "layoutAttributesForElements(in:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "[UIKit.UICollectionViewLayoutAttributes]?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Array",
+                    "printedName": "[UIKit.UICollectionViewLayoutAttributes]",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "UICollectionViewLayoutAttributes",
+                        "printedName": "UIKit.UICollectionViewLayoutAttributes",
+                        "usr": "c:objc(cs)UICollectionViewLayoutAttributes"
+                      }
+                    ],
+                    "usr": "s:Sa"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "CGRect",
+                "printedName": "CoreFoundation.CGRect",
+                "usr": "c:@S@CGRect"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@MobilePlayslips@objc(cs)AlignedCollectionViewFlowLayout(im)layoutAttributesForElementsInRect:",
+            "mangledName": "$s15MobilePlayslips31AlignedCollectionViewFlowLayoutC27layoutAttributesForElements2inSaySo012UICollectionegI0CGSgSo6CGRectV_tF",
+            "moduleName": "MobilePlayslips",
+            "overriding": true,
+            "isOpen": true,
+            "objc_name": "layoutAttributesForElementsInRect:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Custom",
+              "AccessControl",
+              "Override"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "AlignedCollectionViewFlowLayout",
+                "printedName": "MobilePlayslips.AlignedCollectionViewFlowLayout",
+                "usr": "c:@M@MobilePlayslips@objc(cs)AlignedCollectionViewFlowLayout"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@MobilePlayslips@objc(cs)AlignedCollectionViewFlowLayout(im)init",
+            "mangledName": "$s15MobilePlayslips31AlignedCollectionViewFlowLayoutCACycfc",
+            "moduleName": "MobilePlayslips",
+            "overriding": true,
+            "implicit": true,
+            "objc_name": "init",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Custom",
+              "Override"
+            ],
+            "init_kind": "Designated"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "c:@M@MobilePlayslips@objc(cs)AlignedCollectionViewFlowLayout",
+        "mangledName": "$s15MobilePlayslips31AlignedCollectionViewFlowLayoutC",
+        "moduleName": "MobilePlayslips",
+        "isOpen": true,
+        "declAttributes": [
+          "Custom",
+          "AccessControl",
+          "RawDocComment",
+          "ObjC"
+        ],
+        "superclassUsr": "c:objc(cs)UICollectionViewFlowLayout",
+        "superclassNames": [
+          "UIKit.UICollectionViewFlowLayout",
+          "UIKit.UICollectionViewLayout",
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MobilePlayslips",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MobilePlayslips",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MobilePlayslips",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "MobilePlayslips",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "MobilePlayslips",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "ButtonDisplayable",
+        "printedName": "ButtonDisplayable",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "backgroundColor",
+            "printedName": "backgroundColor",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "UIKit.UIColor?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIColor",
+                    "printedName": "UIKit.UIColor",
+                    "usr": "c:objc(cs)UIColor"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:15MobilePlayslips17ButtonDisplayableP15backgroundColorSo7UIColorCSgvp",
+            "mangledName": "$s15MobilePlayslips17ButtonDisplayableP15backgroundColorSo7UIColorCSgvp",
+            "moduleName": "MobilePlayslips",
+            "protocolReq": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "UIKit.UIColor?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "UIColor",
+                        "printedName": "UIKit.UIColor",
+                        "usr": "c:objc(cs)UIColor"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:15MobilePlayslips17ButtonDisplayableP15backgroundColorSo7UIColorCSgvg",
+                "mangledName": "$s15MobilePlayslips17ButtonDisplayableP15backgroundColorSo7UIColorCSgvg",
+                "moduleName": "MobilePlayslips",
+                "genericSig": "<τ_0_0 where τ_0_0 : MobilePlayslips.ButtonDisplayable>",
+                "sugared_genericSig": "<Self where Self : MobilePlayslips.ButtonDisplayable>",
+                "protocolReq": true,
+                "reqNewWitnessTableEntry": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "titleColor",
+            "printedName": "titleColor",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "UIKit.UIColor?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIColor",
+                    "printedName": "UIKit.UIColor",
+                    "usr": "c:objc(cs)UIColor"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:15MobilePlayslips17ButtonDisplayableP10titleColorSo7UIColorCSgvp",
+            "mangledName": "$s15MobilePlayslips17ButtonDisplayableP10titleColorSo7UIColorCSgvp",
+            "moduleName": "MobilePlayslips",
+            "protocolReq": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "UIKit.UIColor?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "UIColor",
+                        "printedName": "UIKit.UIColor",
+                        "usr": "c:objc(cs)UIColor"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:15MobilePlayslips17ButtonDisplayableP10titleColorSo7UIColorCSgvg",
+                "mangledName": "$s15MobilePlayslips17ButtonDisplayableP10titleColorSo7UIColorCSgvg",
+                "moduleName": "MobilePlayslips",
+                "genericSig": "<τ_0_0 where τ_0_0 : MobilePlayslips.ButtonDisplayable>",
+                "sugared_genericSig": "<Self where Self : MobilePlayslips.ButtonDisplayable>",
+                "protocolReq": true,
+                "reqNewWitnessTableEntry": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "titleFont",
+            "printedName": "titleFont",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "UIKit.UIFont?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIFont",
+                    "printedName": "UIKit.UIFont",
+                    "usr": "c:objc(cs)UIFont"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:15MobilePlayslips17ButtonDisplayableP9titleFontSo6UIFontCSgvp",
+            "mangledName": "$s15MobilePlayslips17ButtonDisplayableP9titleFontSo6UIFontCSgvp",
+            "moduleName": "MobilePlayslips",
+            "protocolReq": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "UIKit.UIFont?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "UIFont",
+                        "printedName": "UIKit.UIFont",
+                        "usr": "c:objc(cs)UIFont"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:15MobilePlayslips17ButtonDisplayableP9titleFontSo6UIFontCSgvg",
+                "mangledName": "$s15MobilePlayslips17ButtonDisplayableP9titleFontSo6UIFontCSgvg",
+                "moduleName": "MobilePlayslips",
+                "genericSig": "<τ_0_0 where τ_0_0 : MobilePlayslips.ButtonDisplayable>",
+                "sugared_genericSig": "<Self where Self : MobilePlayslips.ButtonDisplayable>",
+                "protocolReq": true,
+                "reqNewWitnessTableEntry": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "tintColor",
+            "printedName": "tintColor",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "UIKit.UIColor?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIColor",
+                    "printedName": "UIKit.UIColor",
+                    "usr": "c:objc(cs)UIColor"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:15MobilePlayslips17ButtonDisplayableP9tintColorSo7UIColorCSgvp",
+            "mangledName": "$s15MobilePlayslips17ButtonDisplayableP9tintColorSo7UIColorCSgvp",
+            "moduleName": "MobilePlayslips",
+            "protocolReq": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "UIKit.UIColor?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "UIColor",
+                        "printedName": "UIKit.UIColor",
+                        "usr": "c:objc(cs)UIColor"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:15MobilePlayslips17ButtonDisplayableP9tintColorSo7UIColorCSgvg",
+                "mangledName": "$s15MobilePlayslips17ButtonDisplayableP9tintColorSo7UIColorCSgvg",
+                "moduleName": "MobilePlayslips",
+                "genericSig": "<τ_0_0 where τ_0_0 : MobilePlayslips.ButtonDisplayable>",
+                "sugared_genericSig": "<Self where Self : MobilePlayslips.ButtonDisplayable>",
+                "protocolReq": true,
+                "reqNewWitnessTableEntry": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "title",
+            "printedName": "title",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:15MobilePlayslips17ButtonDisplayableP5titleSSSgvp",
+            "mangledName": "$s15MobilePlayslips17ButtonDisplayableP5titleSSSgvp",
+            "moduleName": "MobilePlayslips",
+            "protocolReq": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.String?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:15MobilePlayslips17ButtonDisplayableP5titleSSSgvg",
+                "mangledName": "$s15MobilePlayslips17ButtonDisplayableP5titleSSSgvg",
+                "moduleName": "MobilePlayslips",
+                "genericSig": "<τ_0_0 where τ_0_0 : MobilePlayslips.ButtonDisplayable>",
+                "sugared_genericSig": "<Self where Self : MobilePlayslips.ButtonDisplayable>",
+                "protocolReq": true,
+                "reqNewWitnessTableEntry": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "image",
+            "printedName": "image",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "UIKit.UIImage?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIImage",
+                    "printedName": "UIKit.UIImage",
+                    "usr": "c:objc(cs)UIImage"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:15MobilePlayslips17ButtonDisplayableP5imageSo7UIImageCSgvp",
+            "mangledName": "$s15MobilePlayslips17ButtonDisplayableP5imageSo7UIImageCSgvp",
+            "moduleName": "MobilePlayslips",
+            "protocolReq": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "UIKit.UIImage?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "UIImage",
+                        "printedName": "UIKit.UIImage",
+                        "usr": "c:objc(cs)UIImage"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:15MobilePlayslips17ButtonDisplayableP5imageSo7UIImageCSgvg",
+                "mangledName": "$s15MobilePlayslips17ButtonDisplayableP5imageSo7UIImageCSgvg",
+                "moduleName": "MobilePlayslips",
+                "genericSig": "<τ_0_0 where τ_0_0 : MobilePlayslips.ButtonDisplayable>",
+                "sugared_genericSig": "<Self where Self : MobilePlayslips.ButtonDisplayable>",
+                "protocolReq": true,
+                "reqNewWitnessTableEntry": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "cornerRadius",
+            "printedName": "cornerRadius",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "CoreGraphics.CGFloat?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "CGFloat",
+                    "printedName": "CoreGraphics.CGFloat",
+                    "usr": "s:14CoreFoundation7CGFloatV"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:15MobilePlayslips17ButtonDisplayableP12cornerRadius14CoreFoundation7CGFloatVSgvp",
+            "mangledName": "$s15MobilePlayslips17ButtonDisplayableP12cornerRadius12CoreGraphics7CGFloatVSgvp",
+            "moduleName": "MobilePlayslips",
+            "protocolReq": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "CoreGraphics.CGFloat?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "CGFloat",
+                        "printedName": "CoreGraphics.CGFloat",
+                        "usr": "s:14CoreFoundation7CGFloatV"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:15MobilePlayslips17ButtonDisplayableP12cornerRadius14CoreFoundation7CGFloatVSgvg",
+                "mangledName": "$s15MobilePlayslips17ButtonDisplayableP12cornerRadius12CoreGraphics7CGFloatVSgvg",
+                "moduleName": "MobilePlayslips",
+                "genericSig": "<τ_0_0 where τ_0_0 : MobilePlayslips.ButtonDisplayable>",
+                "sugared_genericSig": "<Self where Self : MobilePlayslips.ButtonDisplayable>",
+                "protocolReq": true,
+                "reqNewWitnessTableEntry": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "borderWidth",
+            "printedName": "borderWidth",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "CGFloat",
+                "printedName": "CoreGraphics.CGFloat",
+                "usr": "s:14CoreFoundation7CGFloatV"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:15MobilePlayslips17ButtonDisplayableP11borderWidth14CoreFoundation7CGFloatVvp",
+            "mangledName": "$s15MobilePlayslips17ButtonDisplayableP11borderWidth12CoreGraphics7CGFloatVvp",
+            "moduleName": "MobilePlayslips",
+            "protocolReq": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "CGFloat",
+                    "printedName": "CoreGraphics.CGFloat",
+                    "usr": "s:14CoreFoundation7CGFloatV"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:15MobilePlayslips17ButtonDisplayableP11borderWidth14CoreFoundation7CGFloatVvg",
+                "mangledName": "$s15MobilePlayslips17ButtonDisplayableP11borderWidth12CoreGraphics7CGFloatVvg",
+                "moduleName": "MobilePlayslips",
+                "genericSig": "<τ_0_0 where τ_0_0 : MobilePlayslips.ButtonDisplayable>",
+                "sugared_genericSig": "<Self where Self : MobilePlayslips.ButtonDisplayable>",
+                "protocolReq": true,
+                "reqNewWitnessTableEntry": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "borderColor",
+            "printedName": "borderColor",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "UIKit.UIColor?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIColor",
+                    "printedName": "UIKit.UIColor",
+                    "usr": "c:objc(cs)UIColor"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:15MobilePlayslips17ButtonDisplayableP11borderColorSo7UIColorCSgvp",
+            "mangledName": "$s15MobilePlayslips17ButtonDisplayableP11borderColorSo7UIColorCSgvp",
+            "moduleName": "MobilePlayslips",
+            "protocolReq": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "UIKit.UIColor?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "UIColor",
+                        "printedName": "UIKit.UIColor",
+                        "usr": "c:objc(cs)UIColor"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:15MobilePlayslips17ButtonDisplayableP11borderColorSo7UIColorCSgvg",
+                "mangledName": "$s15MobilePlayslips17ButtonDisplayableP11borderColorSo7UIColorCSgvg",
+                "moduleName": "MobilePlayslips",
+                "genericSig": "<τ_0_0 where τ_0_0 : MobilePlayslips.ButtonDisplayable>",
+                "sugared_genericSig": "<Self where Self : MobilePlayslips.ButtonDisplayable>",
+                "protocolReq": true,
+                "reqNewWitnessTableEntry": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "disabledAlpha",
+            "printedName": "disabledAlpha",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "CGFloat",
+                "printedName": "CoreGraphics.CGFloat",
+                "usr": "s:14CoreFoundation7CGFloatV"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:15MobilePlayslips17ButtonDisplayableP13disabledAlpha14CoreFoundation7CGFloatVvp",
+            "mangledName": "$s15MobilePlayslips17ButtonDisplayableP13disabledAlpha12CoreGraphics7CGFloatVvp",
+            "moduleName": "MobilePlayslips",
+            "protocolReq": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "CGFloat",
+                    "printedName": "CoreGraphics.CGFloat",
+                    "usr": "s:14CoreFoundation7CGFloatV"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:15MobilePlayslips17ButtonDisplayableP13disabledAlpha14CoreFoundation7CGFloatVvg",
+                "mangledName": "$s15MobilePlayslips17ButtonDisplayableP13disabledAlpha12CoreGraphics7CGFloatVvg",
+                "moduleName": "MobilePlayslips",
+                "genericSig": "<τ_0_0 where τ_0_0 : MobilePlayslips.ButtonDisplayable>",
+                "sugared_genericSig": "<Self where Self : MobilePlayslips.ButtonDisplayable>",
+                "protocolReq": true,
+                "reqNewWitnessTableEntry": true,
+                "accessorKind": "get"
+              }
+            ]
+          }
+        ],
+        "declKind": "Protocol",
+        "usr": "s:15MobilePlayslips17ButtonDisplayableP",
+        "mangledName": "$s15MobilePlayslips17ButtonDisplayableP",
+        "moduleName": "MobilePlayslips",
+        "declAttributes": [
+          "AccessControl"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "MobilePlayslips",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "MobilePlayslips",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "DropDown",
+        "printedName": "DropDown",
+        "declKind": "Import",
+        "moduleName": "MobilePlayslips"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MobilePlayslips",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "MobilePlayslips"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MobilePlayslips",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MobilePlayslips",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MobilePlayslips",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MobilePlayslips",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MobilePlayslips",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MobilePlayslips",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MobilePlayslips",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "MobilePlayslips"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MobilePlayslips",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MobilePlayslips",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "MobilePlayslips"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "DrawGameIdentifier",
+        "printedName": "DrawGameIdentifier",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "powerball",
+            "printedName": "powerball",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(MobilePlayslips.DrawGameIdentifier.Type) -> MobilePlayslips.DrawGameIdentifier",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "DrawGameIdentifier",
+                    "printedName": "MobilePlayslips.DrawGameIdentifier",
+                    "usr": "s:15MobilePlayslips18DrawGameIdentifierO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "MobilePlayslips.DrawGameIdentifier.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "DrawGameIdentifier",
+                        "printedName": "MobilePlayslips.DrawGameIdentifier",
+                        "usr": "s:15MobilePlayslips18DrawGameIdentifierO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:15MobilePlayslips18DrawGameIdentifierO9powerballyA2CmF",
+            "mangledName": "$s15MobilePlayslips18DrawGameIdentifierO9powerballyA2CmF",
+            "moduleName": "MobilePlayslips"
+          },
+          {
+            "kind": "Var",
+            "name": "megabucksDoubler",
+            "printedName": "megabucksDoubler",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(MobilePlayslips.DrawGameIdentifier.Type) -> MobilePlayslips.DrawGameIdentifier",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "DrawGameIdentifier",
+                    "printedName": "MobilePlayslips.DrawGameIdentifier",
+                    "usr": "s:15MobilePlayslips18DrawGameIdentifierO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "MobilePlayslips.DrawGameIdentifier.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "DrawGameIdentifier",
+                        "printedName": "MobilePlayslips.DrawGameIdentifier",
+                        "usr": "s:15MobilePlayslips18DrawGameIdentifierO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:15MobilePlayslips18DrawGameIdentifierO16megabucksDoubleryA2CmF",
+            "mangledName": "$s15MobilePlayslips18DrawGameIdentifierO16megabucksDoubleryA2CmF",
+            "moduleName": "MobilePlayslips"
+          },
+          {
+            "kind": "Var",
+            "name": "massCash",
+            "printedName": "massCash",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(MobilePlayslips.DrawGameIdentifier.Type) -> MobilePlayslips.DrawGameIdentifier",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "DrawGameIdentifier",
+                    "printedName": "MobilePlayslips.DrawGameIdentifier",
+                    "usr": "s:15MobilePlayslips18DrawGameIdentifierO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "MobilePlayslips.DrawGameIdentifier.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "DrawGameIdentifier",
+                        "printedName": "MobilePlayslips.DrawGameIdentifier",
+                        "usr": "s:15MobilePlayslips18DrawGameIdentifierO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:15MobilePlayslips18DrawGameIdentifierO8massCashyA2CmF",
+            "mangledName": "$s15MobilePlayslips18DrawGameIdentifierO8massCashyA2CmF",
+            "moduleName": "MobilePlayslips"
+          },
+          {
+            "kind": "Var",
+            "name": "megaMillions",
+            "printedName": "megaMillions",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(MobilePlayslips.DrawGameIdentifier.Type) -> MobilePlayslips.DrawGameIdentifier",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "DrawGameIdentifier",
+                    "printedName": "MobilePlayslips.DrawGameIdentifier",
+                    "usr": "s:15MobilePlayslips18DrawGameIdentifierO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "MobilePlayslips.DrawGameIdentifier.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "DrawGameIdentifier",
+                        "printedName": "MobilePlayslips.DrawGameIdentifier",
+                        "usr": "s:15MobilePlayslips18DrawGameIdentifierO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:15MobilePlayslips18DrawGameIdentifierO12megaMillionsyA2CmF",
+            "mangledName": "$s15MobilePlayslips18DrawGameIdentifierO12megaMillionsyA2CmF",
+            "moduleName": "MobilePlayslips"
+          },
+          {
+            "kind": "Var",
+            "name": "luckyForLife",
+            "printedName": "luckyForLife",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(MobilePlayslips.DrawGameIdentifier.Type) -> MobilePlayslips.DrawGameIdentifier",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "DrawGameIdentifier",
+                    "printedName": "MobilePlayslips.DrawGameIdentifier",
+                    "usr": "s:15MobilePlayslips18DrawGameIdentifierO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "MobilePlayslips.DrawGameIdentifier.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "DrawGameIdentifier",
+                        "printedName": "MobilePlayslips.DrawGameIdentifier",
+                        "usr": "s:15MobilePlayslips18DrawGameIdentifierO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:15MobilePlayslips18DrawGameIdentifierO12luckyForLifeyA2CmF",
+            "mangledName": "$s15MobilePlayslips18DrawGameIdentifierO12luckyForLifeyA2CmF",
+            "moduleName": "MobilePlayslips"
+          },
+          {
+            "kind": "Var",
+            "name": "theNumbersGame",
+            "printedName": "theNumbersGame",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(MobilePlayslips.DrawGameIdentifier.Type) -> MobilePlayslips.DrawGameIdentifier",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "DrawGameIdentifier",
+                    "printedName": "MobilePlayslips.DrawGameIdentifier",
+                    "usr": "s:15MobilePlayslips18DrawGameIdentifierO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "MobilePlayslips.DrawGameIdentifier.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "DrawGameIdentifier",
+                        "printedName": "MobilePlayslips.DrawGameIdentifier",
+                        "usr": "s:15MobilePlayslips18DrawGameIdentifierO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:15MobilePlayslips18DrawGameIdentifierO010theNumbersD0yA2CmF",
+            "mangledName": "$s15MobilePlayslips18DrawGameIdentifierO010theNumbersD0yA2CmF",
+            "moduleName": "MobilePlayslips"
+          },
+          {
+            "kind": "Var",
+            "name": "allOrNothing",
+            "printedName": "allOrNothing",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(MobilePlayslips.DrawGameIdentifier.Type) -> MobilePlayslips.DrawGameIdentifier",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "DrawGameIdentifier",
+                    "printedName": "MobilePlayslips.DrawGameIdentifier",
+                    "usr": "s:15MobilePlayslips18DrawGameIdentifierO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "MobilePlayslips.DrawGameIdentifier.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "DrawGameIdentifier",
+                        "printedName": "MobilePlayslips.DrawGameIdentifier",
+                        "usr": "s:15MobilePlayslips18DrawGameIdentifierO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:15MobilePlayslips18DrawGameIdentifierO12allOrNothingyA2CmF",
+            "mangledName": "$s15MobilePlayslips18DrawGameIdentifierO12allOrNothingyA2CmF",
+            "moduleName": "MobilePlayslips"
+          },
+          {
+            "kind": "Var",
+            "name": "keno",
+            "printedName": "keno",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(MobilePlayslips.DrawGameIdentifier.Type) -> MobilePlayslips.DrawGameIdentifier",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "DrawGameIdentifier",
+                    "printedName": "MobilePlayslips.DrawGameIdentifier",
+                    "usr": "s:15MobilePlayslips18DrawGameIdentifierO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "MobilePlayslips.DrawGameIdentifier.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "DrawGameIdentifier",
+                        "printedName": "MobilePlayslips.DrawGameIdentifier",
+                        "usr": "s:15MobilePlayslips18DrawGameIdentifierO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:15MobilePlayslips18DrawGameIdentifierO4kenoyA2CmF",
+            "mangledName": "$s15MobilePlayslips18DrawGameIdentifierO4kenoyA2CmF",
+            "moduleName": "MobilePlayslips"
+          },
+          {
+            "kind": "Var",
+            "name": "wheelOfLuck",
+            "printedName": "wheelOfLuck",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(MobilePlayslips.DrawGameIdentifier.Type) -> MobilePlayslips.DrawGameIdentifier",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "DrawGameIdentifier",
+                    "printedName": "MobilePlayslips.DrawGameIdentifier",
+                    "usr": "s:15MobilePlayslips18DrawGameIdentifierO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "MobilePlayslips.DrawGameIdentifier.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "DrawGameIdentifier",
+                        "printedName": "MobilePlayslips.DrawGameIdentifier",
+                        "usr": "s:15MobilePlayslips18DrawGameIdentifierO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:15MobilePlayslips18DrawGameIdentifierO11wheelOfLuckyA2CmF",
+            "mangledName": "$s15MobilePlayslips18DrawGameIdentifierO11wheelOfLuckyA2CmF",
+            "moduleName": "MobilePlayslips"
+          },
+          {
+            "kind": "Var",
+            "name": "none",
+            "printedName": "none",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(MobilePlayslips.DrawGameIdentifier.Type) -> MobilePlayslips.DrawGameIdentifier",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "DrawGameIdentifier",
+                    "printedName": "MobilePlayslips.DrawGameIdentifier",
+                    "usr": "s:15MobilePlayslips18DrawGameIdentifierO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "MobilePlayslips.DrawGameIdentifier.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "DrawGameIdentifier",
+                        "printedName": "MobilePlayslips.DrawGameIdentifier",
+                        "usr": "s:15MobilePlayslips18DrawGameIdentifierO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:15MobilePlayslips18DrawGameIdentifierO4noneyA2CmF",
+            "mangledName": "$s15MobilePlayslips18DrawGameIdentifierO4noneyA2CmF",
+            "moduleName": "MobilePlayslips"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(from:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "DrawGameIdentifier",
+                "printedName": "MobilePlayslips.DrawGameIdentifier",
+                "usr": "s:15MobilePlayslips18DrawGameIdentifierO"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Decoder",
+                "printedName": "Swift.Decoder",
+                "usr": "s:s7DecoderP"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:15MobilePlayslips18DrawGameIdentifierO4fromACs7Decoder_p_tKcfc",
+            "mangledName": "$s15MobilePlayslips18DrawGameIdentifierO4fromACs7Decoder_p_tKcfc",
+            "moduleName": "MobilePlayslips",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "throwing": true,
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(rawValue:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "MobilePlayslips.DrawGameIdentifier?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "DrawGameIdentifier",
+                    "printedName": "MobilePlayslips.DrawGameIdentifier",
+                    "usr": "s:15MobilePlayslips18DrawGameIdentifierO"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:15MobilePlayslips18DrawGameIdentifierO8rawValueACSgSS_tcfc",
+            "mangledName": "$s15MobilePlayslips18DrawGameIdentifierO8rawValueACSgSS_tcfc",
+            "moduleName": "MobilePlayslips",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Var",
+            "name": "rawValue",
+            "printedName": "rawValue",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:15MobilePlayslips18DrawGameIdentifierO8rawValueSSvp",
+            "mangledName": "$s15MobilePlayslips18DrawGameIdentifierO8rawValueSSvp",
+            "moduleName": "MobilePlayslips",
+            "implicit": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:15MobilePlayslips18DrawGameIdentifierO8rawValueSSvg",
+                "mangledName": "$s15MobilePlayslips18DrawGameIdentifierO8rawValueSSvg",
+                "moduleName": "MobilePlayslips",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          }
+        ],
+        "declKind": "Enum",
+        "usr": "s:15MobilePlayslips18DrawGameIdentifierO",
+        "mangledName": "$s15MobilePlayslips18DrawGameIdentifierO",
+        "moduleName": "MobilePlayslips",
+        "declAttributes": [
+          "AccessControl"
+        ],
+        "enumRawTypeName": "String",
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "RawRepresentable",
+            "printedName": "RawRepresentable",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "RawValue",
+                "printedName": "RawValue",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:SY",
+            "mangledName": "$sSY"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Decodable",
+            "printedName": "Decodable",
+            "usr": "s:Se",
+            "mangledName": "$sSe"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Encodable",
+            "printedName": "Encodable",
+            "usr": "s:SE",
+            "mangledName": "$sSE"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "MobilePlayslips",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MobilePlayslips",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MobilePlayslips",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "MobilePlayslips",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Lottie",
+        "printedName": "Lottie",
+        "declKind": "Import",
+        "moduleName": "MobilePlayslips"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MobilePlayslips",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "MobilePlayslips",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MobilePlayslips",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MobilePlayslips",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MobilePlayslips",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "ReSwift",
+        "printedName": "ReSwift",
+        "declKind": "Import",
+        "moduleName": "MobilePlayslips",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "ReSwift",
+        "printedName": "ReSwift",
+        "declKind": "Import",
+        "moduleName": "MobilePlayslips",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "MobilePlayslipsDelegate",
+        "printedName": "MobilePlayslipsDelegate",
+        "children": [
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "MobilePlayslipsDelegate",
+                "printedName": "MobilePlayslips.MobilePlayslipsDelegate",
+                "usr": "s:15MobilePlayslips0aB8DelegateC"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:15MobilePlayslips0aB8DelegateCACycfc",
+            "mangledName": "$s15MobilePlayslips0aB8DelegateCACycfc",
+            "moduleName": "MobilePlayslips",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Function",
+            "name": "applicationClosed",
+            "printedName": "applicationClosed()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:15MobilePlayslips0aB8DelegateC17applicationClosedyyF",
+            "mangledName": "$s15MobilePlayslips0aB8DelegateC17applicationClosedyyF",
+            "moduleName": "MobilePlayslips",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "setHost",
+            "printedName": "setHost(host:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:15MobilePlayslips0aB8DelegateC7setHost4hostySS_tF",
+            "mangledName": "$s15MobilePlayslips0aB8DelegateC7setHost4hostySS_tF",
+            "moduleName": "MobilePlayslips",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "setLottery",
+            "printedName": "setLottery(lottery:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:15MobilePlayslips0aB8DelegateC10setLottery7lotteryySS_tF",
+            "mangledName": "$s15MobilePlayslips0aB8DelegateC10setLottery7lotteryySS_tF",
+            "moduleName": "MobilePlayslips",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "applicationLaunched",
+            "printedName": "applicationLaunched()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:15MobilePlayslips0aB8DelegateC19applicationLaunchedyyF",
+            "mangledName": "$s15MobilePlayslips0aB8DelegateC19applicationLaunchedyyF",
+            "moduleName": "MobilePlayslips",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "s:15MobilePlayslips0aB8DelegateC",
+        "mangledName": "$s15MobilePlayslips0aB8DelegateC",
+        "moduleName": "MobilePlayslips",
+        "declAttributes": [
+          "AccessControl"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "ReSwift",
+        "printedName": "ReSwift",
+        "declKind": "Import",
+        "moduleName": "MobilePlayslips",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "CryptoKit",
+        "printedName": "CryptoKit",
+        "declKind": "Import",
+        "moduleName": "MobilePlayslips"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MobilePlayslips",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MobilePlayslips",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "ReSwift",
+        "printedName": "ReSwift",
+        "declKind": "Import",
+        "moduleName": "MobilePlayslips"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "MobilePlayslips",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "MobilePlayslips",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "MobilePlayslips",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "ReSwift",
+        "printedName": "ReSwift",
+        "declKind": "Import",
+        "moduleName": "MobilePlayslips"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "MobilePlayslips",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "MobilePlayslips",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "ReSwift",
+        "printedName": "ReSwift",
+        "declKind": "Import",
+        "moduleName": "MobilePlayslips"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MobilePlayslips",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "MobilePlayslips",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "ReSwift",
+        "printedName": "ReSwift",
+        "declKind": "Import",
+        "moduleName": "MobilePlayslips"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MobilePlayslips",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "MobilePlayslips"
+      },
+      {
+        "kind": "Import",
+        "name": "ReSwift",
+        "printedName": "ReSwift",
+        "declKind": "Import",
+        "moduleName": "MobilePlayslips"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "MobilePlayslips",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "MobilePlayslips",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MobilePlayslips",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "MobilePlayslips"
+      },
+      {
+        "kind": "Import",
+        "name": "ReSwift",
+        "printedName": "ReSwift",
+        "declKind": "Import",
+        "moduleName": "MobilePlayslips"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "MobilePlayslips",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MobilePlayslips",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "MobilePlayslips",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "ReSwift",
+        "printedName": "ReSwift",
+        "declKind": "Import",
+        "moduleName": "MobilePlayslips"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "MobilePlayslips",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "ReSwift",
+        "printedName": "ReSwift",
+        "declKind": "Import",
+        "moduleName": "MobilePlayslips"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "MobilePlayslips",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "MobilePlayslips",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "MobilePlayslips",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "MobilePlayslips",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "ReSwift",
+        "printedName": "ReSwift",
+        "declKind": "Import",
+        "moduleName": "MobilePlayslips",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "MobilePlayslips"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "MobilePlayslips",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "MobilePlayslips",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "MobilePlayslips",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "MobilePlayslips",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "MobilePlayslips",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "MobilePlayslips",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "ReSwift",
+        "printedName": "ReSwift",
+        "declKind": "Import",
+        "moduleName": "MobilePlayslips"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "MobilePlayslips",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "MobilePlayslips",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "ReSwift",
+        "printedName": "ReSwift",
+        "declKind": "Import",
+        "moduleName": "MobilePlayslips"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "MobilePlayslips",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "ReSwift",
+        "printedName": "ReSwift",
+        "declKind": "Import",
+        "moduleName": "MobilePlayslips"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "MobilePlayslips",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "ReSwift",
+        "printedName": "ReSwift",
+        "declKind": "Import",
+        "moduleName": "MobilePlayslips"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "MobilePlayslips",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "ReSwift",
+        "printedName": "ReSwift",
+        "declKind": "Import",
+        "moduleName": "MobilePlayslips"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "MobilePlayslips",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MobilePlayslips",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "CryptoKit",
+        "printedName": "CryptoKit",
+        "declKind": "Import",
+        "moduleName": "MobilePlayslips"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MobilePlayslips",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MobilePlayslips",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "MobilePlayslips"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MobilePlayslips",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MobilePlayslips",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MobilePlayslips",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MobilePlayslips",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MobilePlayslips",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MobilePlayslips",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MobilePlayslips",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MobilePlayslips",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MobilePlayslips",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MobilePlayslips",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MobilePlayslips",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MobilePlayslips",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MobilePlayslips",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MobilePlayslips",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MobilePlayslips",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MobilePlayslips",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MobilePlayslips",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MobilePlayslips",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MobilePlayslips",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MobilePlayslips",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MobilePlayslips",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "ReSwift",
+        "printedName": "ReSwift",
+        "declKind": "Import",
+        "moduleName": "MobilePlayslips"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MobilePlayslips",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MobilePlayslips",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MobilePlayslips",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "ReSwift",
+        "printedName": "ReSwift",
+        "declKind": "Import",
+        "moduleName": "MobilePlayslips"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MobilePlayslips",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MobilePlayslips",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MobilePlayslips",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "ReSwift",
+        "printedName": "ReSwift",
+        "declKind": "Import",
+        "moduleName": "MobilePlayslips"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MobilePlayslips",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MobilePlayslips",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIColor_Hex_Swift",
+        "printedName": "UIColor_Hex_Swift",
+        "declKind": "Import",
+        "moduleName": "MobilePlayslips"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "MobilePlayslips"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "MobilePlayslips",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MobilePlayslips",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIColor_Hex_Swift",
+        "printedName": "UIColor_Hex_Swift",
+        "declKind": "Import",
+        "moduleName": "MobilePlayslips"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "MobilePlayslips",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MobilePlayslips",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "MobilePlayslips",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "MobilePlayslips",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MobilePlayslips",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "MobilePlayslips",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "UIFont",
+        "printedName": "UIFont",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "igBoldFont",
+            "printedName": "igBoldFont(size:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "UIFont",
+                "printedName": "UIKit.UIFont",
+                "usr": "c:objc(cs)UIFont"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "CGFloat",
+                "printedName": "CoreGraphics.CGFloat",
+                "usr": "s:14CoreFoundation7CGFloatV"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:So6UIFontC15MobilePlayslipsE10igBoldFont4sizeAB14CoreFoundation7CGFloatV_tFZ",
+            "mangledName": "$sSo6UIFontC15MobilePlayslipsE10igBoldFont4sizeAB12CoreGraphics7CGFloatV_tFZ",
+            "moduleName": "MobilePlayslips",
+            "static": true,
+            "declAttributes": [
+              "Final"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "igBoldSlabFont",
+            "printedName": "igBoldSlabFont(size:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "UIFont",
+                "printedName": "UIKit.UIFont",
+                "usr": "c:objc(cs)UIFont"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "CGFloat",
+                "printedName": "CoreGraphics.CGFloat",
+                "usr": "s:14CoreFoundation7CGFloatV"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:So6UIFontC15MobilePlayslipsE14igBoldSlabFont4sizeAB14CoreFoundation7CGFloatV_tFZ",
+            "mangledName": "$sSo6UIFontC15MobilePlayslipsE14igBoldSlabFont4sizeAB12CoreGraphics7CGFloatV_tFZ",
+            "moduleName": "MobilePlayslips",
+            "static": true,
+            "declAttributes": [
+              "Final"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "igBoldItalicFont",
+            "printedName": "igBoldItalicFont(size:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "UIFont",
+                "printedName": "UIKit.UIFont",
+                "usr": "c:objc(cs)UIFont"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "CGFloat",
+                "printedName": "CoreGraphics.CGFloat",
+                "usr": "s:14CoreFoundation7CGFloatV"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:So6UIFontC15MobilePlayslipsE16igBoldItalicFont4sizeAB14CoreFoundation7CGFloatV_tFZ",
+            "mangledName": "$sSo6UIFontC15MobilePlayslipsE16igBoldItalicFont4sizeAB12CoreGraphics7CGFloatV_tFZ",
+            "moduleName": "MobilePlayslips",
+            "static": true,
+            "declAttributes": [
+              "Final"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "igRegularFont",
+            "printedName": "igRegularFont(size:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "UIFont",
+                "printedName": "UIKit.UIFont",
+                "usr": "c:objc(cs)UIFont"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "CGFloat",
+                "printedName": "CoreGraphics.CGFloat",
+                "usr": "s:14CoreFoundation7CGFloatV"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:So6UIFontC15MobilePlayslipsE13igRegularFont4sizeAB14CoreFoundation7CGFloatV_tFZ",
+            "mangledName": "$sSo6UIFontC15MobilePlayslipsE13igRegularFont4sizeAB12CoreGraphics7CGFloatV_tFZ",
+            "moduleName": "MobilePlayslips",
+            "static": true,
+            "declAttributes": [
+              "Final"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "igRegularSlabFont",
+            "printedName": "igRegularSlabFont(size:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "UIFont",
+                "printedName": "UIKit.UIFont",
+                "usr": "c:objc(cs)UIFont"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "CGFloat",
+                "printedName": "CoreGraphics.CGFloat",
+                "usr": "s:14CoreFoundation7CGFloatV"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:So6UIFontC15MobilePlayslipsE17igRegularSlabFont4sizeAB14CoreFoundation7CGFloatV_tFZ",
+            "mangledName": "$sSo6UIFontC15MobilePlayslipsE17igRegularSlabFont4sizeAB12CoreGraphics7CGFloatV_tFZ",
+            "moduleName": "MobilePlayslips",
+            "static": true,
+            "declAttributes": [
+              "Final"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "igItalicsFont",
+            "printedName": "igItalicsFont(size:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "UIFont",
+                "printedName": "UIKit.UIFont",
+                "usr": "c:objc(cs)UIFont"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "CGFloat",
+                "printedName": "CoreGraphics.CGFloat",
+                "usr": "s:14CoreFoundation7CGFloatV"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:So6UIFontC15MobilePlayslipsE13igItalicsFont4sizeAB14CoreFoundation7CGFloatV_tFZ",
+            "mangledName": "$sSo6UIFontC15MobilePlayslipsE13igItalicsFont4sizeAB12CoreGraphics7CGFloatV_tFZ",
+            "moduleName": "MobilePlayslips",
+            "static": true,
+            "declAttributes": [
+              "Final"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "ganache",
+            "printedName": "ganache(size:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "UIFont",
+                "printedName": "UIKit.UIFont",
+                "usr": "c:objc(cs)UIFont"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "CGFloat",
+                "printedName": "CoreGraphics.CGFloat",
+                "usr": "s:14CoreFoundation7CGFloatV"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:So6UIFontC15MobilePlayslipsE7ganache4sizeAB14CoreFoundation7CGFloatV_tFZ",
+            "mangledName": "$sSo6UIFontC15MobilePlayslipsE7ganache4sizeAB12CoreGraphics7CGFloatV_tFZ",
+            "moduleName": "MobilePlayslips",
+            "static": true,
+            "declAttributes": [
+              "Final"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "c:objc(cs)UIFont",
+        "moduleName": "UIKit",
+        "isOpen": true,
+        "intro_iOS": "2.0",
+        "objc_name": "UIFont",
+        "declAttributes": [
+          "Available",
+          "ObjC",
+          "SynthesizedProtocol",
+          "NonSendable",
+          "Sendable",
+          "Dynamic"
+        ],
+        "superclassUsr": "c:objc(cs)NSObject",
+        "isExternal": true,
+        "inheritsConvenienceInitializers": true,
+        "superclassNames": [
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          }
+        ]
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": [
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/View\/ChipList\/AdjustableTapAreaButton.swift",
+      "kind": "IntegerLiteral",
+      "offset": 258,
+      "length": 2,
+      "value": "10"
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/View\/ChipList\/AdjustableTapAreaButton.swift",
+      "kind": "IntegerLiteral",
+      "offset": 296,
+      "length": 2,
+      "value": "10"
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/View\/AlignedCollectionViewFlowLayout.swift",
+      "kind": "StringLiteral",
+      "offset": 2876,
+      "length": 31,
+      "value": "\"MobilePlayslips.AlignedCollectionViewFlowLayout\""
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/View\/BrandedGameLabel.swift",
+      "kind": "StringLiteral",
+      "offset": 124,
+      "length": 16,
+      "value": "\"MobilePlayslips.BrandedGameLabel\""
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/View\/BrandedGameLabelCollectionView.swift",
+      "kind": "StringLiteral",
+      "offset": 133,
+      "length": 30,
+      "value": "\"MobilePlayslips.BrandedGameLabelCollectionView\""
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/View\/BrandedGameLabelCollectionView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 3793,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/View\/BrandedGameLabelCollectionView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4366,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/View\/Button.swift",
+      "kind": "IntegerLiteral",
+      "offset": 464,
+      "length": 2,
+      "value": "17"
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/View\/Button.swift",
+      "kind": "FloatLiteral",
+      "offset": 539,
+      "length": 3,
+      "value": "0.0"
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/View\/Button.swift",
+      "kind": "FloatLiteral",
+      "offset": 578,
+      "length": 3,
+      "value": "0.7"
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/View\/Button.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1874,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/View\/Button.swift",
+      "kind": "FloatLiteral",
+      "offset": 2436,
+      "length": 3,
+      "value": "0.7"
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/View\/Button.swift",
+      "kind": "FloatLiteral",
+      "offset": 2489,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/View\/Button.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2637,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/View\/Button.swift",
+      "kind": "FloatLiteral",
+      "offset": 2749,
+      "length": 3,
+      "value": "0.0"
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/View\/Button.swift",
+      "kind": "FloatLiteral",
+      "offset": 2755,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/View\/Button.swift",
+      "kind": "FloatLiteral",
+      "offset": 2802,
+      "length": 3,
+      "value": "0.0"
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/View\/Button.swift",
+      "kind": "FloatLiteral",
+      "offset": 2808,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/View\/Button.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2351,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/View\/Button.swift",
+      "kind": "FloatLiteral",
+      "offset": 3193,
+      "length": 3,
+      "value": "0.7"
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/View\/Button.swift",
+      "kind": "FloatLiteral",
+      "offset": 3199,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/View\/Button.swift",
+      "kind": "BooleanLiteral",
+      "offset": 3093,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/View\/ChipList\/ChipList.swift",
+      "kind": "BooleanLiteral",
+      "offset": 921,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/View\/ChipList\/ChipList.swift",
+      "kind": "BooleanLiteral",
+      "offset": 989,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/View\/ChipList\/ChipList.swift",
+      "kind": "Array",
+      "offset": 807,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/View\/ChipList\/ChipList.swift",
+      "kind": "StringLiteral",
+      "offset": 373,
+      "length": 8,
+      "value": "\"MobilePlayslips.ChipList\""
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Extensions\/DateFormatter+extension.swift",
+      "kind": "BooleanLiteral",
+      "offset": 362,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Extensions\/Double+extension.swift",
+      "kind": "IntegerLiteral",
+      "offset": 228,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Extensions\/Double+extension.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1339,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Model\/DrawGameIdentifier.swift",
+      "kind": "StringLiteral",
+      "offset": 263,
+      "length": 11,
+      "value": "\"powerball\""
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Model\/DrawGameIdentifier.swift",
+      "kind": "StringLiteral",
+      "offset": 303,
+      "length": 11,
+      "value": "\"megabucks\""
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Model\/DrawGameIdentifier.swift",
+      "kind": "StringLiteral",
+      "offset": 335,
+      "length": 11,
+      "value": "\"mass_cash\""
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Model\/DrawGameIdentifier.swift",
+      "kind": "StringLiteral",
+      "offset": 371,
+      "length": 15,
+      "value": "\"mega_millions\""
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Model\/DrawGameIdentifier.swift",
+      "kind": "StringLiteral",
+      "offset": 411,
+      "length": 16,
+      "value": "\"lucky_for_life\""
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Model\/DrawGameIdentifier.swift",
+      "kind": "StringLiteral",
+      "offset": 454,
+      "length": 18,
+      "value": "\"the_numbers_game\""
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Model\/DrawGameIdentifier.swift",
+      "kind": "StringLiteral",
+      "offset": 497,
+      "length": 16,
+      "value": "\"all-or-nothing\""
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Model\/DrawGameIdentifier.swift",
+      "kind": "StringLiteral",
+      "offset": 530,
+      "length": 6,
+      "value": "\"keno\""
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Model\/DrawGameIdentifier.swift",
+      "kind": "StringLiteral",
+      "offset": 560,
+      "length": 15,
+      "value": "\"wheel-of-luck\""
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Model\/DrawGameIdentifier.swift",
+      "kind": "StringLiteral",
+      "offset": 263,
+      "length": 11,
+      "value": "\"powerball\""
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Model\/DrawGameIdentifier.swift",
+      "kind": "StringLiteral",
+      "offset": 303,
+      "length": 11,
+      "value": "\"megabucks\""
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Model\/DrawGameIdentifier.swift",
+      "kind": "StringLiteral",
+      "offset": 335,
+      "length": 11,
+      "value": "\"mass_cash\""
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Model\/DrawGameIdentifier.swift",
+      "kind": "StringLiteral",
+      "offset": 371,
+      "length": 15,
+      "value": "\"mega_millions\""
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Model\/DrawGameIdentifier.swift",
+      "kind": "StringLiteral",
+      "offset": 411,
+      "length": 16,
+      "value": "\"lucky_for_life\""
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Model\/DrawGameIdentifier.swift",
+      "kind": "StringLiteral",
+      "offset": 454,
+      "length": 18,
+      "value": "\"the_numbers_game\""
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Model\/DrawGameIdentifier.swift",
+      "kind": "StringLiteral",
+      "offset": 497,
+      "length": 16,
+      "value": "\"all-or-nothing\""
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Model\/DrawGameIdentifier.swift",
+      "kind": "StringLiteral",
+      "offset": 530,
+      "length": 6,
+      "value": "\"keno\""
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Model\/DrawGameIdentifier.swift",
+      "kind": "StringLiteral",
+      "offset": 560,
+      "length": 15,
+      "value": "\"wheel-of-luck\""
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/View\/LotteryAnimationView.swift",
+      "kind": "StringLiteral",
+      "offset": 246,
+      "length": 27,
+      "value": "\"number_ball_white_outline\""
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/View\/LotteryAnimationView.swift",
+      "kind": "StringLiteral",
+      "offset": 303,
+      "length": 27,
+      "value": "\"number_ball_black_outline\""
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/View\/LotteryAnimationView.swift",
+      "kind": "StringLiteral",
+      "offset": 362,
+      "length": 24,
+      "value": "\"number_ball_black_fill\""
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/View\/LotteryAnimationView.swift",
+      "kind": "StringLiteral",
+      "offset": 418,
+      "length": 24,
+      "value": "\"number_ball_white_fill\""
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/View\/LotteryAnimationView.swift",
+      "kind": "StringLiteral",
+      "offset": 473,
+      "length": 26,
+      "value": "\"number_rectangle_loading\""
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/View\/LotteryAnimationView.swift",
+      "kind": "StringLiteral",
+      "offset": 519,
+      "length": 21,
+      "value": "\"number_ball_loading\""
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/View\/LotteryAnimationView.swift",
+      "kind": "StringLiteral",
+      "offset": 246,
+      "length": 27,
+      "value": "\"number_ball_white_outline\""
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/View\/LotteryAnimationView.swift",
+      "kind": "StringLiteral",
+      "offset": 303,
+      "length": 27,
+      "value": "\"number_ball_black_outline\""
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/View\/LotteryAnimationView.swift",
+      "kind": "StringLiteral",
+      "offset": 362,
+      "length": 24,
+      "value": "\"number_ball_black_fill\""
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/View\/LotteryAnimationView.swift",
+      "kind": "StringLiteral",
+      "offset": 418,
+      "length": 24,
+      "value": "\"number_ball_white_fill\""
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/View\/LotteryAnimationView.swift",
+      "kind": "StringLiteral",
+      "offset": 473,
+      "length": 26,
+      "value": "\"number_rectangle_loading\""
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/View\/LotteryAnimationView.swift",
+      "kind": "StringLiteral",
+      "offset": 519,
+      "length": 21,
+      "value": "\"number_ball_loading\""
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/View\/LotteryAnimationView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 648,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/View\/LotteryAnimationView.swift",
+      "kind": "StringLiteral",
+      "offset": 836,
+      "length": 7,
+      "value": "\".json\""
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/View\/LotteryAnimationView.swift",
+      "kind": "StringLiteral",
+      "offset": 550,
+      "length": 20,
+      "value": "\"MobilePlayslips.LotteryAnimationView\""
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Extensions\/LotteryDateFormatter.swift",
+      "kind": "StringLiteral",
+      "offset": 2271,
+      "length": 12,
+      "value": "\"yyyy-MM-dd\""
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Extensions\/LotteryDateFormatter.swift",
+      "kind": "StringLiteral",
+      "offset": 2328,
+      "length": 16,
+      "value": "\"EEE MMM d yyyy\""
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Extensions\/LotteryDateFormatter.swift",
+      "kind": "StringLiteral",
+      "offset": 2364,
+      "length": 7,
+      "value": "\"HH:mm\""
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Extensions\/LotteryDateFormatter.swift",
+      "kind": "StringLiteral",
+      "offset": 2402,
+      "length": 27,
+      "value": "\"yyyy-MM-dd'T'HH:mm:ss.SSS\""
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Extensions\/LotteryDateFormatter.swift",
+      "kind": "StringLiteral",
+      "offset": 2450,
+      "length": 8,
+      "value": "\"h:mm a\""
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Extensions\/LotteryDateFormatter.swift",
+      "kind": "StringLiteral",
+      "offset": 2482,
+      "length": 21,
+      "value": "\"'on' MMM d, hh:mm a\""
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Extensions\/LotteryDateFormatter.swift",
+      "kind": "StringLiteral",
+      "offset": 2536,
+      "length": 13,
+      "value": "\"MMM d, yyyy\""
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Extensions\/LotteryDateFormatter.swift",
+      "kind": "StringLiteral",
+      "offset": 2580,
+      "length": 24,
+      "value": "\"EEE, MMM d 'at' h:mm a\""
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Extensions\/LotteryDateFormatter.swift",
+      "kind": "StringLiteral",
+      "offset": 2630,
+      "length": 32,
+      "value": "\"yyyy-MM-dd'T'HH:mm:ss.SSSZZZZZ\""
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Extensions\/LotteryDateFormatter.swift",
+      "kind": "StringLiteral",
+      "offset": 2686,
+      "length": 28,
+      "value": "\"'Drawing Closed at' h:mm a\""
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Extensions\/LotteryDateFormatter.swift",
+      "kind": "StringLiteral",
+      "offset": 2739,
+      "length": 13,
+      "value": "\"MMMM d yyyy\""
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Extensions\/LotteryDateFormatter.swift",
+      "kind": "StringLiteral",
+      "offset": 2786,
+      "length": 20,
+      "value": "\"EEEE, MMMM d, yyyy\""
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Extensions\/LotteryDateFormatter.swift",
+      "kind": "StringLiteral",
+      "offset": 2271,
+      "length": 12,
+      "value": "\"yyyy-MM-dd\""
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Extensions\/LotteryDateFormatter.swift",
+      "kind": "StringLiteral",
+      "offset": 2328,
+      "length": 16,
+      "value": "\"EEE MMM d yyyy\""
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Extensions\/LotteryDateFormatter.swift",
+      "kind": "StringLiteral",
+      "offset": 2364,
+      "length": 7,
+      "value": "\"HH:mm\""
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Extensions\/LotteryDateFormatter.swift",
+      "kind": "StringLiteral",
+      "offset": 2402,
+      "length": 27,
+      "value": "\"yyyy-MM-dd'T'HH:mm:ss.SSS\""
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Extensions\/LotteryDateFormatter.swift",
+      "kind": "StringLiteral",
+      "offset": 2450,
+      "length": 8,
+      "value": "\"h:mm a\""
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Extensions\/LotteryDateFormatter.swift",
+      "kind": "StringLiteral",
+      "offset": 2482,
+      "length": 21,
+      "value": "\"'on' MMM d, hh:mm a\""
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Extensions\/LotteryDateFormatter.swift",
+      "kind": "StringLiteral",
+      "offset": 2536,
+      "length": 13,
+      "value": "\"MMM d, yyyy\""
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Extensions\/LotteryDateFormatter.swift",
+      "kind": "StringLiteral",
+      "offset": 2580,
+      "length": 24,
+      "value": "\"EEE, MMM d 'at' h:mm a\""
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Extensions\/LotteryDateFormatter.swift",
+      "kind": "StringLiteral",
+      "offset": 2630,
+      "length": 32,
+      "value": "\"yyyy-MM-dd'T'HH:mm:ss.SSSZZZZZ\""
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Extensions\/LotteryDateFormatter.swift",
+      "kind": "StringLiteral",
+      "offset": 2686,
+      "length": 28,
+      "value": "\"'Drawing Closed at' h:mm a\""
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Extensions\/LotteryDateFormatter.swift",
+      "kind": "StringLiteral",
+      "offset": 2739,
+      "length": 13,
+      "value": "\"MMMM d yyyy\""
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Extensions\/LotteryDateFormatter.swift",
+      "kind": "StringLiteral",
+      "offset": 2786,
+      "length": 20,
+      "value": "\"EEEE, MMMM d, yyyy\""
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/LotteryViewControllerBase.swift",
+      "kind": "StringLiteral",
+      "offset": 427,
+      "length": 13,
+      "value": "\"backChevron\""
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSAddOnItemViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 753,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSAddOnViewController.swift",
+      "kind": "Array",
+      "offset": 1588,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSAddOnViewController.swift",
+      "kind": "Dictionary",
+      "offset": 1630,
+      "length": 3,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSAddOnViewController.swift",
+      "kind": "Array",
+      "offset": 1832,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSCompletedOrderItemViewController.swift",
+      "kind": "Dictionary",
+      "offset": 864,
+      "length": 3,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSCompletedOrderItemViewController.swift",
+      "kind": "FloatLiteral",
+      "offset": 4203,
+      "length": 3,
+      "value": "4.0"
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSCompletedOrderPageViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 142,
+      "length": 35,
+      "value": "\"MobilePlayslips.MPSCompletedOrderPageViewController\""
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSGameSelectionViewController.swift",
+      "kind": "Array",
+      "offset": 326,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSLineBuilderViewController.swift",
+      "kind": "Array",
+      "offset": 561,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSLineBuilderViewController.swift",
+      "kind": "Dictionary",
+      "offset": 610,
+      "length": 3,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSLineBuilderViewController.swift",
+      "kind": "Array",
+      "offset": 682,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSLineBuilderViewController.swift",
+      "kind": "Dictionary",
+      "offset": 764,
+      "length": 3,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSLineBuilderViewController.swift",
+      "kind": "Array",
+      "offset": 1180,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSLineBuilderViewController.swift",
+      "kind": "Dictionary",
+      "offset": 1115,
+      "length": 3,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSLineBuilderViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1665,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSLineSummaryViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 289,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSMultiLinePlayslipBuilderTableViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 340,
+      "length": 20,
+      "value": "\"mps_builder_header\""
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSMultiLinePlayslipBuilderTableViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 380,
+      "length": 16,
+      "value": "\"mps_count_cell\""
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSMultiLinePlayslipBuilderTableViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 416,
+      "length": 15,
+      "value": "\"add_line_cell\""
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSMultiLinePlayslipBuilderTableViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 340,
+      "length": 20,
+      "value": "\"mps_builder_header\""
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSMultiLinePlayslipBuilderTableViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 380,
+      "length": 16,
+      "value": "\"mps_count_cell\""
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSMultiLinePlayslipBuilderTableViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 416,
+      "length": 15,
+      "value": "\"add_line_cell\""
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSMultiLinePlayslipBuilderTableViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2068,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/View\/MPSNumberGridCollectionViewCell.swift",
+      "kind": "BooleanLiteral",
+      "offset": 526,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/View\/MPSNumberGridCollectionViewCell.swift",
+      "kind": "Array",
+      "offset": 679,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/NumberGrid\/MPSNumberGridCollectionViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 218,
+      "length": 13,
+      "value": "\"number_cell\""
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/NumberGrid\/MPSNumberGridCollectionViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 268,
+      "length": 13,
+      "value": "\"header_cell\""
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/NumberGrid\/MPSNumberGridCollectionViewController.swift",
+      "kind": "Array",
+      "offset": 701,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/NumberGrid\/MPSNumberGridCollectionViewController.swift",
+      "kind": "Array",
+      "offset": 972,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/View\/MPSNumberGridCollectionViewHeader.swift",
+      "kind": "BooleanLiteral",
+      "offset": 509,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/View\/MPSNumberGridCollectionViewHeader.swift",
+      "kind": "StringLiteral",
+      "offset": 962,
+      "length": 8,
+      "value": "\"Select\""
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/View\/MPSNumberGridCollectionViewHeader.swift",
+      "kind": "StringLiteral",
+      "offset": 1001,
+      "length": 29,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/View\/MPSNumberGridCollectionViewHeader.swift",
+      "kind": "StringLiteral",
+      "offset": 1011,
+      "length": 1,
+      "value": "\" \""
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/View\/MPSNumberGridCollectionViewHeader.swift",
+      "kind": "StringLiteral",
+      "offset": 1021,
+      "length": 7,
+      "value": "\" numbers\""
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/NumberGrid\/MPSOrderedGameNumberGridViewController.swift",
+      "kind": "Array",
+      "offset": 354,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/NumberGrid\/MPSOrderedGameNumberGridViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2155,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/NumberGrid\/MPSOrderedGameNumberGridViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 1913,
+      "length": 28,
+      "value": "\"MobilePlayslips.MPSOrderedGameNumberGridCell\""
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSOrderedGamePlayslipBuilderViewController.swift",
+      "kind": "Dictionary",
+      "offset": 535,
+      "length": 3,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSOrderedGamePlayslipBuilderViewController.swift",
+      "kind": "Array",
+      "offset": 607,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSOrderedGamePlayslipBuilderViewController.swift",
+      "kind": "Array",
+      "offset": 673,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSOrderedGamePlayslipBuilderViewController.swift",
+      "kind": "Dictionary",
+      "offset": 1171,
+      "length": 3,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSOrderedWagerItemViewController.swift",
+      "kind": "Array",
+      "offset": 475,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSOrderedWagerItemViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 745,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSOrderedWagerSelectionViewController.swift",
+      "kind": "Array",
+      "offset": 1006,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSOrderedWagerSelectionViewController.swift",
+      "kind": "Array",
+      "offset": 1370,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/View\/MPSPlayslipLineTableViewCell.swift",
+      "kind": "StringLiteral",
+      "offset": 469,
+      "length": 20,
+      "value": "\"playslip_line_cell\""
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/View\/MPSPlayslipLineTableViewCell.swift",
+      "kind": "IntegerLiteral",
+      "offset": 966,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/View\/MPSPlayslipLineTableViewCell.swift",
+      "kind": "IntegerLiteral",
+      "offset": 890,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSRapidDrawAddOnViewController.swift",
+      "kind": "FloatLiteral",
+      "offset": 913,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSRapidDrawAddOnViewController.swift",
+      "kind": "FloatLiteral",
+      "offset": 919,
+      "length": 3,
+      "value": "0.5"
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/View\/MPSRapidDrawAddOnWagerAmountCollectionViewCell.swift",
+      "kind": "FloatLiteral",
+      "offset": 487,
+      "length": 5,
+      "value": "100.0"
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/View\/MPSRapidDrawAddOnWagerAmountCollectionViewCell.swift",
+      "kind": "IntegerLiteral",
+      "offset": 577,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/View\/MPSRapidDrawAddOnWagerAmountCollectionViewCell.swift",
+      "kind": "BooleanLiteral",
+      "offset": 641,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSRapidDrawPlayslipBuilderViewController.swift",
+      "kind": "Array",
+      "offset": 680,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSRapidDrawPlayslipBuilderViewController.swift",
+      "kind": "Dictionary",
+      "offset": 615,
+      "length": 3,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSRapidDrawPlayslipBuilderViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1216,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSRapidDrawPlayslipBuilderViewController.swift",
+      "kind": "Array",
+      "offset": 1433,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSRapidDrawPlayslipBuilderViewController.swift",
+      "kind": "Array",
+      "offset": 1969,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSSummaryCardViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 831,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSSummaryCardViewController.swift",
+      "kind": "Array",
+      "offset": 880,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSSummaryCardViewController.swift",
+      "kind": "Array",
+      "offset": 944,
+      "length": 117,
+      "value": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]"
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSWagerableAddOnItemViewController.swift",
+      "kind": "Dictionary",
+      "offset": 670,
+      "length": 3,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSWagerableAddOnItemViewController.swift",
+      "kind": "Dictionary",
+      "offset": 747,
+      "length": 3,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSWagerableAddOnItemViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 906,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Model\/NetworkManager.swift",
+      "kind": "StringLiteral",
+      "offset": 139,
+      "length": 14,
+      "value": "\"MobilePlayslips.NetworkManager\""
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/View\/NumberViews\/NumberView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2613,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Model\/Playslip\/Playslip.swift",
+      "kind": "Array",
+      "offset": 274,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Model\/Playslip\/Playslip.swift",
+      "kind": "IntegerLiteral",
+      "offset": 546,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Model\/Playslip\/Playslip.swift",
+      "kind": "Array",
+      "offset": 1690,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Model\/Playslip\/Playslip.swift",
+      "kind": "StringLiteral",
+      "offset": 1933,
+      "length": 16,
+      "value": "\"gameIdentifier\""
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Model\/Playslip\/Playslip.swift",
+      "kind": "StringLiteral",
+      "offset": 2154,
+      "length": 4,
+      "value": "\"id\""
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Model\/Playslip\/Playslip.swift",
+      "kind": "StringLiteral",
+      "offset": 1933,
+      "length": 16,
+      "value": "\"gameIdentifier\""
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Model\/Playslip\/Playslip.swift",
+      "kind": "StringLiteral",
+      "offset": 2154,
+      "length": 4,
+      "value": "\"id\""
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Model\/PlayslipGame\/PlayslipAddon.swift",
+      "kind": "StringLiteral",
+      "offset": 524,
+      "length": 17,
+      "value": "\"wagerable_addon\""
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Model\/PlayslipGame\/PlayslipAddon.swift",
+      "kind": "StringLiteral",
+      "offset": 1030,
+      "length": 16,
+      "value": "\"standard_addon\""
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Model\/PlayslipGame\/PlayslipAddon.swift",
+      "kind": "StringLiteral",
+      "offset": 1656,
+      "length": 7,
+      "value": "\"FIXED\""
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Model\/PlayslipGame\/PlayslipAddon.swift",
+      "kind": "StringLiteral",
+      "offset": 1687,
+      "length": 14,
+      "value": "\"WAGER_AMOUNT\""
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Model\/PlayslipGame\/PlayslipAddon.swift",
+      "kind": "StringLiteral",
+      "offset": 1729,
+      "length": 18,
+      "value": "\"ADDITIONAL_WAGER\""
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Model\/PlayslipGame\/PlayslipAddon.swift",
+      "kind": "StringLiteral",
+      "offset": 1656,
+      "length": 7,
+      "value": "\"FIXED\""
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Model\/PlayslipGame\/PlayslipAddon.swift",
+      "kind": "StringLiteral",
+      "offset": 1687,
+      "length": 14,
+      "value": "\"WAGER_AMOUNT\""
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Model\/PlayslipGame\/PlayslipAddon.swift",
+      "kind": "StringLiteral",
+      "offset": 1729,
+      "length": 18,
+      "value": "\"ADDITIONAL_WAGER\""
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Model\/PlayslipBuilder.swift",
+      "kind": "Array",
+      "offset": 309,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Model\/PlayslipBuilder.swift",
+      "kind": "Array",
+      "offset": 351,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Model\/PlayslipBuilder.swift",
+      "kind": "Array",
+      "offset": 386,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Model\/PlayslipBuilder.swift",
+      "kind": "IntegerLiteral",
+      "offset": 414,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Model\/PlayslipBuilder.swift",
+      "kind": "BooleanLiteral",
+      "offset": 437,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Model\/PlayslipBuilder.swift",
+      "kind": "BooleanLiteral",
+      "offset": 539,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Model\/PlayslipBuilder.swift",
+      "kind": "IntegerLiteral",
+      "offset": 569,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Model\/PlayslipGame\/PlayslipGameStandard.swift",
+      "kind": "BooleanLiteral",
+      "offset": 3638,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Model\/PlayslipGame\/PlayslipGameStandard.swift",
+      "kind": "StringLiteral",
+      "offset": 4071,
+      "length": 10,
+      "value": "\"STANDARD\""
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Model\/PlayslipGame\/PlayslipGameStandard.swift",
+      "kind": "StringLiteral",
+      "offset": 4101,
+      "length": 9,
+      "value": "\"ORDERED\""
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Model\/PlayslipGame\/PlayslipGameStandard.swift",
+      "kind": "StringLiteral",
+      "offset": 4127,
+      "length": 6,
+      "value": "\"KENO\""
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Model\/PlayslipGame\/PlayslipGameStandard.swift",
+      "kind": "StringLiteral",
+      "offset": 4154,
+      "length": 10,
+      "value": "\"ROULETTE\""
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Model\/PlayslipGame\/PlayslipGameStandard.swift",
+      "kind": "StringLiteral",
+      "offset": 4071,
+      "length": 10,
+      "value": "\"STANDARD\""
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Model\/PlayslipGame\/PlayslipGameStandard.swift",
+      "kind": "StringLiteral",
+      "offset": 4101,
+      "length": 9,
+      "value": "\"ORDERED\""
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Model\/PlayslipGame\/PlayslipGameStandard.swift",
+      "kind": "StringLiteral",
+      "offset": 4127,
+      "length": 6,
+      "value": "\"KENO\""
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Model\/PlayslipGame\/PlayslipGameStandard.swift",
+      "kind": "StringLiteral",
+      "offset": 4154,
+      "length": 10,
+      "value": "\"ROULETTE\""
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Model\/PlayslipGame\/PlayslipGameWagerOption.swift",
+      "kind": "StringLiteral",
+      "offset": 244,
+      "length": 15,
+      "value": "\"ordered_wager\""
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Model\/PlayslipGame\/PlayslipGameWagerOption.swift",
+      "kind": "StringLiteral",
+      "offset": 280,
+      "length": 16,
+      "value": "\"standard_wager\""
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Model\/PlayslipGame\/PlayslipGameWagerOption.swift",
+      "kind": "StringLiteral",
+      "offset": 244,
+      "length": 15,
+      "value": "\"ordered_wager\""
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Model\/PlayslipGame\/PlayslipGameWagerOption.swift",
+      "kind": "StringLiteral",
+      "offset": 280,
+      "length": 16,
+      "value": "\"standard_wager\""
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Model\/Playslip\/PlayslipMetadata.swift",
+      "kind": "IntegerLiteral",
+      "offset": 253,
+      "length": 10,
+      "value": "0b00000000"
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Model\/Playslip\/PlayslipMetadata.swift",
+      "kind": "IntegerLiteral",
+      "offset": 284,
+      "length": 10,
+      "value": "0b00000001"
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Model\/Playslip\/PlayslipMetadata.swift",
+      "kind": "IntegerLiteral",
+      "offset": 253,
+      "length": 10,
+      "value": "0b00000000"
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Model\/Playslip\/PlayslipMetadata.swift",
+      "kind": "IntegerLiteral",
+      "offset": 284,
+      "length": 10,
+      "value": "0b00000001"
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Model\/Playslip\/PlayslipMetadata.swift",
+      "kind": "IntegerLiteral",
+      "offset": 253,
+      "length": 10,
+      "value": "0b00000000"
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Model\/Playslip\/PlayslipMetadata.swift",
+      "kind": "IntegerLiteral",
+      "offset": 284,
+      "length": 10,
+      "value": "0b00000001"
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Model\/Playslip\/PlayslipOrder.swift",
+      "kind": "StringLiteral",
+      "offset": 211,
+      "length": 16,
+      "value": "\"Playslip Order\""
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Model\/Playslip\/PlayslipOrder.swift",
+      "kind": "StringLiteral",
+      "offset": 1387,
+      "length": 16,
+      "value": "\"Playslip Order\""
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Model\/Playslip\/PlayslipWager.swift",
+      "kind": "StringLiteral",
+      "offset": 307,
+      "length": 12,
+      "value": "\"identifier\""
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Flux\/Store.swift",
+      "kind": "Array",
+      "offset": 359,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Flux\/Store.swift",
+      "kind": "Array",
+      "offset": 503,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Flux\/Store.swift",
+      "kind": "Array",
+      "offset": 593,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Model\/Encoding\/TheNumbersGameEncodingStrategy.swift",
+      "kind": "IntegerLiteral",
+      "offset": 352,
+      "length": 3,
+      "value": "255"
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Extensions\/UIColor+extension.swift",
+      "kind": "FloatLiteral",
+      "offset": 273,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Extensions\/UIFont+extension.swift",
+      "kind": "StringLiteral",
+      "offset": 245,
+      "length": 6,
+      "value": "\"Bold\""
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Extensions\/UIFont+extension.swift",
+      "kind": "StringLiteral",
+      "offset": 278,
+      "length": 12,
+      "value": "\"BoldItalic\""
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Extensions\/UIFont+extension.swift",
+      "kind": "StringLiteral",
+      "offset": 315,
+      "length": 11,
+      "value": "\"Slab-Bold\""
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Extensions\/UIFont+extension.swift",
+      "kind": "StringLiteral",
+      "offset": 351,
+      "length": 9,
+      "value": "\"Regular\""
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Extensions\/UIFont+extension.swift",
+      "kind": "StringLiteral",
+      "offset": 388,
+      "length": 14,
+      "value": "\"Slab-Regular\""
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Extensions\/UIFont+extension.swift",
+      "kind": "StringLiteral",
+      "offset": 425,
+      "length": 8,
+      "value": "\"Italic\""
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Extensions\/UIFont+extension.swift",
+      "kind": "StringLiteral",
+      "offset": 458,
+      "length": 9,
+      "value": "\"Ganache\""
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Extensions\/UIFont+extension.swift",
+      "kind": "StringLiteral",
+      "offset": 245,
+      "length": 6,
+      "value": "\"Bold\""
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Extensions\/UIFont+extension.swift",
+      "kind": "StringLiteral",
+      "offset": 278,
+      "length": 12,
+      "value": "\"BoldItalic\""
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Extensions\/UIFont+extension.swift",
+      "kind": "StringLiteral",
+      "offset": 315,
+      "length": 11,
+      "value": "\"Slab-Bold\""
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Extensions\/UIFont+extension.swift",
+      "kind": "StringLiteral",
+      "offset": 351,
+      "length": 9,
+      "value": "\"Regular\""
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Extensions\/UIFont+extension.swift",
+      "kind": "StringLiteral",
+      "offset": 388,
+      "length": 14,
+      "value": "\"Slab-Regular\""
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Extensions\/UIFont+extension.swift",
+      "kind": "StringLiteral",
+      "offset": 425,
+      "length": 8,
+      "value": "\"Italic\""
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Extensions\/UIFont+extension.swift",
+      "kind": "StringLiteral",
+      "offset": 458,
+      "length": 9,
+      "value": "\"Ganache\""
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Extensions\/UIView+extension.swift",
+      "kind": "FloatLiteral",
+      "offset": 3489,
+      "length": 3,
+      "value": "0.2"
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Extensions\/UIView+extension.swift",
+      "kind": "FloatLiteral",
+      "offset": 6813,
+      "length": 6,
+      "value": "1000.0"
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Extensions\/UIView+extension.swift",
+      "kind": "FloatLiteral",
+      "offset": 6888,
+      "length": 3,
+      "value": "0.0"
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Extensions\/UIView+extension.swift",
+      "kind": "FloatLiteral",
+      "offset": 6960,
+      "length": 3,
+      "value": "0.0"
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Extensions\/UIView+extension.swift",
+      "kind": "FloatLiteral",
+      "offset": 7027,
+      "length": 3,
+      "value": "0.0"
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Extensions\/UIView+extension.swift",
+      "kind": "FloatLiteral",
+      "offset": 7097,
+      "length": 3,
+      "value": "0.0"
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Extensions\/UIView+extension.swift",
+      "kind": "FloatLiteral",
+      "offset": 7791,
+      "length": 3,
+      "value": "0.0"
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Extensions\/UIView+extension.swift",
+      "kind": "FloatLiteral",
+      "offset": 8043,
+      "length": 3,
+      "value": "0.0"
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Extensions\/UIView+extension.swift",
+      "kind": "FloatLiteral",
+      "offset": 8293,
+      "length": 3,
+      "value": "0.0"
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Extensions\/UIView+extension.swift",
+      "kind": "FloatLiteral",
+      "offset": 8536,
+      "length": 3,
+      "value": "0.0"
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Extensions\/UIView+extension.swift",
+      "kind": "FloatLiteral",
+      "offset": 8798,
+      "length": 3,
+      "value": "0.0"
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Extensions\/UIView+extension.swift",
+      "kind": "IntegerLiteral",
+      "offset": 10608,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Extensions\/UIView+extension.swift",
+      "kind": "IntegerLiteral",
+      "offset": 11120,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/View\/NumberViews\/WinningNumbersStackView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 292,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/View\/NumberViews\/WinningNumbersStackView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 436,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/View\/NumberViews\/WinningNumbersStackView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 648,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/noahkarman\/repos\/gambyt-product\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/View\/NumberViews\/WinningNumbersStackView.swift",
+      "kind": "StringLiteral",
+      "offset": 179,
+      "length": 23,
+      "value": "\"MobilePlayslips.WinningNumbersStackView\""
+    }
+  ]
+}
