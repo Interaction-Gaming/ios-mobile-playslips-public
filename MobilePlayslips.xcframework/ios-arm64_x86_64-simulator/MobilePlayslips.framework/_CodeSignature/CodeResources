@@ -518,19 +518,19 @@
 		</data>
 		<key>Modules/MobilePlayslips.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		Ua8WGen8qkqzmTFNyhVcwHhzF8k=
+		YpNqSmoUBnPfQUPyYwpRp5eA7xU=
 		</data>
 		<key>Modules/MobilePlayslips.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		dlQN951DNr0K59dwZuDXOeF4pAA=
+		70Sw5aGFF5HSQkQ4RwLZXOlP6PY=
 		</data>
 		<key>Modules/MobilePlayslips.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		Pd8kff1Owtj1QejZ6dRAZ+jcuiQ=
+		TafzsiHV4pqk2mhj3wkVtov9wx0=
 		</data>
 		<key>Modules/MobilePlayslips.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		kSO1JWXzMJGIMnkFWAC1MOy1wfU=
+		38AFM5oXRO/t3hVMThpt5Q3+z9Y=
 		</data>
 		<key>Modules/MobilePlayslips.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -538,19 +538,19 @@
 		</data>
 		<key>Modules/MobilePlayslips.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		kSO1JWXzMJGIMnkFWAC1MOy1wfU=
+		38AFM5oXRO/t3hVMThpt5Q3+z9Y=
 		</data>
 		<key>Modules/MobilePlayslips.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		pQqu33mMOltyN7V3klOyNtNLIVs=
+		JtmnE9cofXYp1S5fwX10PEkKUks=
 		</data>
 		<key>Modules/MobilePlayslips.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		Pd8kff1Owtj1QejZ6dRAZ+jcuiQ=
+		TafzsiHV4pqk2mhj3wkVtov9wx0=
 		</data>
 		<key>Modules/MobilePlayslips.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		a9WMQ2Z2FsmyHH46kYWIZzMaOGU=
+		Eshe5JhmS2CgT0PlqpFs4Ut/byI=
 		</data>
 		<key>Modules/MobilePlayslips.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -558,11 +558,11 @@
 		</data>
 		<key>Modules/MobilePlayslips.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		a9WMQ2Z2FsmyHH46kYWIZzMaOGU=
+		Eshe5JhmS2CgT0PlqpFs4Ut/byI=
 		</data>
 		<key>Modules/MobilePlayslips.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		lHpVmrXfWGW7L6YMr+1EPWMvuL8=
+		OF8/TP7yU6AgZH0ZvFv9KW0Q31Y=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -1464,28 +1464,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			GQEcmy5loKD0QssRxw8GVZhN90UEuEyd5C4TKjn5vC4=
+			PgnYw0SP2iqm1WMMsHdnx9em/ZiUUjE4pUWWS9tzo8A=
 			</data>
 		</dict>
 		<key>Modules/MobilePlayslips.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			b7rVKR7fAIJQUm/seeWF9QVtO5nzBKOd5YAnu5Eys4M=
+			7mA1iK8IIpbT1rPdWJmACVAZk752ws4mNdStnyAsjls=
 			</data>
 		</dict>
 		<key>Modules/MobilePlayslips.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			WlfuWyFK//6jLqN9mu6G7orourEPNXi+tPIHI3fuhw4=
+			1mjk0VjBa5LZyqhTHOpPYwAc4o1YJT7uhXum/m05doQ=
 			</data>
 		</dict>
 		<key>Modules/MobilePlayslips.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			QE5thwmSBUzJWsz6qKrfuppILpgtVv+PEqsSrBUsV1Y=
+			Xqjsp8lwYApZ8DVK6wv2Oygay+OIAKpND9E0sG7oYy0=
 			</data>
 		</dict>
 		<key>Modules/MobilePlayslips.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -1499,28 +1499,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			QE5thwmSBUzJWsz6qKrfuppILpgtVv+PEqsSrBUsV1Y=
+			Xqjsp8lwYApZ8DVK6wv2Oygay+OIAKpND9E0sG7oYy0=
 			</data>
 		</dict>
 		<key>Modules/MobilePlayslips.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			HaOEz201k+Scpqrv2A4a2I6IHqNHlb2f8+BnD4ckdKE=
+			Dr3kzwfH9uWwe7yKXXudzuBS9RikLVWge4yArDw89Yc=
 			</data>
 		</dict>
 		<key>Modules/MobilePlayslips.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			WlfuWyFK//6jLqN9mu6G7orourEPNXi+tPIHI3fuhw4=
+			1mjk0VjBa5LZyqhTHOpPYwAc4o1YJT7uhXum/m05doQ=
 			</data>
 		</dict>
 		<key>Modules/MobilePlayslips.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			7EMPpkgwGybICJSgUXO7P56zssOUroTP26bq8D6mmaM=
+			pjYtQwejtqALy8TGUkO8o1I6myZs6fNWk97paSL56vA=
 			</data>
 		</dict>
 		<key>Modules/MobilePlayslips.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -1534,14 +1534,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			7EMPpkgwGybICJSgUXO7P56zssOUroTP26bq8D6mmaM=
+			pjYtQwejtqALy8TGUkO8o1I6myZs6fNWk97paSL56vA=
 			</data>
 		</dict>
 		<key>Modules/MobilePlayslips.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			1RE2eKVp07+chcsuwC+TvdsXiNiftvotXFKCK4kfRms=
+			Sf0z2ZWxatddZWSqwDDex26wXE1vb6+KJ1Z7pUoQY3Q=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
