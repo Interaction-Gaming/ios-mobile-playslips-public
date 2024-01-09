@@ -3,7 +3,6 @@
 // swift-module-flags: -target arm64-apple-ios13.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name MobilePlayslips
 // swift-module-flags-ignorable: -enable-bare-slash-regex
 import CryptoKit
-import DropDown
 import Foundation
 import Lottie
 @_exported import MobilePlayslips
