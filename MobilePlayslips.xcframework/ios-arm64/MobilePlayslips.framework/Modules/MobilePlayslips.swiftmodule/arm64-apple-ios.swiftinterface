@@ -55,6 +55,14 @@ public protocol ButtonDisplayable {
   var borderColor: UIKit.UIColor? { get }
   var disabledAlpha: CoreFoundation.CGFloat { get }
 }
+extension Swift.KeyedEncodingContainerProtocol {
+  public mutating func encode(_ value: Swift.Dictionary<Swift.String, Any>?, forKey key: Self.Key) throws
+  public mutating func encode(_ value: Swift.Array<Any>?, forKey key: Self.Key) throws
+}
+extension Swift.UnkeyedEncodingContainer {
+  public mutating func encode(_ value: Swift.Array<Any>) throws
+  public mutating func encode(_ value: Swift.Dictionary<Swift.String, Any>) throws
+}
 public enum DrawGameIdentifier : Swift.String, Swift.Codable, Swift.Equatable {
   case powerball
   case megabucksDoubler
@@ -78,7 +86,23 @@ public class MobilePlayslipsDelegate {
   public func applicationClosed()
   public func setHost(host: Swift.String)
   public func setLottery(lottery: Swift.String)
+  public func setApiBaseUrl(baseUrl: Swift.String)
   public func applicationLaunched()
+  @objc deinit
+}
+@objc @_inheritsConvenienceInitializers @_Concurrency.MainActor(unsafe) public class MobilePlayslipsGameEntryViewController : UIKit.UIViewController, ReSwift.StoreSubscriber {
+  @_Concurrency.MainActor(unsafe) public var gameIdentifier: Swift.String?
+  public struct Props : Swift.Equatable {
+    public static func == (lhs: MobilePlayslips.MobilePlayslipsGameEntryViewController.Props, rhs: MobilePlayslips.MobilePlayslipsGameEntryViewController.Props) -> Swift.Bool
+  }
+  @_Concurrency.MainActor(unsafe) @objc override dynamic public func viewWillAppear(_ animated: Swift.Bool)
+  @_Concurrency.MainActor(unsafe) public func newState(state: MobilePlayslips.MobilePlayslipsGameEntryViewController.Props)
+  @_Concurrency.MainActor(unsafe) @objc override dynamic public func viewDidLoad()
+  @_Concurrency.MainActor(unsafe) @objc override dynamic public func viewWillDisappear(_ animated: Swift.Bool)
+  @_Concurrency.MainActor(unsafe) @objc override dynamic public func viewDidDisappear(_ animated: Swift.Bool)
+  @_Concurrency.MainActor(unsafe) @objc override dynamic public init(nibName nibNameOrNil: Swift.String?, bundle nibBundleOrNil: Foundation.Bundle?)
+  @_Concurrency.MainActor(unsafe) @objc required dynamic public init?(coder: Foundation.NSCoder)
+  public typealias StoreSubscriberStateType = MobilePlayslips.MobilePlayslipsGameEntryViewController.Props
   @objc deinit
 }
 extension UIKit.UIFont {
