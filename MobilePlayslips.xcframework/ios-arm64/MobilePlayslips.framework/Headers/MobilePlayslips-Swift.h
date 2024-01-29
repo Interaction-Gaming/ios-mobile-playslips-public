@@ -301,6 +301,19 @@ SWIFT_CLASS("_TtC15MobilePlayslips31AlignedCollectionViewFlowLayout")
 @end
 
 
+@class NSString;
+@class NSBundle;
+
+SWIFT_CLASS("_TtC15MobilePlayslips38MobilePlayslipsGameEntryViewController")
+@interface MobilePlayslipsGameEntryViewController : UIViewController
+- (void)viewWillAppear:(BOOL)animated;
+- (void)viewDidLoad;
+- (void)viewWillDisappear:(BOOL)animated;
+- (void)viewDidDisappear:(BOOL)animated;
+- (nonnull instancetype)initWithNibName:(NSString * _Nullable)nibNameOrNil bundle:(NSBundle * _Nullable)nibBundleOrNil OBJC_DESIGNATED_INITIALIZER;
+- (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder OBJC_DESIGNATED_INITIALIZER;
+@end
+
 
 
 

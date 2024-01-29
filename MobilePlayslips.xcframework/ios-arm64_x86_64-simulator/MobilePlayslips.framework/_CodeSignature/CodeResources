@@ -6,11 +6,11 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		iR/FulE8VWtf9P/R4Lxb0ASVMNc=
+		RX2lH+JuYZnnmrTBqfzT8cflaDc=
 		</data>
 		<key>Headers/MobilePlayslips-Swift.h</key>
 		<data>
-		3qIQeDg95B24VYPh0jV179Sev+Y=
+		f6ZrY8dw/N7NNs0Jw0dFwEFhvZE=
 		</data>
 		<key>Headers/MobilePlayslips-umbrella.h</key>
 		<data>
@@ -18,19 +18,19 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		Vs6HPVO/p/BN4z7GnEYEZ16cVI4=
+		c4FIekEG3OShilmv5KqhlTk4pS8=
 		</data>
 		<key>MPSAssets.bundle/Assets.car</key>
 		<data>
-		iR/FulE8VWtf9P/R4Lxb0ASVMNc=
+		RX2lH+JuYZnnmrTBqfzT8cflaDc=
 		</data>
 		<key>MPSAssets.bundle/Info.plist</key>
 		<data>
-		16R/NRlEXhG7LUmgi2H/nPVG5JY=
+		YCXN/fozfLvPxs7n+UCZNQqD94c=
 		</data>
 		<key>MPSFonts.bundle/Info.plist</key>
 		<data>
-		mDqrXJFdozxiRAx6P/QPW++sIiI=
+		BhExf8rHGbxkA0wX4ZnokuAS3bI=
 		</data>
 		<key>MPSFonts.bundle/Roboto-Bold.ttf</key>
 		<data>
@@ -58,7 +58,7 @@
 		</data>
 		<key>MPSJSON.bundle/Info.plist</key>
 		<data>
-		wvT17S1t41zhAcKp1XsnDJto9Fc=
+		e+kpRn2G2mFTgs0axaQVXM69qpY=
 		</data>
 		<key>MPSJSON.bundle/number_ball_black_fill.json</key>
 		<data>
@@ -114,7 +114,7 @@
 		</data>
 		<key>MPSNibs.bundle/Info.plist</key>
 		<data>
-		o59Em8E7pxjcthq7w8/b3vZAKRk=
+		nUcFbspuYL9qTCHDyK1nejqJ0lU=
 		</data>
 		<key>MPSNibs.bundle/MultiplierView.nib</key>
 		<data>
@@ -126,11 +126,11 @@
 		</data>
 		<key>MPSStoryboard.bundle/Assets.car</key>
 		<data>
-		iR/FulE8VWtf9P/R4Lxb0ASVMNc=
+		RX2lH+JuYZnnmrTBqfzT8cflaDc=
 		</data>
 		<key>MPSStoryboard.bundle/Info.plist</key>
 		<data>
-		mv1Qp/WPgm1ArTZ9JmsWARrcdaY=
+		6s9M2x5JP8VY2nj6G+o9+P/MzWc=
 		</data>
 		<key>MPSStoryboard.bundle/MobilePlayslips.storyboardc/1Qk-Nv-SWA-view-eT7-2g-jHw.nib</key>
 		<data>
@@ -146,11 +146,15 @@
 		</data>
 		<key>MPSStoryboard.bundle/MobilePlayslips.storyboardc/6Io-ia-klW-view-l1d-1W-Sxg.nib</key>
 		<data>
-		sdY4qF/WWkkpsTRNZhfkmeNiPKo=
+		eBte0/cF6p9i3GbCF0GfV657lvQ=
+		</data>
+		<key>MPSStoryboard.bundle/MobilePlayslips.storyboardc/BCP-rn-998-view-KU3-Re-Onc.nib</key>
+		<data>
+		UM4Waoc62kat/rMBAv3zEWnW3kk=
 		</data>
 		<key>MPSStoryboard.bundle/MobilePlayslips.storyboardc/CWB-4l-4Y7-view-CWG-2h-uhH.nib</key>
 		<data>
-		MmTe/fCpMhX8xXohwi4uP2S8NPs=
+		KdWXzWHgJavT1EPO89Oj2qastbo=
 		</data>
 		<key>MPSStoryboard.bundle/MobilePlayslips.storyboardc/Et2-fe-z9x-view-Dn3-4Y-rbg.nib</key>
 		<data>
@@ -158,11 +162,11 @@
 		</data>
 		<key>MPSStoryboard.bundle/MobilePlayslips.storyboardc/Euv-gh-Oim-view-ZtI-NF-vlJ.nib</key>
 		<data>
-		VNpEnI1WftxdZsDVjFc1psGT4r0=
+		wOo7iG4+YKCQYjVkqrg/K/HAiVo=
 		</data>
 		<key>MPSStoryboard.bundle/MobilePlayslips.storyboardc/Info.plist</key>
 		<data>
-		geuPNNjF3avkbn7Pa+GfmGvwWB0=
+		c695hJJD+71CPFF8VlZkpGQ7Bk4=
 		</data>
 		<key>MPSStoryboard.bundle/MobilePlayslips.storyboardc/IrI-cP-iVL-view-2kZ-GN-33B.nib</key>
 		<data>
@@ -170,23 +174,27 @@
 		</data>
 		<key>MPSStoryboard.bundle/MobilePlayslips.storyboardc/M5M-RI-02A-view-L1Z-j9-xjE.nib</key>
 		<data>
-		R+9pVwVz6pyVWgLKon+JkNj362k=
+		+ZfmtUm0GEm5mcmhExrSoFvoGNM=
 		</data>
 		<key>MPSStoryboard.bundle/MobilePlayslips.storyboardc/T5W-bu-vpv-view-KFt-eE-Po7.nib</key>
 		<data>
-		pGk9AGRiqhDYUtBpZGnx+kP4fRE=
+		YfTzHZjx372xeLmfYMFf6m4W8a0=
+		</data>
+		<key>MPSStoryboard.bundle/MobilePlayslips.storyboardc/UIPageViewController-Jmt-sF-fgc.nib</key>
+		<data>
+		WyJV6DF42mAOSKnOcMXlr5DszMs=
 		</data>
 		<key>MPSStoryboard.bundle/MobilePlayslips.storyboardc/UIPageViewController-r6I-cg-dkS.nib</key>
 		<data>
 		X6rh8SkAWEcZnEejLgikufsi/po=
 		</data>
-		<key>MPSStoryboard.bundle/MobilePlayslips.storyboardc/UIViewController-1uN-lk-NM5.nib</key>
-		<data>
-		GNfkRKV66OkVZ6yBQpAkFa9CU5g=
-		</data>
 		<key>MPSStoryboard.bundle/MobilePlayslips.storyboardc/UIViewController-6Io-ia-klW.nib</key>
 		<data>
-		XnMpJSaaOw4WUIJZaWzAG+iAdvE=
+		PY7LRU+pxcwp9RYHQIu3JtGwAaM=
+		</data>
+		<key>MPSStoryboard.bundle/MobilePlayslips.storyboardc/UIViewController-BCP-rn-998.nib</key>
+		<data>
+		cDavjpjs3z7XAwp7rFHfrYyPAZo=
 		</data>
 		<key>MPSStoryboard.bundle/MobilePlayslips.storyboardc/UIViewController-Et2-fe-z9x.nib</key>
 		<data>
@@ -194,19 +202,31 @@
 		</data>
 		<key>MPSStoryboard.bundle/MobilePlayslips.storyboardc/UIViewController-M5M-RI-02A.nib</key>
 		<data>
-		QrDUjbti6bvqGLD0UhI0E3V8POs=
+		eknkVAHB9Du7mzvkjPXaKZycclw=
 		</data>
 		<key>MPSStoryboard.bundle/MobilePlayslips.storyboardc/UIViewController-VVR-iC-37D.nib</key>
 		<data>
 		KNf5u18CLKwvdZV7fOtNYb1ccMg=
 		</data>
+		<key>MPSStoryboard.bundle/MobilePlayslips.storyboardc/UIViewController-loB-sJ-LEz.nib</key>
+		<data>
+		PVIWMSGief4Fr7giq9dEEnoESK0=
+		</data>
+		<key>MPSStoryboard.bundle/MobilePlayslips.storyboardc/UIViewController-mkF-gj-6ue.nib</key>
+		<data>
+		XsF/VFwMvEh/2uSkmnXcetJW3x0=
+		</data>
+		<key>MPSStoryboard.bundle/MobilePlayslips.storyboardc/UIViewController-ucX-br-D56.nib</key>
+		<data>
+		4yIXI0DaQgny+pbKyBlMqf4O428=
+		</data>
 		<key>MPSStoryboard.bundle/MobilePlayslips.storyboardc/VVR-iC-37D-view-OBi-p4-HCy.nib</key>
 		<data>
-		5Ks0SARrfKqpKIKDzxU16FL6AOY=
+		ZRvjqiVWqsfNXym+i6x0vBT9wKk=
 		</data>
 		<key>MPSStoryboard.bundle/MobilePlayslips.storyboardc/add_on_screen.nib</key>
 		<data>
-		KK8vYmhp3vWj6k5VJSJB+6DHpxk=
+		VG5CHOepqte+g63m5xePu8vwEZY=
 		</data>
 		<key>MPSStoryboard.bundle/MobilePlayslips.storyboardc/addon_item_view_controller.nib</key>
 		<data>
@@ -218,7 +238,7 @@
 		</data>
 		<key>MPSStoryboard.bundle/MobilePlayslips.storyboardc/d6V-dM-QMU-view-hgk-vW-Fpo.nib</key>
 		<data>
-		xjfJjovkFF+GLcIm3SKnt4GBdKI=
+		aFLRjQLcyqh74AWOglkuMkNnveQ=
 		</data>
 		<key>MPSStoryboard.bundle/MobilePlayslips.storyboardc/g4d-Qp-AQz-view-PFW-Ob-a0Z.nib</key>
 		<data>
@@ -226,7 +246,11 @@
 		</data>
 		<key>MPSStoryboard.bundle/MobilePlayslips.storyboardc/gAl-b0-Owt-view-xlH-fo-Gfr.nib</key>
 		<data>
-		ukd0NxjxKEL0/yxMPeNZeZLfg1s=
+		EGQnJdyJNuqnUDIvwcfeQAp7Xrk=
+		</data>
+		<key>MPSStoryboard.bundle/MobilePlayslips.storyboardc/ghT-FU-ert-view-Mee-Qq-4Er.nib</key>
+		<data>
+		vysSYIy/qXSvuKLAImSJ8gXx6X0=
 		</data>
 		<key>MPSStoryboard.bundle/MobilePlayslips.storyboardc/ie6-3O-T93-view-bYc-z0-Qrs.nib</key>
 		<data>
@@ -240,17 +264,21 @@
 		<data>
 		dd+lVPI7agupg37bDH14bZbYOnY=
 		</data>
+		<key>MPSStoryboard.bundle/MobilePlayslips.storyboardc/loB-sJ-LEz-view-XhV-ez-ReT.nib</key>
+		<data>
+		OP1dVfRIhr6GediaPdFF5Nl0QlE=
+		</data>
 		<key>MPSStoryboard.bundle/MobilePlayslips.storyboardc/m19-Kc-qCT-view-Nks-Z1-KcD.nib</key>
 		<data>
-		qJ49aRgAWTueF7g5j4T6LFCacXQ=
+		u8Ngfss6aewL2QZfjdgaRCXjV50=
 		</data>
 		<key>MPSStoryboard.bundle/MobilePlayslips.storyboardc/nQz-l4-NTq-view-jfS-3j-z1p.nib</key>
 		<data>
-		9RVPLBg/fhh9A1qET0F8Gsv0HTA=
+		rgR3HZGl7BfS6RTjLXjWw1YojXw=
 		</data>
 		<key>MPSStoryboard.bundle/MobilePlayslips.storyboardc/new_order_view_controller.nib</key>
 		<data>
-		ZpMfpTuFXd3u11ORFfTl+gYvXP8=
+		K8hqGNePHQOqsCIeBiJq5dlIvEU=
 		</data>
 		<key>MPSStoryboard.bundle/MobilePlayslips.storyboardc/new_orders.nib</key>
 		<data>
@@ -264,13 +292,17 @@
 		<data>
 		HaWHj3yeVtH2+a3xBQc62DY60KY=
 		</data>
+		<key>MPSStoryboard.bundle/MobilePlayslips.storyboardc/promotional_message_item.nib</key>
+		<data>
+		Nh0eOUK89Ng6N6omoD6M2lABpqE=
+		</data>
 		<key>MPSStoryboard.bundle/MobilePlayslips.storyboardc/ps4-gy-fJ8-view-Wpj-uM-BT4.nib</key>
 		<data>
 		WZv25u6VBZIjAhWta6/04L4IcpY=
 		</data>
 		<key>MPSStoryboard.bundle/MobilePlayslips.storyboardc/rapid_draw_add_on_screen.nib</key>
 		<data>
-		wXL6S3grFqrPp/2OMObOyWkXfAg=
+		Z/l+UCblrPhl7XHhQQ+k7OvB4Hs=
 		</data>
 		<key>MPSStoryboard.bundle/MobilePlayslips.storyboardc/rapid_draw_builder.nib</key>
 		<data>
@@ -286,11 +318,15 @@
 		</data>
 		<key>MPSStoryboard.bundle/MobilePlayslips.storyboardc/saved_order_view_controller.nib</key>
 		<data>
-		dXNxuTerafxQYPvkL0LC/+M5WHU=
+		VMoU5gT9y37pWPntOct16iHPQfg=
+		</data>
+		<key>MPSStoryboard.bundle/MobilePlayslips.storyboardc/standard_playslip_builder.nib</key>
+		<data>
+		AP2KNo5bM4trG8G6B7D3YHR1WVA=
 		</data>
 		<key>MPSStoryboard.bundle/MobilePlayslips.storyboardc/summary_card.nib</key>
 		<data>
-		/1+yfSFt/DNY5qNsPA5bI5C27Fg=
+		BPMYACF+nxPLNBolkqbh1xsvlPM=
 		</data>
 		<key>MPSStoryboard.bundle/MobilePlayslips.storyboardc/unwind_to_saved_orders_segue.nib</key>
 		<data>
@@ -306,23 +342,27 @@
 		</data>
 		<key>MPSStoryboard.bundle/MobilePlayslips.storyboardc/zdz-3T-EDR-view-VBM-PB-uiT.nib</key>
 		<data>
-		HYjx96U61BSDaa1VkXMHbTuarpU=
+		vAFZ3Bf7EO0IcEWLwHjoT2pJ5gk=
 		</data>
 		<key>MPSStoryboard.bundle/OrderedGame.storyboardc/Info.plist</key>
 		<data>
-		lYs1UpMpkq18lfauivpuX+LCxa0=
+		3+Oi4WGBUpmIg081qdso+mLyBNY=
 		</data>
 		<key>MPSStoryboard.bundle/OrderedGame.storyboardc/LNX-bK-r6b-view-Ubm-Kc-vzB.nib</key>
 		<data>
 		POmsBOxxDncSBlfdvoYpbv43Fwo=
 		</data>
+		<key>MPSStoryboard.bundle/OrderedGame.storyboardc/UIViewController-hGS-Qk-syX.nib</key>
+		<data>
+		S9CqxYYVSQq1BIcWWU8ndDjFD/g=
+		</data>
 		<key>MPSStoryboard.bundle/OrderedGame.storyboardc/UIViewController-o3S-fx-YBc.nib</key>
 		<data>
-		96gPHTfYSAPAfaD34ymH/lbrY14=
+		9cX0pBtn5j87BkYcP0Xs/M//tLI=
 		</data>
 		<key>MPSStoryboard.bundle/OrderedGame.storyboardc/ZIF-QA-D4U-view-Hup-oI-9UX.nib</key>
 		<data>
-		WfG2iR3vdE0dkE1RHl0UKy48yLU=
+		PdlkrGGVIlRGudkYU3JAay4S8tI=
 		</data>
 		<key>MPSStoryboard.bundle/OrderedGame.storyboardc/kBv-F3-PAK-view-Rld-Sz-XJK.nib</key>
 		<data>
@@ -330,7 +370,7 @@
 		</data>
 		<key>MPSStoryboard.bundle/OrderedGame.storyboardc/o3S-fx-YBc-view-Bbp-62-TRI.nib</key>
 		<data>
-		9gOqihpv/HXb70WP1wGReRrsPhI=
+		etv9vXbEEYoTE6bkGWrxcfe1o9Y=
 		</data>
 		<key>MPSStoryboard.bundle/OrderedGame.storyboardc/ordered_game_number_grid.nib</key>
 		<data>
@@ -342,15 +382,15 @@
 		</data>
 		<key>MPSStoryboard.bundle/OrderedGame.storyboardc/playslip_number_selector.nib</key>
 		<data>
-		Ku2cwl9TjhWFo9pwC5Y8JMD+fYI=
+		SNXTZ0MKmtD0oPQt8RhFFxC4A5s=
 		</data>
 		<key>Modules/MobilePlayslips.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		TafzsiHV4pqk2mhj3wkVtov9wx0=
+		WaVut88pVVYSyIyPM0eKPH35Rzc=
 		</data>
 		<key>Modules/MobilePlayslips.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		3pfHKPqfwO2BXTXZ9DF7wSdKm9w=
+		542Q1PeyBcm6aS5wdbb/CQGBqB0=
 		</data>
 		<key>Modules/MobilePlayslips.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -358,19 +398,19 @@
 		</data>
 		<key>Modules/MobilePlayslips.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		3pfHKPqfwO2BXTXZ9DF7wSdKm9w=
+		542Q1PeyBcm6aS5wdbb/CQGBqB0=
 		</data>
 		<key>Modules/MobilePlayslips.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		hSPYMBE1mg00f0/+mSk0azEbQpk=
+		lxw0Pqc8qxvaw+BQHDZGm8zBPBM=
 		</data>
 		<key>Modules/MobilePlayslips.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		TafzsiHV4pqk2mhj3wkVtov9wx0=
+		WaVut88pVVYSyIyPM0eKPH35Rzc=
 		</data>
 		<key>Modules/MobilePlayslips.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		k+Z3A/mNLElbSh8a9cKoRU98erY=
+		6ioH44ss6JJPbul7zFE+AwjKzLA=
 		</data>
 		<key>Modules/MobilePlayslips.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -378,11 +418,11 @@
 		</data>
 		<key>Modules/MobilePlayslips.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		k+Z3A/mNLElbSh8a9cKoRU98erY=
+		6ioH44ss6JJPbul7zFE+AwjKzLA=
 		</data>
 		<key>Modules/MobilePlayslips.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		FNkke7GyGb7Ap8CV6c19cicOhME=
+		/yQwPsK6rSAEjX5rIF6PWzc4MHs=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -395,14 +435,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			PMwAva+vMY3idh8YxmEPmF53dNADnjiUcDoglDbpyLc=
+			sBe8DEr6pIzujmUUqK/Yk7jKnZ0Hj0zlAoygI78L0lI=
 			</data>
 		</dict>
 		<key>Headers/MobilePlayslips-Swift.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			2gq2nV51h9mmWANOUc4sT0RGjeP2+kLFCWDEIMbqSWA=
+			2NGHBKBD5DQFvF/Ol8HlVYd2kfyzp5qeCXlwjZYN5aM=
 			</data>
 		</dict>
 		<key>Headers/MobilePlayslips-umbrella.h</key>
@@ -416,21 +456,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			PMwAva+vMY3idh8YxmEPmF53dNADnjiUcDoglDbpyLc=
+			sBe8DEr6pIzujmUUqK/Yk7jKnZ0Hj0zlAoygI78L0lI=
 			</data>
 		</dict>
 		<key>MPSAssets.bundle/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			9oMf/7d7UrbYDq0r/dc4j4aKOtzXkK8/mou0tG4s+8g=
+			b9+zzfwpJ4vAtbNZKHkTA70K0EK3p6aADf+d63WIycY=
 			</data>
 		</dict>
 		<key>MPSFonts.bundle/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			IOEvh8ofLJSFEy2eWV0Mz7YMqHOfdYdIv+YG8FE4QRk=
+			dS27Rt0rTHIH1VGRv0PxPHwYVGYkLMPfLq2P1/m+NBI=
 			</data>
 		</dict>
 		<key>MPSFonts.bundle/Roboto-Bold.ttf</key>
@@ -479,7 +519,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			pLzvHjy+Muf0j5zEUuD0QG4mXrMBm4vc2eNaE+xHDOU=
+			LdJiHhkKnKAaX6aNgfUzbKEwNjg9qc4HuT3jGX0fnxs=
 			</data>
 		</dict>
 		<key>MPSJSON.bundle/number_ball_black_fill.json</key>
@@ -577,7 +617,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Ionv9Q1VPNJEyTe9gHv/e50cnimZAD7eZ5K4SwfksSg=
+			b1A3kM0VLKTc75uvsTceo9WqVphOQfAk41E6+VcDW5s=
 			</data>
 		</dict>
 		<key>MPSNibs.bundle/MultiplierView.nib</key>
@@ -598,14 +638,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			PMwAva+vMY3idh8YxmEPmF53dNADnjiUcDoglDbpyLc=
+			sBe8DEr6pIzujmUUqK/Yk7jKnZ0Hj0zlAoygI78L0lI=
 			</data>
 		</dict>
 		<key>MPSStoryboard.bundle/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			mc2ngKFle4tb/Ac+vrDjrbrrPDf8gFwCb76KSO7M79s=
+			yDK2XTKCfTMU3/aQViYUKxAtd7hrs+ikadf57jR2vgA=
 			</data>
 		</dict>
 		<key>MPSStoryboard.bundle/MobilePlayslips.storyboardc/1Qk-Nv-SWA-view-eT7-2g-jHw.nib</key>
@@ -633,14 +673,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			+/S0H9T7q//RHH+pO9IYg7ouWdP0M2eD8mRbvkRyQog=
+			ngvz5MBU1rtaakcnsamxpSnZdsU2qUB01aamoWGQE1o=
+			</data>
+		</dict>
+		<key>MPSStoryboard.bundle/MobilePlayslips.storyboardc/BCP-rn-998-view-KU3-Re-Onc.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			z8H2HNV6ZL/2QVBKVQ3JCjcz1a0IlSRfdnE1/mT3otI=
 			</data>
 		</dict>
 		<key>MPSStoryboard.bundle/MobilePlayslips.storyboardc/CWB-4l-4Y7-view-CWG-2h-uhH.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			UtAo0XaERf1IFx/zN3QmEdBYjEVG5FSnLsWJGeSfSME=
+			Mnt0FaAw6hxiEAzn7U//ieMQBPIhb60LPL3ovJHb8hQ=
 			</data>
 		</dict>
 		<key>MPSStoryboard.bundle/MobilePlayslips.storyboardc/Et2-fe-z9x-view-Dn3-4Y-rbg.nib</key>
@@ -654,14 +701,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Z/Go1LM48NSX+Q/tfRlxD0HEX9B5l0L32iV5dic15B4=
+			Eba3BREFz18cl5oZveGmP2Kr1VK3OK4p9ObsdafCSts=
 			</data>
 		</dict>
 		<key>MPSStoryboard.bundle/MobilePlayslips.storyboardc/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			F6Dt4dRCy4rnYWenKJNJ9gm9SfYnlZ95W2oW1y0PSQE=
+			g8+JbaYU3PVBlEZ8dXnfnOqoNffAieHeOZdHQQLAebI=
 			</data>
 		</dict>
 		<key>MPSStoryboard.bundle/MobilePlayslips.storyboardc/IrI-cP-iVL-view-2kZ-GN-33B.nib</key>
@@ -675,14 +722,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			b5Y/2PrN2EGM9YeyBr3+BlxBI+LQqlDgWnmZYubQBoE=
+			oNLcrxhsC80iJtubXZrt+SY6jp8RYYXtlIDhM12t72w=
 			</data>
 		</dict>
 		<key>MPSStoryboard.bundle/MobilePlayslips.storyboardc/T5W-bu-vpv-view-KFt-eE-Po7.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			6fFF4dNYaU70lUuBgCPFu8xrF7L17Yp4rum7P2OZGjE=
+			blB2wdyztKXeNSX+68/yQf9bRiCnZYnam4SWdXcLdFM=
+			</data>
+		</dict>
+		<key>MPSStoryboard.bundle/MobilePlayslips.storyboardc/UIPageViewController-Jmt-sF-fgc.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Ron5tcrXNH95g4IDNL9cR4VQb2ssG6QKdHpvHTosWeE=
 			</data>
 		</dict>
 		<key>MPSStoryboard.bundle/MobilePlayslips.storyboardc/UIPageViewController-r6I-cg-dkS.nib</key>
@@ -692,18 +746,18 @@
 			62fMBBTJtmuYdt2TcbpKFcZ1k2wtqKXnr0ZsXhUZe1A=
 			</data>
 		</dict>
-		<key>MPSStoryboard.bundle/MobilePlayslips.storyboardc/UIViewController-1uN-lk-NM5.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			+jqzXw5Rlp2D/ELj39YPieNHGXWFfNuQInaUyyoGuV0=
-			</data>
-		</dict>
 		<key>MPSStoryboard.bundle/MobilePlayslips.storyboardc/UIViewController-6Io-ia-klW.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			fjozoRQzsDacVWpgus/XXYYSEK1aNZ80nr4Q3Jev98k=
+			Z+2KlM8GkiEalIMoac8dbErxv98VxICGHGuMPUy0O2g=
+			</data>
+		</dict>
+		<key>MPSStoryboard.bundle/MobilePlayslips.storyboardc/UIViewController-BCP-rn-998.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			KqwwZkYw/LiTq1HXl9Bg4yfTwPRffn5kwYvc3wrWksA=
 			</data>
 		</dict>
 		<key>MPSStoryboard.bundle/MobilePlayslips.storyboardc/UIViewController-Et2-fe-z9x.nib</key>
@@ -717,7 +771,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			7qlITm307F9k0N0BnYXsefV0f8sDn3/Iioe67mybgzQ=
+			3FTB7SjugIDr9ayEulK9TMfDKQeELQ7ip+cZU1hadhM=
 			</data>
 		</dict>
 		<key>MPSStoryboard.bundle/MobilePlayslips.storyboardc/UIViewController-VVR-iC-37D.nib</key>
@@ -727,18 +781,39 @@
 			4qyyvxCdKY4jJKxnJYdmEb8okqMlBUNZwdgT0NaRb2Y=
 			</data>
 		</dict>
+		<key>MPSStoryboard.bundle/MobilePlayslips.storyboardc/UIViewController-loB-sJ-LEz.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			73XHbExXEJFLR49Ipr40IFOVi7Mx6kj/1oHmMMVjTWk=
+			</data>
+		</dict>
+		<key>MPSStoryboard.bundle/MobilePlayslips.storyboardc/UIViewController-mkF-gj-6ue.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			4A+TSVuc51clg5PnILnb5Ryap3JTCQwkqi2xCSy3OBs=
+			</data>
+		</dict>
+		<key>MPSStoryboard.bundle/MobilePlayslips.storyboardc/UIViewController-ucX-br-D56.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			VXnQM80YSR+J77CzQTI+WUUSUihlD37lAMo2keMLAxc=
+			</data>
+		</dict>
 		<key>MPSStoryboard.bundle/MobilePlayslips.storyboardc/VVR-iC-37D-view-OBi-p4-HCy.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			b4oNp7Zp+C+/N50dIFHrPRSKs+2RtnRhR5x8owGOZHw=
+			o5xbOfw22tO5m6M54rPpDsE+h3/WTjLgvlitPDVHTbU=
 			</data>
 		</dict>
 		<key>MPSStoryboard.bundle/MobilePlayslips.storyboardc/add_on_screen.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			x7l19hk6ODY0wdGz4ueChTmV4KL6jWogEYhmc17jy70=
+			JYeO6oWV0hrY7rz0MPEYOHzDiH5qfRcI5a9AOC2C44s=
 			</data>
 		</dict>
 		<key>MPSStoryboard.bundle/MobilePlayslips.storyboardc/addon_item_view_controller.nib</key>
@@ -759,7 +834,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Qn2BsxB6F+rWmjcgRRjzkXmFUQuYYtSkqM/j5/qWHig=
+			KSWCCM1ggw5vKi5tOfYDM6cC3jHTObV5K1VLt+r3gBg=
 			</data>
 		</dict>
 		<key>MPSStoryboard.bundle/MobilePlayslips.storyboardc/g4d-Qp-AQz-view-PFW-Ob-a0Z.nib</key>
@@ -773,7 +848,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			OZjgB1qhYL3ukR9hwEXYAbgVAjrbw4EX5cnrxkv8uok=
+			xHmHZnGnrtUtaUU7Oea/r5T4q8DCG4ZsmFFQo8ffX78=
+			</data>
+		</dict>
+		<key>MPSStoryboard.bundle/MobilePlayslips.storyboardc/ghT-FU-ert-view-Mee-Qq-4Er.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			f794S02JFyVq1XEyQrtOtK6Aw8Hl9xeoayQa+iPrb/s=
 			</data>
 		</dict>
 		<key>MPSStoryboard.bundle/MobilePlayslips.storyboardc/ie6-3O-T93-view-bYc-z0-Qrs.nib</key>
@@ -797,25 +879,32 @@
 			pvM9CgQwnTpArO15N0va8XWBQQOCXkC8k7ZNkTWSk2Q=
 			</data>
 		</dict>
+		<key>MPSStoryboard.bundle/MobilePlayslips.storyboardc/loB-sJ-LEz-view-XhV-ez-ReT.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			+SGOTzkJjwzCfLvSOCUUyHyAdBar4h2oXZzhAuKJE3U=
+			</data>
+		</dict>
 		<key>MPSStoryboard.bundle/MobilePlayslips.storyboardc/m19-Kc-qCT-view-Nks-Z1-KcD.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Tqk2ndHse1zERtdxOFBxTiCf84rSU9Ji+Y58NpIDF+k=
+			VzLWchIG+pUrxFW8dwdFOB6fkAsno+4IkKQcBL2aGGU=
 			</data>
 		</dict>
 		<key>MPSStoryboard.bundle/MobilePlayslips.storyboardc/nQz-l4-NTq-view-jfS-3j-z1p.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			m6zI9Na3Idgwr4wkGTNg3KXlYYz2fJ7HGwRv3PU+nxc=
+			4JQAAIJDXyAxJ9oV1ZngoQ4R8ei6J2sRaAWNZ25ogWQ=
 			</data>
 		</dict>
 		<key>MPSStoryboard.bundle/MobilePlayslips.storyboardc/new_order_view_controller.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			2uoU6G0FonmWdjhWIxRvLSLQAvLIYPQDONkFW1JbsNk=
+			j4D5HU1xq0usOlygqg21nerobA/dOmTJQNRBQJ6ehOU=
 			</data>
 		</dict>
 		<key>MPSStoryboard.bundle/MobilePlayslips.storyboardc/new_orders.nib</key>
@@ -839,6 +928,13 @@
 			Ynrm5+AVE/D1zOWfjBTgW65+QRFigaGhAI4FiLyzAkU=
 			</data>
 		</dict>
+		<key>MPSStoryboard.bundle/MobilePlayslips.storyboardc/promotional_message_item.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Jl2pgYRnCQuJn9Tim3c34Q0vdimnTSWoJHFJ/csi8jo=
+			</data>
+		</dict>
 		<key>MPSStoryboard.bundle/MobilePlayslips.storyboardc/ps4-gy-fJ8-view-Wpj-uM-BT4.nib</key>
 		<dict>
 			<key>hash2</key>
@@ -850,7 +946,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			0gIIs326N7/xMYGlJan0ZMAlFPE1AvXU8obCv/dayjQ=
+			u01KEBbGurJjNXdGeM98PqAWIH4EkncLeTxv9oJuzMo=
 			</data>
 		</dict>
 		<key>MPSStoryboard.bundle/MobilePlayslips.storyboardc/rapid_draw_builder.nib</key>
@@ -878,14 +974,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			xjkoQ7lrixtWUGszl8Vgz1t9DEZuuiCRwwplHo3y9cM=
+			eyePPz/M5vR3wHXH5L5oAqD+urB2Xj49202e60ZQVLc=
+			</data>
+		</dict>
+		<key>MPSStoryboard.bundle/MobilePlayslips.storyboardc/standard_playslip_builder.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			wjtZusmS//ZJuvRXKT1q4h6HIebo4aPTFEgLOR/SghI=
 			</data>
 		</dict>
 		<key>MPSStoryboard.bundle/MobilePlayslips.storyboardc/summary_card.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			26z+ozZjfAVW+9nWNN4CFkJqtREzQnEy04bQj3t6PiE=
+			QZO3ZMXuevgtptelYnYg1zVP86joVjL8haJGUiTMXj8=
 			</data>
 		</dict>
 		<key>MPSStoryboard.bundle/MobilePlayslips.storyboardc/unwind_to_saved_orders_segue.nib</key>
@@ -913,14 +1016,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			dRPDoTw/BljnH0PL0tVEVm47Z9KV109OULeCc7voToY=
+			IYWsRdv8F4Zn14n8lkeEzBSCfs+B/9xkM1OwNKA7PCE=
 			</data>
 		</dict>
 		<key>MPSStoryboard.bundle/OrderedGame.storyboardc/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			EcGvcYrffd/ArnrsCBCFeuyHooDGNarrSV3kqIUycoQ=
+			qxVG+dobrUKto7FKe61SsP8DYHAqh9KkY+7xJ8e3k0o=
 			</data>
 		</dict>
 		<key>MPSStoryboard.bundle/OrderedGame.storyboardc/LNX-bK-r6b-view-Ubm-Kc-vzB.nib</key>
@@ -930,18 +1033,25 @@
 			cly1tXsBrlJPA+EVBBYavfCIHDm11PklKcAPrxwqQKQ=
 			</data>
 		</dict>
+		<key>MPSStoryboard.bundle/OrderedGame.storyboardc/UIViewController-hGS-Qk-syX.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			arhUF8PHcA+o5nm34CW0y0anEBE/2QfhN/4OVe9YOhM=
+			</data>
+		</dict>
 		<key>MPSStoryboard.bundle/OrderedGame.storyboardc/UIViewController-o3S-fx-YBc.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			zC+xWZ7lj6c3e5ILNiKzohL1c5NEEL3R/bUfKzYWw9k=
+			gncZaXX4xfGAgHkepeqa+nqGPsPbsnAy+O3b6EFEj8M=
 			</data>
 		</dict>
 		<key>MPSStoryboard.bundle/OrderedGame.storyboardc/ZIF-QA-D4U-view-Hup-oI-9UX.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			0QLUzjUiynSFWtFeMGY2d2SBSzPv0EDSZ+Kbr9SKxao=
+			jBHpnFLEQf6mAbjLfgeUkvnO54wlT6sXE4wwSHfoLKg=
 			</data>
 		</dict>
 		<key>MPSStoryboard.bundle/OrderedGame.storyboardc/kBv-F3-PAK-view-Rld-Sz-XJK.nib</key>
@@ -955,7 +1065,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			/6jLtu4CL+ezoG4X+eGpBP93cMDzwydo52CIxB9nbiI=
+			+Rlc1PEJgDdkwpWMCY+nZWe2CC5Ds4Vd/c3J0Gzlbbw=
 			</data>
 		</dict>
 		<key>MPSStoryboard.bundle/OrderedGame.storyboardc/ordered_game_number_grid.nib</key>
@@ -976,21 +1086,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			jLTtkj5pqQexxYcyEs9QB7esM04JsX8btTzzR3ehdDg=
+			H2wreAvUtRCBeZDSjpWKq5jts3PMLH9UgK3QOqCOY3A=
 			</data>
 		</dict>
 		<key>Modules/MobilePlayslips.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			1mjk0VjBa5LZyqhTHOpPYwAc4o1YJT7uhXum/m05doQ=
+			yBYTb5jtfuC+g3i3egUq8ohQPFx5SuSJxBTDjQh783I=
 			</data>
 		</dict>
 		<key>Modules/MobilePlayslips.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			c/f0ybyoPIJzBcdIh/1eP0abzlkqjeU+yXAEA5VMk28=
+			d2uxAoSXhMZxrnVPqykK0nlgPmpretLTzdn1Zq6rteU=
 			</data>
 		</dict>
 		<key>Modules/MobilePlayslips.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -1004,28 +1114,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			c/f0ybyoPIJzBcdIh/1eP0abzlkqjeU+yXAEA5VMk28=
+			d2uxAoSXhMZxrnVPqykK0nlgPmpretLTzdn1Zq6rteU=
 			</data>
 		</dict>
 		<key>Modules/MobilePlayslips.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			VAQg/y5quP/+zqlcmJsdGHLKF/YjQABT143pdaByt4Y=
+			R1kZ32IG+v8GOAuRRvncr+MTqfwcKz45MtyNkRkNE/o=
 			</data>
 		</dict>
 		<key>Modules/MobilePlayslips.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			1mjk0VjBa5LZyqhTHOpPYwAc4o1YJT7uhXum/m05doQ=
+			yBYTb5jtfuC+g3i3egUq8ohQPFx5SuSJxBTDjQh783I=
 			</data>
 		</dict>
 		<key>Modules/MobilePlayslips.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			2MTcg5BwUF72fMH4TBj63XUsECdVrDva86J7WPjs9y4=
+			aN7OAyXtXoQjccFpIb8C61eiAg6l8GQBuXKC03mLyaw=
 			</data>
 		</dict>
 		<key>Modules/MobilePlayslips.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -1039,14 +1149,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			2MTcg5BwUF72fMH4TBj63XUsECdVrDva86J7WPjs9y4=
+			aN7OAyXtXoQjccFpIb8C61eiAg6l8GQBuXKC03mLyaw=
 			</data>
 		</dict>
 		<key>Modules/MobilePlayslips.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			xxYEJ1eMpWY6VFZC7HWioHCcrUrEXdUi1+WkoYCwMtM=
+			9Hu5vf3BLD5djj0xnNJdqeckUxpEGT0LC7hy5j0RHm8=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
