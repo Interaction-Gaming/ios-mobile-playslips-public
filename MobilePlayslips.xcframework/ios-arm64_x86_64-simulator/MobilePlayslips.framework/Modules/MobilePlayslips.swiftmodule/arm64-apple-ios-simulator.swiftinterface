@@ -88,6 +88,7 @@ public class MobilePlayslipsDelegate {
   public func setLottery(lottery: Swift.String)
   public func setApiBaseUrl(baseUrl: Swift.String)
   public func applicationLaunched()
+  public func setApiToken(token: Swift.String)
   @objc deinit
 }
 @objc @_inheritsConvenienceInitializers @_Concurrency.MainActor(unsafe) public class MobilePlayslipsGameEntryViewController : UIKit.UIViewController, ReSwift.StoreSubscriber {
