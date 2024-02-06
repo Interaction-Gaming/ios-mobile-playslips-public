@@ -18,7 +18,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		Lr11m5hLxtX3C3CYzwI2uUButJc=
+		KhJVgfqImumiHFojZnkKgFvog3g=
 		</data>
 		<key>MPSAssets.bundle/Assets.car</key>
 		<data>
@@ -26,11 +26,11 @@
 		</data>
 		<key>MPSAssets.bundle/Info.plist</key>
 		<data>
-		vDbuTQ6Pj64HAQaGhvOkXiTQXEo=
+		CGWps4ECGwNf6Sko1tKLBDt0Dtk=
 		</data>
 		<key>MPSFonts.bundle/Info.plist</key>
 		<data>
-		BiIrSoPVWr5k/shWJk0HxUPLtCk=
+		Af3pSbVF0ciVumPH+yjRY861Mcw=
 		</data>
 		<key>MPSFonts.bundle/Roboto-Bold.ttf</key>
 		<data>
@@ -58,7 +58,7 @@
 		</data>
 		<key>MPSJSON.bundle/Info.plist</key>
 		<data>
-		1+A/BBMguhbRm+sXnX8BcRNCqTs=
+		3xbGqo1AjVltACoUaB836LI83QE=
 		</data>
 		<key>MPSJSON.bundle/number_ball_black_fill.json</key>
 		<data>
@@ -114,7 +114,7 @@
 		</data>
 		<key>MPSNibs.bundle/Info.plist</key>
 		<data>
-		/5q5Ufh5q7hxLap1k+0flBz5tKY=
+		O/RnPY3YD4aPPT4uNgEOcOMFAeY=
 		</data>
 		<key>MPSNibs.bundle/MultiplierView.nib</key>
 		<data>
@@ -130,7 +130,7 @@
 		</data>
 		<key>MPSStoryboard.bundle/Info.plist</key>
 		<data>
-		dCfId0Q4vJmGUaUhyhXErX6Ohdc=
+		YXjJFAZIV9iYHPr5E4HJkBrGKk8=
 		</data>
 		<key>MPSStoryboard.bundle/MobilePlayslips.storyboardc/1Qk-Nv-SWA-view-eT7-2g-jHw.nib</key>
 		<data>
@@ -286,7 +286,7 @@
 		</data>
 		<key>MPSStoryboard.bundle/MobilePlayslips.storyboardc/playslip_number_selector.nib</key>
 		<data>
-		HaWHj3yeVtH2+a3xBQc62DY60KY=
+		rLqQD4aEynWwtsRIKLadyULH3AI=
 		</data>
 		<key>MPSStoryboard.bundle/MobilePlayslips.storyboardc/promotional_message_item.nib</key>
 		<data>
@@ -326,7 +326,7 @@
 		</data>
 		<key>MPSStoryboard.bundle/MobilePlayslips.storyboardc/summary_card.nib</key>
 		<data>
-		BPMYACF+nxPLNBolkqbh1xsvlPM=
+		0sHmZK56LsqSHVhDgrrqpvxXRfw=
 		</data>
 		<key>MPSStoryboard.bundle/MobilePlayslips.storyboardc/unwind_to_saved_orders_segue.nib</key>
 		<data>
@@ -386,7 +386,7 @@
 		</data>
 		<key>Modules/MobilePlayslips.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		v3W++EjpD2hvki4kf495IT6uvmc=
+		aG18qxsBKbHSi8bNgMo9Zj9zoR8=
 		</data>
 		<key>Modules/MobilePlayslips.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -402,11 +402,11 @@
 		</data>
 		<key>Modules/MobilePlayslips.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		GH2wTUAPBmSxkzpvJej1aVDFMtU=
+		LQwEHGYAUI2dvbIVFQ7xpb65GHo=
 		</data>
 		<key>Modules/MobilePlayslips.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		v3W++EjpD2hvki4kf495IT6uvmc=
+		aG18qxsBKbHSi8bNgMo9Zj9zoR8=
 		</data>
 		<key>Modules/MobilePlayslips.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -422,7 +422,7 @@
 		</data>
 		<key>Modules/MobilePlayslips.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		VVDOs2AesbiI2xOCsNCwTIrWXsU=
+		gzS9LQFuj+vabwTC4hNmhYqrNdg=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -463,14 +463,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			AoFs68pHwdSX4jYi2fofGtNKFIfmBH/iBBbfa7hRZfc=
+			ktCT6rGCS5EyATq9gTCUV/kJn9hCVIcJYgOaQ/fQcvw=
 			</data>
 		</dict>
 		<key>MPSFonts.bundle/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			NxJkL9DxH1gAr8LJ0CurRFvK+YHKfQOeP4+4yWUdWyM=
+			tr4GWPgkWrEbLry2ME1Tb/Igt2wJ4xZjLhqdp8iTlgI=
 			</data>
 		</dict>
 		<key>MPSFonts.bundle/Roboto-Bold.ttf</key>
@@ -519,7 +519,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			QLoOafrn8U3FK6e4Vzo6DdJPq7UsujKkXZH1Jj/ypkU=
+			0dc70DUOApIVyMiJkFN4eKL+TmNfixRXMGkFfT6nD54=
 			</data>
 		</dict>
 		<key>MPSJSON.bundle/number_ball_black_fill.json</key>
@@ -617,7 +617,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			FbwcEYoT9+bFCyzB84B5kHH9bGxdpuyALE4ED4Rx1Ds=
+			dSE8IOUFXewczEZ5qTUa9UhxiowSnH4KiwFks9R8kcc=
 			</data>
 		</dict>
 		<key>MPSNibs.bundle/MultiplierView.nib</key>
@@ -645,7 +645,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			b8kf29h7JMlX2Ly6d/tXI0zP2/z04oOgUMwV3Sj8yIU=
+			tgRZ+Op52o17PcLko3+Q5BnE0ybcdS2yZSlU1VhmBUY=
 			</data>
 		</dict>
 		<key>MPSStoryboard.bundle/MobilePlayslips.storyboardc/1Qk-Nv-SWA-view-eT7-2g-jHw.nib</key>
@@ -918,7 +918,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Ynrm5+AVE/D1zOWfjBTgW65+QRFigaGhAI4FiLyzAkU=
+			N/6uDkiaeVqo8JGUmnqase3lJVaA/oLnHUciyN0EQgA=
 			</data>
 		</dict>
 		<key>MPSStoryboard.bundle/MobilePlayslips.storyboardc/promotional_message_item.nib</key>
@@ -988,7 +988,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			QZO3ZMXuevgtptelYnYg1zVP86joVjL8haJGUiTMXj8=
+			Vp/p4yuUo9JDXVsgKkV+pjwtYT+wCBuxK4fCatqS3Dc=
 			</data>
 		</dict>
 		<key>MPSStoryboard.bundle/MobilePlayslips.storyboardc/unwind_to_saved_orders_segue.nib</key>
@@ -1093,7 +1093,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			T9TafpHEAReumUAHg/FLcrTlrOh1m40iBSjNWki4sRk=
+			BRbDw3WEHYFFmOQroMkQZa8YMHWsqQ2yQksRDizyikQ=
 			</data>
 		</dict>
 		<key>Modules/MobilePlayslips.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -1121,14 +1121,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			2Zi6nQY84OAmzwUfuCy3XkWZ769tP69xu+r8ijrE5uw=
+			q0Q1mMKQSAGaspg9qJPvz6QoYhKEDYXM5w4IkzzjHO4=
 			</data>
 		</dict>
 		<key>Modules/MobilePlayslips.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			T9TafpHEAReumUAHg/FLcrTlrOh1m40iBSjNWki4sRk=
+			BRbDw3WEHYFFmOQroMkQZa8YMHWsqQ2yQksRDizyikQ=
 			</data>
 		</dict>
 		<key>Modules/MobilePlayslips.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -1156,7 +1156,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Gc75CWoDkDj8T2jyLM/YK5nKEwH0LRVtWYQuQ6tqY9Q=
+			av+i/mu24Ox+ZsWSm+5tJu2HRBs+UCCCFZ7Y1ecVT0o=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
