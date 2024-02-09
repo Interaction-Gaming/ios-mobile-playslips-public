@@ -11417,79 +11417,93 @@
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSTabBarController.swift",
       "kind": "Array",
-      "offset": 775,
+      "offset": 838,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSTabBarController.swift",
       "kind": "StringLiteral",
-      "offset": 900,
+      "offset": 963,
       "length": 18,
       "value": "\"Mobile Playslips\""
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSTabBarController.swift",
       "kind": "BooleanLiteral",
-      "offset": 1328,
+      "offset": 1391,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSTabBarController.swift",
       "kind": "BooleanLiteral",
-      "offset": 1379,
+      "offset": 1442,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSTabBarController.swift",
       "kind": "BooleanLiteral",
-      "offset": 1424,
+      "offset": 1487,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSTabBarController.swift",
       "kind": "BooleanLiteral",
-      "offset": 1472,
+      "offset": 1535,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSTabBarController.swift",
       "kind": "BooleanLiteral",
-      "offset": 1590,
+      "offset": 1653,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSTabBarController.swift",
       "kind": "BooleanLiteral",
-      "offset": 1640,
+      "offset": 1703,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSTabBarController.swift",
       "kind": "BooleanLiteral",
-      "offset": 1686,
+      "offset": 1749,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSTabBarController.swift",
       "kind": "BooleanLiteral",
-      "offset": 1733,
+      "offset": 1796,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSTabBarController.swift",
       "kind": "FloatLiteral",
-      "offset": 2788,
+      "offset": 2851,
       "length": 3,
       "value": "0.2"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSTabBarController.swift",
+      "kind": "FloatLiteral",
+      "offset": 3028,
+      "length": 3,
+      "value": "0.0"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSTabBarController.swift",
+      "kind": "FloatLiteral",
+      "offset": 3034,
+      "length": 4,
+      "value": "28.0"
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSWagerableAddOnItemViewController.swift",
@@ -11564,133 +11578,133 @@
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Model\/NetworkManager.swift",
       "kind": "StringLiteral",
-      "offset": 778,
+      "offset": 780,
       "length": 27,
       "value": "\"config\/\""
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Model\/NetworkManager.swift",
       "kind": "StringLiteral",
-      "offset": 793,
+      "offset": 795,
       "length": 1,
       "value": "\"\/\""
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Model\/NetworkManager.swift",
       "kind": "StringLiteral",
-      "offset": 804,
+      "offset": 806,
       "length": 4,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Model\/NetworkManager.swift",
       "kind": "StringLiteral",
-      "offset": 834,
+      "offset": 871,
       "length": 9,
       "value": "\"Bearer \""
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Model\/NetworkManager.swift",
       "kind": "StringLiteral",
-      "offset": 873,
+      "offset": 910,
       "length": 15,
       "value": "\"Authorization\""
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Model\/NetworkManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 1483,
+      "offset": 1530,
       "length": 3,
       "value": "404"
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Model\/NetworkManager.swift",
       "kind": "StringLiteral",
-      "offset": 1864,
+      "offset": 1911,
       "length": 44,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Model\/NetworkManager.swift",
       "kind": "StringLiteral",
-      "offset": 1872,
+      "offset": 1919,
       "length": 1,
       "value": "\"\/\""
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Model\/NetworkManager.swift",
       "kind": "StringLiteral",
-      "offset": 1883,
+      "offset": 1930,
       "length": 1,
       "value": "\"\/orders\/generate-qrcodes\""
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Model\/NetworkManager.swift",
       "kind": "StringLiteral",
-      "offset": 1946,
+      "offset": 1993,
       "length": 18,
       "value": "\"application\/json\""
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Model\/NetworkManager.swift",
       "kind": "StringLiteral",
-      "offset": 1986,
+      "offset": 2033,
       "length": 14,
       "value": "\"Content-Type\""
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Model\/NetworkManager.swift",
       "kind": "StringLiteral",
-      "offset": 2027,
+      "offset": 2074,
       "length": 18,
       "value": "\"application\/json\""
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Model\/NetworkManager.swift",
       "kind": "StringLiteral",
-      "offset": 2067,
+      "offset": 2114,
       "length": 8,
       "value": "\"Accept\""
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Model\/NetworkManager.swift",
       "kind": "StringLiteral",
-      "offset": 2102,
+      "offset": 2184,
       "length": 9,
       "value": "\"Bearer \""
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Model\/NetworkManager.swift",
       "kind": "StringLiteral",
-      "offset": 2141,
+      "offset": 2223,
       "length": 15,
       "value": "\"Authorization\""
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Model\/NetworkManager.swift",
       "kind": "StringLiteral",
-      "offset": 2187,
+      "offset": 2279,
       "length": 6,
       "value": "\"POST\""
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Model\/NetworkManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 2516,
+      "offset": 2608,
       "length": 3,
       "value": "200"
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Model\/NetworkManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 2522,
+      "offset": 2614,
       "length": 3,
       "value": "299"
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Model\/NetworkManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 3106,
+      "offset": 3198,
       "length": 3,
       "value": "500"
     },
