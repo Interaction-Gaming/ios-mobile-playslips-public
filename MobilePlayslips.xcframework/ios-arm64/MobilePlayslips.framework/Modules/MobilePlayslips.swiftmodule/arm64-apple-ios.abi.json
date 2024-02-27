@@ -8421,126 +8421,126 @@
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSGameSelectionViewController.swift",
       "kind": "StringLiteral",
-      "offset": 2913,
+      "offset": 2909,
       "length": 18,
       "value": "\"quick_pick_segue\""
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSGameSelectionViewController.swift",
       "kind": "StringLiteral",
-      "offset": 3713,
+      "offset": 3709,
       "length": 4,
       "value": "\"QP\""
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSGameSelectionViewController.swift",
       "kind": "StringLiteral",
-      "offset": 3847,
+      "offset": 3843,
       "length": 13,
       "value": "\" quick pick\""
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSGameSelectionViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 3914,
+      "offset": 3910,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSGameSelectionViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 3988,
+      "offset": 3984,
       "length": 4,
       "value": "40.0"
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSGameSelectionViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 4005,
+      "offset": 4001,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSGameSelectionViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 4078,
+      "offset": 4074,
       "length": 5,
       "value": "40.00"
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSGameSelectionViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 4096,
+      "offset": 4092,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSGameSelectionViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 4145,
+      "offset": 4141,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSGameSelectionViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 4193,
+      "offset": 4189,
       "length": 4,
       "value": "20.0"
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSGameSelectionViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 4422,
+      "offset": 4418,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSGameSelectionViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 4486,
+      "offset": 4482,
       "length": 4,
       "value": "40.0"
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSGameSelectionViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 4503,
+      "offset": 4499,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSGameSelectionViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 4543,
+      "offset": 4539,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSGameSelectionViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 4681,
+      "offset": 4677,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSGameSelectionViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 4717,
+      "offset": 4713,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSGameSelectionViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 5215,
+      "offset": 5211,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSGameSelectionViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 5879,
+      "offset": 5875,
       "length": 2,
       "value": "12"
     },
