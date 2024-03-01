@@ -3322,6 +3322,16 @@
       },
       {
         "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "MobilePlayslips",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
         "name": "Foundation",
         "printedName": "Foundation",
         "declKind": "Import",
@@ -8428,121 +8438,128 @@
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSGameSelectionViewController.swift",
       "kind": "StringLiteral",
-      "offset": 3709,
+      "offset": 3732,
       "length": 4,
       "value": "\"QP\""
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSGameSelectionViewController.swift",
       "kind": "StringLiteral",
-      "offset": 3843,
+      "offset": 3866,
       "length": 13,
       "value": "\" quick pick\""
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSGameSelectionViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 3910,
+      "offset": 3933,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSGameSelectionViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 3984,
+      "offset": 4007,
       "length": 4,
       "value": "40.0"
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSGameSelectionViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 4001,
+      "offset": 4024,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSGameSelectionViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 4074,
+      "offset": 4097,
       "length": 5,
       "value": "40.00"
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSGameSelectionViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 4092,
+      "offset": 4115,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSGameSelectionViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 4141,
+      "offset": 4164,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSGameSelectionViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 4189,
+      "offset": 4212,
       "length": 4,
       "value": "20.0"
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSGameSelectionViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 4418,
+      "offset": 4441,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSGameSelectionViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 4482,
+      "offset": 4505,
       "length": 4,
       "value": "40.0"
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSGameSelectionViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 4499,
+      "offset": 4522,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSGameSelectionViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 4539,
+      "offset": 4562,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSGameSelectionViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 4677,
+      "offset": 4700,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSGameSelectionViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 4713,
+      "offset": 4736,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSGameSelectionViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 5211,
+      "offset": 5234,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSGameSelectionViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 5875,
+      "offset": 5898,
       "length": 2,
       "value": "12"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSInvalidOrderCardViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 651,
+      "length": 5,
+      "value": "false"
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSLineBuilderViewController.swift",
@@ -9268,84 +9285,84 @@
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSNewOrderViewController.swift",
       "kind": "StringLiteral",
-      "offset": 1451,
+      "offset": 1512,
       "length": 19,
       "value": "\"choose_game_segue\""
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSNewOrderViewController.swift",
       "kind": "StringLiteral",
-      "offset": 1836,
+      "offset": 1897,
       "length": 23,
       "value": "\"completed_order_segue\""
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSNewOrderViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 2423,
+      "offset": 2484,
       "length": 3,
       "value": "0.5"
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSNewOrderViewController.swift",
       "kind": "StringLiteral",
-      "offset": 2862,
+      "offset": 2923,
       "length": 17,
       "value": "\"MobilePlayslips\""
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSNewOrderViewController.swift",
       "kind": "StringLiteral",
-      "offset": 2960,
+      "offset": 3021,
       "length": 14,
       "value": "\"summary_card\""
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSNewOrderViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 3835,
+      "offset": 3896,
       "length": 5,
       "value": "100.0"
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSNewOrderViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 3922,
+      "offset": 3983,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSNewOrderViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 4598,
+      "offset": 4659,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSNewOrderViewController.swift",
       "kind": "StringLiteral",
-      "offset": 4639,
+      "offset": 4700,
       "length": 14,
       "value": "\"Update Order\""
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSNewOrderViewController.swift",
       "kind": "StringLiteral",
-      "offset": 4819,
+      "offset": 4880,
       "length": 30,
       "value": "\"edit_order_choose_game_segue\""
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSNewOrderViewController.swift",
       "kind": "StringLiteral",
-      "offset": 5128,
+      "offset": 5189,
       "length": 30,
       "value": "\"edit_order_choose_game_segue\""
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSNewOrderViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 5319,
+      "offset": 5380,
       "length": 4,
       "value": "true"
     },
@@ -9800,154 +9817,154 @@
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/NumberGrid\/MPSNumberGridCollectionViewController.swift",
       "kind": "Array",
-      "offset": 6123,
+      "offset": 6198,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/NumberGrid\/MPSNumberGridCollectionViewController.swift",
       "kind": "Array",
-      "offset": 6217,
+      "offset": 6292,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/NumberGrid\/MPSNumberGridCollectionViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 6341,
+      "offset": 6416,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/NumberGrid\/MPSNumberGridCollectionViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 6623,
+      "offset": 6698,
       "length": 3,
       "value": "110"
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/NumberGrid\/MPSNumberGridCollectionViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 6728,
+      "offset": 6803,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/NumberGrid\/MPSNumberGridCollectionViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 6912,
+      "offset": 6987,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/NumberGrid\/MPSNumberGridCollectionViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 7092,
+      "offset": 7167,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/NumberGrid\/MPSNumberGridCollectionViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 8417,
+      "offset": 8314,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/NumberGrid\/MPSNumberGridCollectionViewController.swift",
       "kind": "StringLiteral",
-      "offset": 8630,
+      "offset": 8527,
       "length": 12,
       "value": "\"blank_cell\""
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/NumberGrid\/MPSNumberGridCollectionViewController.swift",
       "kind": "StringLiteral",
-      "offset": 9526,
+      "offset": 9423,
       "length": 14,
       "value": "\"blank_header\""
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/NumberGrid\/MPSNumberGridCollectionViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 9953,
+      "offset": 9850,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/NumberGrid\/MPSNumberGridCollectionViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 9962,
+      "offset": 9859,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/NumberGrid\/MPSNumberGridCollectionViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 9973,
+      "offset": 9870,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/NumberGrid\/MPSNumberGridCollectionViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 9983,
+      "offset": 9880,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/NumberGrid\/MPSNumberGridCollectionViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 10179,
+      "offset": 10076,
       "length": 3,
       "value": "0.0"
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/NumberGrid\/MPSNumberGridCollectionViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 10381,
+      "offset": 10278,
       "length": 3,
       "value": "0.0"
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/NumberGrid\/MPSNumberGridCollectionViewController.swift",
       "kind": "Array",
-      "offset": 10499,
+      "offset": 10396,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/NumberGrid\/MPSNumberGridCollectionViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 10576,
+      "offset": 10473,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/NumberGrid\/MPSNumberGridCollectionViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 10852,
+      "offset": 10749,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/NumberGrid\/MPSNumberGridCollectionViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 11004,
+      "offset": 10901,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/NumberGrid\/MPSNumberGridCollectionViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 11093,
+      "offset": 10990,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/NumberGrid\/MPSNumberGridCollectionViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 11484,
+      "offset": 11381,
       "length": 1,
       "value": "1"
     },
@@ -10870,92 +10887,99 @@
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSRapidDrawAddOnViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2039,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSRapidDrawAddOnViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 2418,
+      "offset": 2923,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSRapidDrawAddOnViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 2912,
+      "offset": 3417,
       "length": 1,
       "value": "6"
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSRapidDrawAddOnViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 3206,
+      "offset": 3711,
       "length": 1,
       "value": "5"
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSRapidDrawAddOnViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 3324,
+      "offset": 3829,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSRapidDrawAddOnViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 3825,
+      "offset": 4330,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSRapidDrawAddOnViewController.swift",
       "kind": "StringLiteral",
-      "offset": 4234,
+      "offset": 4739,
       "length": 19,
       "value": "\"wager_amount_cell\""
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSRapidDrawAddOnViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 5168,
+      "offset": 5673,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSRapidDrawAddOnViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 5770,
+      "offset": 6275,
       "length": 2,
       "value": "52"
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSRapidDrawAddOnViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 5782,
+      "offset": 6287,
       "length": 2,
       "value": "44"
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSRapidDrawAddOnViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 5850,
+      "offset": 6355,
       "length": 2,
       "value": "90"
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSRapidDrawAddOnViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 5862,
+      "offset": 6367,
       "length": 2,
       "value": "84"
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSRapidDrawAddOnViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 5924,
+      "offset": 6429,
       "length": 2,
       "value": "36"
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSRapidDrawAddOnViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 5936,
+      "offset": 6441,
       "length": 2,
       "value": "36"
     },
@@ -10983,135 +11007,198 @@
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSRapidDrawPlayslipBuilderViewController.swift",
       "kind": "Array",
-      "offset": 680,
+      "offset": 948,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSRapidDrawPlayslipBuilderViewController.swift",
       "kind": "Dictionary",
-      "offset": 615,
+      "offset": 883,
       "length": 3,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSRapidDrawPlayslipBuilderViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 1216,
+      "offset": 1484,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSRapidDrawPlayslipBuilderViewController.swift",
       "kind": "Array",
-      "offset": 1433,
+      "offset": 1701,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSRapidDrawPlayslipBuilderViewController.swift",
       "kind": "Array",
-      "offset": 1969,
+      "offset": 2329,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSRapidDrawPlayslipBuilderViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 2818,
+      "length": 6,
+      "value": "\"Save\""
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSRapidDrawPlayslipBuilderViewController.swift",
       "kind": "Array",
-      "offset": 2390,
+      "offset": 3136,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSRapidDrawPlayslipBuilderViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3745,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSRapidDrawPlayslipBuilderViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 3853,
+      "length": 14,
+      "value": "\"Select up to\""
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSRapidDrawPlayslipBuilderViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 4259,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSRapidDrawPlayslipBuilderViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 4703,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSRapidDrawPlayslipBuilderViewController.swift",
       "kind": "Array",
-      "offset": 3145,
+      "offset": 5169,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSRapidDrawPlayslipBuilderViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 3670,
+      "offset": 5617,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSRapidDrawPlayslipBuilderViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 6175,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSSavedOrderCardViewController.swift",
+      "kind": "Array",
+      "offset": 471,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSSavedOrderCardViewController.swift",
       "kind": "StringLiteral",
-      "offset": 765,
+      "offset": 812,
       "length": 12,
       "value": "\" • \""
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSSavedOrderCardViewController.swift",
       "kind": "StringLiteral",
-      "offset": 833,
+      "offset": 880,
       "length": 12,
       "value": "\" Playslips\""
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSSavedOrderCardViewController.swift",
       "kind": "StringLiteral",
-      "offset": 944,
+      "offset": 991,
       "length": 3,
       "value": "\" \""
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSSavedOrderCardViewController.swift",
       "kind": "StringLiteral",
-      "offset": 950,
+      "offset": 997,
       "length": 10,
       "value": "\"•\""
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSSavedOrderCardViewController.swift",
       "kind": "StringLiteral",
-      "offset": 963,
+      "offset": 1010,
       "length": 3,
       "value": "\" \""
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSSavedOrderCardViewController.swift",
       "kind": "StringLiteral",
-      "offset": 1321,
+      "offset": 1368,
       "length": 17,
       "value": "\"MobilePlayslips\""
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSSavedOrderCardViewController.swift",
       "kind": "StringLiteral",
-      "offset": 1419,
+      "offset": 1466,
       "length": 30,
       "value": "\"saved_orders_view_controller\""
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSSavedOrderCardViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 1529,
+      "offset": 1576,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSSavedOrdersViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 917,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSSavedOrdersViewController.swift",
       "kind": "StringLiteral",
-      "offset": 1670,
+      "offset": 2448,
       "length": 17,
       "value": "\"MobilePlayslips\""
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSSavedOrdersViewController.swift",
       "kind": "StringLiteral",
-      "offset": 1768,
+      "offset": 2546,
       "length": 18,
       "value": "\"saved_order_card\""
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSSavedOrdersViewController.swift",
       "kind": "StringLiteral",
-      "offset": 2131,
-      "length": 11,
-      "value": "\"Clear All\""
+      "offset": 2899,
+      "length": 17,
+      "value": "\"MobilePlayslips\""
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSSavedOrdersViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 2997,
+      "length": 20,
+      "value": "\"invalid_order_card\""
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSSaveOrderViewController.swift",
@@ -11466,21 +11553,28 @@
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSSummaryCardViewController.swift",
       "kind": "StringLiteral",
-      "offset": 8894,
+      "offset": 8951,
+      "length": 17,
+      "value": "\"edit_keno_segue\""
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSSummaryCardViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 9055,
       "length": 21,
       "value": "\"edit_playslip_segue\""
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSSummaryCardViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 9603,
+      "offset": 9764,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSSummaryCardViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 10597,
+      "offset": 10955,
       "length": 1,
       "value": "1"
     },
@@ -12061,84 +12155,91 @@
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Model\/Playslip\/Playslip.swift",
       "kind": "Array",
-      "offset": 3456,
+      "offset": 3484,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Model\/Playslip\/Playslip.swift",
       "kind": "BooleanLiteral",
-      "offset": 3601,
+      "offset": 3629,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Model\/Playslip\/Playslip.swift",
       "kind": "StringLiteral",
-      "offset": 3775,
+      "offset": 3803,
       "length": 16,
       "value": "\"gameIdentifier\""
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Model\/Playslip\/Playslip.swift",
       "kind": "StringLiteral",
-      "offset": 3996,
+      "offset": 4049,
       "length": 4,
       "value": "\"id\""
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Model\/Playslip\/Playslip.swift",
       "kind": "StringLiteral",
-      "offset": 3775,
+      "offset": 3803,
       "length": 16,
       "value": "\"gameIdentifier\""
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Model\/Playslip\/Playslip.swift",
       "kind": "StringLiteral",
-      "offset": 3996,
+      "offset": 4049,
       "length": 4,
       "value": "\"id\""
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Model\/Playslip\/Playslip.swift",
+      "kind": "StringLiteral",
+      "offset": 5056,
+      "length": 6,
+      "value": "\"null\""
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Model\/Playslip\/Playslip.swift",
       "kind": "Array",
-      "offset": 5083,
+      "offset": 5195,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Model\/Playslip\/Playslip.swift",
       "kind": "IntegerLiteral",
-      "offset": 5127,
+      "offset": 5239,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Model\/Playslip\/Playslip.swift",
       "kind": "IntegerLiteral",
-      "offset": 5176,
+      "offset": 5288,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Model\/Playslip\/Playslip.swift",
       "kind": "Array",
-      "offset": 6437,
+      "offset": 6618,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Model\/Playslip\/Playslip.swift",
       "kind": "IntegerLiteral",
-      "offset": 6461,
+      "offset": 6642,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Model\/Playslip\/Playslip.swift",
       "kind": "BooleanLiteral",
-      "offset": 6816,
+      "offset": 6997,
       "length": 4,
       "value": "true"
     },
@@ -12320,98 +12421,112 @@
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Model\/PlayslipGame\/PlayslipGameStandard.swift",
       "kind": "FloatLiteral",
-      "offset": 771,
+      "offset": 874,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Model\/PlayslipGame\/PlayslipGameStandard.swift",
       "kind": "FloatLiteral",
-      "offset": 944,
+      "offset": 1047,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Model\/PlayslipGame\/PlayslipGameStandard.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1144,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Model\/PlayslipGame\/PlayslipGameStandard.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1183,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Model\/PlayslipGame\/PlayslipGameStandard.swift",
       "kind": "IntegerLiteral",
-      "offset": 1033,
+      "offset": 2963,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Model\/PlayslipGame\/PlayslipGameStandard.swift",
       "kind": "BooleanLiteral",
-      "offset": 1056,
+      "offset": 2986,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Model\/PlayslipGame\/PlayslipGameStandard.swift",
       "kind": "BooleanLiteral",
-      "offset": 1087,
+      "offset": 3017,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Model\/PlayslipGame\/PlayslipGameStandard.swift",
       "kind": "BooleanLiteral",
-      "offset": 10360,
+      "offset": 13678,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Model\/PlayslipGame\/PlayslipGameStandard.swift",
       "kind": "StringLiteral",
-      "offset": 10793,
+      "offset": 14111,
       "length": 10,
       "value": "\"STANDARD\""
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Model\/PlayslipGame\/PlayslipGameStandard.swift",
       "kind": "StringLiteral",
-      "offset": 10823,
+      "offset": 14141,
       "length": 9,
       "value": "\"ORDERED\""
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Model\/PlayslipGame\/PlayslipGameStandard.swift",
       "kind": "StringLiteral",
-      "offset": 10849,
+      "offset": 14167,
       "length": 6,
       "value": "\"KENO\""
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Model\/PlayslipGame\/PlayslipGameStandard.swift",
       "kind": "StringLiteral",
-      "offset": 10876,
+      "offset": 14194,
       "length": 10,
       "value": "\"ROULETTE\""
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Model\/PlayslipGame\/PlayslipGameStandard.swift",
       "kind": "StringLiteral",
-      "offset": 10793,
+      "offset": 14111,
       "length": 10,
       "value": "\"STANDARD\""
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Model\/PlayslipGame\/PlayslipGameStandard.swift",
       "kind": "StringLiteral",
-      "offset": 10823,
+      "offset": 14141,
       "length": 9,
       "value": "\"ORDERED\""
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Model\/PlayslipGame\/PlayslipGameStandard.swift",
       "kind": "StringLiteral",
-      "offset": 10849,
+      "offset": 14167,
       "length": 6,
       "value": "\"KENO\""
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Model\/PlayslipGame\/PlayslipGameStandard.swift",
       "kind": "StringLiteral",
-      "offset": 10876,
+      "offset": 14194,
       "length": 10,
       "value": "\"ROULETTE\""
     },
@@ -12613,15 +12728,57 @@
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Model\/Playslip\/PlayslipOrder.swift",
+      "kind": "Array",
+      "offset": 1179,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Model\/Playslip\/PlayslipOrder.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1255,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Model\/Playslip\/PlayslipOrder.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1294,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Model\/Playslip\/PlayslipOrder.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1334,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Model\/Playslip\/PlayslipOrder.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1390,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Model\/Playslip\/PlayslipOrder.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2862,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Model\/Playslip\/PlayslipOrder.swift",
       "kind": "StringLiteral",
-      "offset": 1387,
+      "offset": 3191,
       "length": 16,
       "value": "\"Playslip Order\""
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Model\/Playslip\/PlayslipOrder.swift",
       "kind": "StringLiteral",
-      "offset": 1870,
+      "offset": 3674,
       "length": 5,
       "value": "\"TBD\""
     },
@@ -13027,7 +13184,7 @@
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Model\/SavedOrdersRepository.swift",
       "kind": "Array",
-      "offset": 643,
+      "offset": 628,
       "length": 2,
       "value": "[]"
     },
