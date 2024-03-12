@@ -6,6 +6,7 @@ import CryptoKit
 import Foundation
 import Lottie
 @_exported import MobilePlayslips
+import Photos
 import ReSwift
 import Swift
 import UIColor_Hex_Swift
@@ -81,18 +82,28 @@ public enum DrawGameIdentifier : Swift.String, Swift.Codable, Swift.Equatable {
     get
   }
 }
+public protocol MobilePlayslipsAnalyticsDelegate {
+  func playslipCreated(gameIdentifier: Swift.String)
+  func orderCreated(gameIdentifiers: [Swift.String])
+  func orderSaved(gameIdentifiers: [Swift.String])
+  func savedOrderViewed()
+  func savedOrderEdit()
+  func newOrderPlayslipEdit()
+  func savedOrderPlayed()
+}
 public class MobilePlayslipsDelegate {
   public init()
   public func applicationClosed()
-  public func setHost(host: Swift.String)
-  public func setLottery(lottery: Swift.String)
-  public func setApiBaseUrl(baseUrl: Swift.String)
+  public func setConfigurationDetails(host: Swift.String, lottery: Swift.String, apiBaseUrl: Swift.String, apiToken: Swift.String)
   public func applicationLaunched()
-  public func setApiToken(token: Swift.String)
   @objc deinit
 }
 @objc @_inheritsConvenienceInitializers @_Concurrency.MainActor(unsafe) public class MobilePlayslipsGameEntryViewController : UIKit.UIViewController, ReSwift.StoreSubscriber {
   @_Concurrency.MainActor(unsafe) public var gameIdentifier: Swift.String?
+  @_Concurrency.MainActor(unsafe) public var analyticsDelegate: (any MobilePlayslips.MobilePlayslipsAnalyticsDelegate)? {
+    get
+    set
+  }
   public struct Props : Swift.Equatable {
     public static func == (lhs: MobilePlayslips.MobilePlayslipsGameEntryViewController.Props, rhs: MobilePlayslips.MobilePlayslipsGameEntryViewController.Props) -> Swift.Bool
   }
@@ -104,6 +115,46 @@ public class MobilePlayslipsDelegate {
   @_Concurrency.MainActor(unsafe) @objc override dynamic public init(nibName nibNameOrNil: Swift.String?, bundle nibBundleOrNil: Foundation.Bundle?)
   @_Concurrency.MainActor(unsafe) @objc required dynamic public init?(coder: Foundation.NSCoder)
   public typealias StoreSubscriberStateType = MobilePlayslips.MobilePlayslipsGameEntryViewController.Props
+  @objc deinit
+}
+@objc @_inheritsConvenienceInitializers @_Concurrency.MainActor(unsafe) public class MobilePlayslipsNewOrderViewController : UIKit.UIViewController {
+  @_Concurrency.MainActor(unsafe) public var analyticsDelegate: (any MobilePlayslips.MobilePlayslipsAnalyticsDelegate)? {
+    get
+    set
+  }
+  @_Concurrency.MainActor(unsafe) @objc override dynamic public func viewDidLoad()
+  @_Concurrency.MainActor(unsafe) @objc override dynamic public func viewWillDisappear(_ animated: Swift.Bool)
+  @_Concurrency.MainActor(unsafe) @objc override dynamic public init(nibName nibNameOrNil: Swift.String?, bundle nibBundleOrNil: Foundation.Bundle?)
+  @_Concurrency.MainActor(unsafe) @objc required dynamic public init?(coder: Foundation.NSCoder)
+  @objc deinit
+}
+@objc @_inheritsConvenienceInitializers @_Concurrency.MainActor(unsafe) public class MobilePlayslipsSavedOrdersViewController : UIKit.UIViewController {
+  @_Concurrency.MainActor(unsafe) public var analyticsDelegate: (any MobilePlayslips.MobilePlayslipsAnalyticsDelegate)? {
+    get
+    set
+  }
+  @_Concurrency.MainActor(unsafe) @objc override dynamic public func viewDidLoad()
+  @_Concurrency.MainActor(unsafe) @objc override dynamic public func viewWillDisappear(_ animated: Swift.Bool)
+  @_Concurrency.MainActor(unsafe) @objc override dynamic public init(nibName nibNameOrNil: Swift.String?, bundle nibBundleOrNil: Foundation.Bundle?)
+  @_Concurrency.MainActor(unsafe) @objc required dynamic public init?(coder: Foundation.NSCoder)
+  @objc deinit
+}
+@objc @_inheritsConvenienceInitializers @_Concurrency.MainActor(unsafe) public class MobilePlayslipsViewController : UIKit.UIViewController {
+  @_Concurrency.MainActor(unsafe) public var analyticsDelegate: (any MobilePlayslips.MobilePlayslipsAnalyticsDelegate)? {
+    get
+    set
+  }
+  @_Concurrency.MainActor(unsafe) @objc override dynamic public func viewDidLoad()
+  @_Concurrency.MainActor(unsafe) @objc override dynamic public func viewWillDisappear(_ animated: Swift.Bool)
+  @_Concurrency.MainActor(unsafe) @objc override dynamic public init(nibName nibNameOrNil: Swift.String?, bundle nibBundleOrNil: Foundation.Bundle?)
+  @_Concurrency.MainActor(unsafe) @objc required dynamic public init?(coder: Foundation.NSCoder)
+  @objc deinit
+}
+@objc @_inheritsConvenienceInitializers public class PhotoService : ObjectiveC.NSObject {
+  public func captureScreen(of view: UIKit.UIView) -> UIKit.UIImage?
+  public func saveScreenshot(fromView view: UIKit.UIView)
+  @objc public func image(_ image: UIKit.UIImage, didFinishSavingWithError error: (any Swift.Error)?, contextInfo: Swift.UnsafeRawPointer)
+  @objc override dynamic public init()
   @objc deinit
 }
 extension UIKit.UIFont {

@@ -2377,6 +2377,211 @@
       },
       {
         "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MobilePlayslips",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "MobilePlayslipsAnalyticsDelegate",
+        "printedName": "MobilePlayslipsAnalyticsDelegate",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "playslipCreated",
+            "printedName": "playslipCreated(gameIdentifier:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:15MobilePlayslips0aB17AnalyticsDelegateP15playslipCreated14gameIdentifierySS_tF",
+            "mangledName": "$s15MobilePlayslips0aB17AnalyticsDelegateP15playslipCreated14gameIdentifierySS_tF",
+            "moduleName": "MobilePlayslips",
+            "genericSig": "<τ_0_0 where τ_0_0 : MobilePlayslips.MobilePlayslipsAnalyticsDelegate>",
+            "sugared_genericSig": "<Self where Self : MobilePlayslips.MobilePlayslipsAnalyticsDelegate>",
+            "protocolReq": true,
+            "reqNewWitnessTableEntry": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "orderCreated",
+            "printedName": "orderCreated(gameIdentifiers:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Array",
+                "printedName": "[Swift.String]",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sa"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:15MobilePlayslips0aB17AnalyticsDelegateP12orderCreated15gameIdentifiersySaySSG_tF",
+            "mangledName": "$s15MobilePlayslips0aB17AnalyticsDelegateP12orderCreated15gameIdentifiersySaySSG_tF",
+            "moduleName": "MobilePlayslips",
+            "genericSig": "<τ_0_0 where τ_0_0 : MobilePlayslips.MobilePlayslipsAnalyticsDelegate>",
+            "sugared_genericSig": "<Self where Self : MobilePlayslips.MobilePlayslipsAnalyticsDelegate>",
+            "protocolReq": true,
+            "reqNewWitnessTableEntry": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "orderSaved",
+            "printedName": "orderSaved(gameIdentifiers:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Array",
+                "printedName": "[Swift.String]",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sa"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:15MobilePlayslips0aB17AnalyticsDelegateP10orderSaved15gameIdentifiersySaySSG_tF",
+            "mangledName": "$s15MobilePlayslips0aB17AnalyticsDelegateP10orderSaved15gameIdentifiersySaySSG_tF",
+            "moduleName": "MobilePlayslips",
+            "genericSig": "<τ_0_0 where τ_0_0 : MobilePlayslips.MobilePlayslipsAnalyticsDelegate>",
+            "sugared_genericSig": "<Self where Self : MobilePlayslips.MobilePlayslipsAnalyticsDelegate>",
+            "protocolReq": true,
+            "reqNewWitnessTableEntry": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "savedOrderViewed",
+            "printedName": "savedOrderViewed()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:15MobilePlayslips0aB17AnalyticsDelegateP16savedOrderViewedyyF",
+            "mangledName": "$s15MobilePlayslips0aB17AnalyticsDelegateP16savedOrderViewedyyF",
+            "moduleName": "MobilePlayslips",
+            "genericSig": "<τ_0_0 where τ_0_0 : MobilePlayslips.MobilePlayslipsAnalyticsDelegate>",
+            "sugared_genericSig": "<Self where Self : MobilePlayslips.MobilePlayslipsAnalyticsDelegate>",
+            "protocolReq": true,
+            "reqNewWitnessTableEntry": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "savedOrderEdit",
+            "printedName": "savedOrderEdit()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:15MobilePlayslips0aB17AnalyticsDelegateP14savedOrderEdityyF",
+            "mangledName": "$s15MobilePlayslips0aB17AnalyticsDelegateP14savedOrderEdityyF",
+            "moduleName": "MobilePlayslips",
+            "genericSig": "<τ_0_0 where τ_0_0 : MobilePlayslips.MobilePlayslipsAnalyticsDelegate>",
+            "sugared_genericSig": "<Self where Self : MobilePlayslips.MobilePlayslipsAnalyticsDelegate>",
+            "protocolReq": true,
+            "reqNewWitnessTableEntry": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "newOrderPlayslipEdit",
+            "printedName": "newOrderPlayslipEdit()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:15MobilePlayslips0aB17AnalyticsDelegateP20newOrderPlayslipEdityyF",
+            "mangledName": "$s15MobilePlayslips0aB17AnalyticsDelegateP20newOrderPlayslipEdityyF",
+            "moduleName": "MobilePlayslips",
+            "genericSig": "<τ_0_0 where τ_0_0 : MobilePlayslips.MobilePlayslipsAnalyticsDelegate>",
+            "sugared_genericSig": "<Self where Self : MobilePlayslips.MobilePlayslipsAnalyticsDelegate>",
+            "protocolReq": true,
+            "reqNewWitnessTableEntry": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "savedOrderPlayed",
+            "printedName": "savedOrderPlayed()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:15MobilePlayslips0aB17AnalyticsDelegateP16savedOrderPlayedyyF",
+            "mangledName": "$s15MobilePlayslips0aB17AnalyticsDelegateP16savedOrderPlayedyyF",
+            "moduleName": "MobilePlayslips",
+            "genericSig": "<τ_0_0 where τ_0_0 : MobilePlayslips.MobilePlayslipsAnalyticsDelegate>",
+            "sugared_genericSig": "<Self where Self : MobilePlayslips.MobilePlayslipsAnalyticsDelegate>",
+            "protocolReq": true,
+            "reqNewWitnessTableEntry": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Protocol",
+        "usr": "s:15MobilePlayslips0aB17AnalyticsDelegateP",
+        "mangledName": "$s15MobilePlayslips0aB17AnalyticsDelegateP",
+        "moduleName": "MobilePlayslips",
+        "declAttributes": [
+          "AccessControl"
+        ]
+      },
+      {
+        "kind": "Import",
         "name": "ReSwift",
         "printedName": "ReSwift",
         "declKind": "Import",
@@ -2433,8 +2638,8 @@
           },
           {
             "kind": "Function",
-            "name": "setHost",
-            "printedName": "setHost(host:)",
+            "name": "setConfigurationDetails",
+            "printedName": "setConfigurationDetails(host:lottery:apiBaseUrl:apiToken:)",
             "children": [
               {
                 "kind": "TypeNominal",
@@ -2446,26 +2651,18 @@
                 "name": "String",
                 "printedName": "Swift.String",
                 "usr": "s:SS"
-              }
-            ],
-            "declKind": "Func",
-            "usr": "s:15MobilePlayslips0aB8DelegateC7setHost4hostySS_tF",
-            "mangledName": "$s15MobilePlayslips0aB8DelegateC7setHost4hostySS_tF",
-            "moduleName": "MobilePlayslips",
-            "declAttributes": [
-              "AccessControl"
-            ],
-            "funcSelfKind": "NonMutating"
-          },
-          {
-            "kind": "Function",
-            "name": "setLottery",
-            "printedName": "setLottery(lottery:)",
-            "children": [
+              },
               {
                 "kind": "TypeNominal",
-                "name": "Void",
-                "printedName": "()"
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
               },
               {
                 "kind": "TypeNominal",
@@ -2475,34 +2672,8 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:15MobilePlayslips0aB8DelegateC10setLottery7lotteryySS_tF",
-            "mangledName": "$s15MobilePlayslips0aB8DelegateC10setLottery7lotteryySS_tF",
-            "moduleName": "MobilePlayslips",
-            "declAttributes": [
-              "AccessControl"
-            ],
-            "funcSelfKind": "NonMutating"
-          },
-          {
-            "kind": "Function",
-            "name": "setApiBaseUrl",
-            "printedName": "setApiBaseUrl(baseUrl:)",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Void",
-                "printedName": "()"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "String",
-                "printedName": "Swift.String",
-                "usr": "s:SS"
-              }
-            ],
-            "declKind": "Func",
-            "usr": "s:15MobilePlayslips0aB8DelegateC13setApiBaseUrl04baseG0ySS_tF",
-            "mangledName": "$s15MobilePlayslips0aB8DelegateC13setApiBaseUrl04baseG0ySS_tF",
+            "usr": "s:15MobilePlayslips0aB8DelegateC23setConfigurationDetails4host7lottery10apiBaseUrl0I5TokenySS_S3StF",
+            "mangledName": "$s15MobilePlayslips0aB8DelegateC23setConfigurationDetails4host7lottery10apiBaseUrl0I5TokenySS_S3StF",
             "moduleName": "MobilePlayslips",
             "declAttributes": [
               "AccessControl"
@@ -2523,32 +2694,6 @@
             "declKind": "Func",
             "usr": "s:15MobilePlayslips0aB8DelegateC19applicationLaunchedyyF",
             "mangledName": "$s15MobilePlayslips0aB8DelegateC19applicationLaunchedyyF",
-            "moduleName": "MobilePlayslips",
-            "declAttributes": [
-              "AccessControl"
-            ],
-            "funcSelfKind": "NonMutating"
-          },
-          {
-            "kind": "Function",
-            "name": "setApiToken",
-            "printedName": "setApiToken(token:)",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Void",
-                "printedName": "()"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "String",
-                "printedName": "Swift.String",
-                "usr": "s:SS"
-              }
-            ],
-            "declKind": "Func",
-            "usr": "s:15MobilePlayslips0aB8DelegateC11setApiToken5tokenySS_tF",
-            "mangledName": "$s15MobilePlayslips0aB8DelegateC11setApiToken5tokenySS_tF",
             "moduleName": "MobilePlayslips",
             "declAttributes": [
               "AccessControl"
@@ -2691,6 +2836,117 @@
                 "declKind": "Accessor",
                 "usr": "s:15MobilePlayslips0aB23GameEntryViewControllerC14gameIdentifierSSSgvM",
                 "mangledName": "$s15MobilePlayslips0aB23GameEntryViewControllerC14gameIdentifierSSSgvM",
+                "moduleName": "MobilePlayslips",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "analyticsDelegate",
+            "printedName": "analyticsDelegate",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "MobilePlayslips.MobilePlayslipsAnalyticsDelegate?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "MobilePlayslipsAnalyticsDelegate",
+                    "printedName": "MobilePlayslips.MobilePlayslipsAnalyticsDelegate",
+                    "usr": "s:15MobilePlayslips0aB17AnalyticsDelegateP"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:15MobilePlayslips0aB23GameEntryViewControllerC17analyticsDelegateAA0ab9AnalyticsH0_pSgvp",
+            "mangledName": "$s15MobilePlayslips0aB23GameEntryViewControllerC17analyticsDelegateAA0ab9AnalyticsH0_pSgvp",
+            "moduleName": "MobilePlayslips",
+            "declAttributes": [
+              "HasInitialValue",
+              "Custom",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "MobilePlayslips.MobilePlayslipsAnalyticsDelegate?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "MobilePlayslipsAnalyticsDelegate",
+                        "printedName": "MobilePlayslips.MobilePlayslipsAnalyticsDelegate",
+                        "usr": "s:15MobilePlayslips0aB17AnalyticsDelegateP"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:15MobilePlayslips0aB23GameEntryViewControllerC17analyticsDelegateAA0ab9AnalyticsH0_pSgvg",
+                "mangledName": "$s15MobilePlayslips0aB23GameEntryViewControllerC17analyticsDelegateAA0ab9AnalyticsH0_pSgvg",
+                "moduleName": "MobilePlayslips",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "MobilePlayslips.MobilePlayslipsAnalyticsDelegate?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "MobilePlayslipsAnalyticsDelegate",
+                        "printedName": "MobilePlayslips.MobilePlayslipsAnalyticsDelegate",
+                        "usr": "s:15MobilePlayslips0aB17AnalyticsDelegateP"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:15MobilePlayslips0aB23GameEntryViewControllerC17analyticsDelegateAA0ab9AnalyticsH0_pSgvs",
+                "mangledName": "$s15MobilePlayslips0aB23GameEntryViewControllerC17analyticsDelegateAA0ab9AnalyticsH0_pSgvs",
+                "moduleName": "MobilePlayslips",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:15MobilePlayslips0aB23GameEntryViewControllerC17analyticsDelegateAA0ab9AnalyticsH0_pSgvM",
+                "mangledName": "$s15MobilePlayslips0aB23GameEntryViewControllerC17analyticsDelegateAA0ab9AnalyticsH0_pSgvM",
                 "moduleName": "MobilePlayslips",
                 "implicit": true,
                 "accessorKind": "_modify"
@@ -3125,6 +3381,352 @@
         ]
       },
       {
+        "kind": "TypeDecl",
+        "name": "MobilePlayslipsNewOrderViewController",
+        "printedName": "MobilePlayslipsNewOrderViewController",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "analyticsDelegate",
+            "printedName": "analyticsDelegate",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "MobilePlayslips.MobilePlayslipsAnalyticsDelegate?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "MobilePlayslipsAnalyticsDelegate",
+                    "printedName": "MobilePlayslips.MobilePlayslipsAnalyticsDelegate",
+                    "usr": "s:15MobilePlayslips0aB17AnalyticsDelegateP"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:15MobilePlayslips0aB22NewOrderViewControllerC17analyticsDelegateAA0ab9AnalyticsH0_pSgvp",
+            "mangledName": "$s15MobilePlayslips0aB22NewOrderViewControllerC17analyticsDelegateAA0ab9AnalyticsH0_pSgvp",
+            "moduleName": "MobilePlayslips",
+            "declAttributes": [
+              "HasInitialValue",
+              "Custom",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "MobilePlayslips.MobilePlayslipsAnalyticsDelegate?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "MobilePlayslipsAnalyticsDelegate",
+                        "printedName": "MobilePlayslips.MobilePlayslipsAnalyticsDelegate",
+                        "usr": "s:15MobilePlayslips0aB17AnalyticsDelegateP"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:15MobilePlayslips0aB22NewOrderViewControllerC17analyticsDelegateAA0ab9AnalyticsH0_pSgvg",
+                "mangledName": "$s15MobilePlayslips0aB22NewOrderViewControllerC17analyticsDelegateAA0ab9AnalyticsH0_pSgvg",
+                "moduleName": "MobilePlayslips",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "MobilePlayslips.MobilePlayslipsAnalyticsDelegate?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "MobilePlayslipsAnalyticsDelegate",
+                        "printedName": "MobilePlayslips.MobilePlayslipsAnalyticsDelegate",
+                        "usr": "s:15MobilePlayslips0aB17AnalyticsDelegateP"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:15MobilePlayslips0aB22NewOrderViewControllerC17analyticsDelegateAA0ab9AnalyticsH0_pSgvs",
+                "mangledName": "$s15MobilePlayslips0aB22NewOrderViewControllerC17analyticsDelegateAA0ab9AnalyticsH0_pSgvs",
+                "moduleName": "MobilePlayslips",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:15MobilePlayslips0aB22NewOrderViewControllerC17analyticsDelegateAA0ab9AnalyticsH0_pSgvM",
+                "mangledName": "$s15MobilePlayslips0aB22NewOrderViewControllerC17analyticsDelegateAA0ab9AnalyticsH0_pSgvM",
+                "moduleName": "MobilePlayslips",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Function",
+            "name": "viewDidLoad",
+            "printedName": "viewDidLoad()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@MobilePlayslips@objc(cs)MobilePlayslipsNewOrderViewController(im)viewDidLoad",
+            "mangledName": "$s15MobilePlayslips0aB22NewOrderViewControllerC11viewDidLoadyyF",
+            "moduleName": "MobilePlayslips",
+            "overriding": true,
+            "objc_name": "viewDidLoad",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Custom",
+              "AccessControl",
+              "Override"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "viewWillDisappear",
+            "printedName": "viewWillDisappear(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@MobilePlayslips@objc(cs)MobilePlayslipsNewOrderViewController(im)viewWillDisappear:",
+            "mangledName": "$s15MobilePlayslips0aB22NewOrderViewControllerC17viewWillDisappearyySbF",
+            "moduleName": "MobilePlayslips",
+            "overriding": true,
+            "objc_name": "viewWillDisappear:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Custom",
+              "AccessControl",
+              "Override"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(nibName:bundle:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "MobilePlayslipsNewOrderViewController",
+                "printedName": "MobilePlayslips.MobilePlayslipsNewOrderViewController",
+                "usr": "c:@M@MobilePlayslips@objc(cs)MobilePlayslipsNewOrderViewController"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Foundation.Bundle?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bundle",
+                    "printedName": "Foundation.Bundle",
+                    "usr": "c:objc(cs)NSBundle"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@MobilePlayslips@objc(cs)MobilePlayslipsNewOrderViewController(im)initWithNibName:bundle:",
+            "mangledName": "$s15MobilePlayslips0aB22NewOrderViewControllerC7nibName6bundleACSSSg_So8NSBundleCSgtcfc",
+            "moduleName": "MobilePlayslips",
+            "overriding": true,
+            "implicit": true,
+            "objc_name": "initWithNibName:bundle:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Custom",
+              "Override"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(coder:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "MobilePlayslips.MobilePlayslipsNewOrderViewController?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "MobilePlayslipsNewOrderViewController",
+                    "printedName": "MobilePlayslips.MobilePlayslipsNewOrderViewController",
+                    "usr": "c:@M@MobilePlayslips@objc(cs)MobilePlayslipsNewOrderViewController"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "NSCoder",
+                "printedName": "Foundation.NSCoder",
+                "usr": "c:objc(cs)NSCoder"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@MobilePlayslips@objc(cs)MobilePlayslipsNewOrderViewController(im)initWithCoder:",
+            "mangledName": "$s15MobilePlayslips0aB22NewOrderViewControllerC5coderACSgSo7NSCoderC_tcfc",
+            "moduleName": "MobilePlayslips",
+            "overriding": true,
+            "implicit": true,
+            "objc_name": "initWithCoder:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Custom",
+              "Required"
+            ],
+            "init_kind": "Designated"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "c:@M@MobilePlayslips@objc(cs)MobilePlayslipsNewOrderViewController",
+        "mangledName": "$s15MobilePlayslips0aB22NewOrderViewControllerC",
+        "moduleName": "MobilePlayslips",
+        "declAttributes": [
+          "Custom",
+          "AccessControl",
+          "ObjC"
+        ],
+        "superclassUsr": "c:objc(cs)UIViewController",
+        "inheritsConvenienceInitializers": true,
+        "superclassNames": [
+          "UIKit.UIViewController",
+          "UIKit.UIResponder",
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
+          }
+        ]
+      },
+      {
         "kind": "Import",
         "name": "Foundation",
         "printedName": "Foundation",
@@ -3152,6 +3754,352 @@
         ]
       },
       {
+        "kind": "TypeDecl",
+        "name": "MobilePlayslipsSavedOrdersViewController",
+        "printedName": "MobilePlayslipsSavedOrdersViewController",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "analyticsDelegate",
+            "printedName": "analyticsDelegate",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "MobilePlayslips.MobilePlayslipsAnalyticsDelegate?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "MobilePlayslipsAnalyticsDelegate",
+                    "printedName": "MobilePlayslips.MobilePlayslipsAnalyticsDelegate",
+                    "usr": "s:15MobilePlayslips0aB17AnalyticsDelegateP"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:15MobilePlayslips0aB25SavedOrdersViewControllerC17analyticsDelegateAA0ab9AnalyticsH0_pSgvp",
+            "mangledName": "$s15MobilePlayslips0aB25SavedOrdersViewControllerC17analyticsDelegateAA0ab9AnalyticsH0_pSgvp",
+            "moduleName": "MobilePlayslips",
+            "declAttributes": [
+              "HasInitialValue",
+              "Custom",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "MobilePlayslips.MobilePlayslipsAnalyticsDelegate?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "MobilePlayslipsAnalyticsDelegate",
+                        "printedName": "MobilePlayslips.MobilePlayslipsAnalyticsDelegate",
+                        "usr": "s:15MobilePlayslips0aB17AnalyticsDelegateP"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:15MobilePlayslips0aB25SavedOrdersViewControllerC17analyticsDelegateAA0ab9AnalyticsH0_pSgvg",
+                "mangledName": "$s15MobilePlayslips0aB25SavedOrdersViewControllerC17analyticsDelegateAA0ab9AnalyticsH0_pSgvg",
+                "moduleName": "MobilePlayslips",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "MobilePlayslips.MobilePlayslipsAnalyticsDelegate?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "MobilePlayslipsAnalyticsDelegate",
+                        "printedName": "MobilePlayslips.MobilePlayslipsAnalyticsDelegate",
+                        "usr": "s:15MobilePlayslips0aB17AnalyticsDelegateP"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:15MobilePlayslips0aB25SavedOrdersViewControllerC17analyticsDelegateAA0ab9AnalyticsH0_pSgvs",
+                "mangledName": "$s15MobilePlayslips0aB25SavedOrdersViewControllerC17analyticsDelegateAA0ab9AnalyticsH0_pSgvs",
+                "moduleName": "MobilePlayslips",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:15MobilePlayslips0aB25SavedOrdersViewControllerC17analyticsDelegateAA0ab9AnalyticsH0_pSgvM",
+                "mangledName": "$s15MobilePlayslips0aB25SavedOrdersViewControllerC17analyticsDelegateAA0ab9AnalyticsH0_pSgvM",
+                "moduleName": "MobilePlayslips",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Function",
+            "name": "viewDidLoad",
+            "printedName": "viewDidLoad()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@MobilePlayslips@objc(cs)MobilePlayslipsSavedOrdersViewController(im)viewDidLoad",
+            "mangledName": "$s15MobilePlayslips0aB25SavedOrdersViewControllerC11viewDidLoadyyF",
+            "moduleName": "MobilePlayslips",
+            "overriding": true,
+            "objc_name": "viewDidLoad",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Custom",
+              "AccessControl",
+              "Override"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "viewWillDisappear",
+            "printedName": "viewWillDisappear(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@MobilePlayslips@objc(cs)MobilePlayslipsSavedOrdersViewController(im)viewWillDisappear:",
+            "mangledName": "$s15MobilePlayslips0aB25SavedOrdersViewControllerC17viewWillDisappearyySbF",
+            "moduleName": "MobilePlayslips",
+            "overriding": true,
+            "objc_name": "viewWillDisappear:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Custom",
+              "AccessControl",
+              "Override"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(nibName:bundle:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "MobilePlayslipsSavedOrdersViewController",
+                "printedName": "MobilePlayslips.MobilePlayslipsSavedOrdersViewController",
+                "usr": "c:@M@MobilePlayslips@objc(cs)MobilePlayslipsSavedOrdersViewController"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Foundation.Bundle?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bundle",
+                    "printedName": "Foundation.Bundle",
+                    "usr": "c:objc(cs)NSBundle"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@MobilePlayslips@objc(cs)MobilePlayslipsSavedOrdersViewController(im)initWithNibName:bundle:",
+            "mangledName": "$s15MobilePlayslips0aB25SavedOrdersViewControllerC7nibName6bundleACSSSg_So8NSBundleCSgtcfc",
+            "moduleName": "MobilePlayslips",
+            "overriding": true,
+            "implicit": true,
+            "objc_name": "initWithNibName:bundle:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Custom",
+              "Override"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(coder:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "MobilePlayslips.MobilePlayslipsSavedOrdersViewController?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "MobilePlayslipsSavedOrdersViewController",
+                    "printedName": "MobilePlayslips.MobilePlayslipsSavedOrdersViewController",
+                    "usr": "c:@M@MobilePlayslips@objc(cs)MobilePlayslipsSavedOrdersViewController"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "NSCoder",
+                "printedName": "Foundation.NSCoder",
+                "usr": "c:objc(cs)NSCoder"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@MobilePlayslips@objc(cs)MobilePlayslipsSavedOrdersViewController(im)initWithCoder:",
+            "mangledName": "$s15MobilePlayslips0aB25SavedOrdersViewControllerC5coderACSgSo7NSCoderC_tcfc",
+            "moduleName": "MobilePlayslips",
+            "overriding": true,
+            "implicit": true,
+            "objc_name": "initWithCoder:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Custom",
+              "Required"
+            ],
+            "init_kind": "Designated"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "c:@M@MobilePlayslips@objc(cs)MobilePlayslipsSavedOrdersViewController",
+        "mangledName": "$s15MobilePlayslips0aB25SavedOrdersViewControllerC",
+        "moduleName": "MobilePlayslips",
+        "declAttributes": [
+          "Custom",
+          "AccessControl",
+          "ObjC"
+        ],
+        "superclassUsr": "c:objc(cs)UIViewController",
+        "inheritsConvenienceInitializers": true,
+        "superclassNames": [
+          "UIKit.UIViewController",
+          "UIKit.UIResponder",
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
+          }
+        ]
+      },
+      {
         "kind": "Import",
         "name": "UIKit",
         "printedName": "UIKit",
@@ -3159,6 +4107,352 @@
         "moduleName": "MobilePlayslips",
         "declAttributes": [
           "RawDocComment"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "MobilePlayslipsViewController",
+        "printedName": "MobilePlayslipsViewController",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "analyticsDelegate",
+            "printedName": "analyticsDelegate",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "MobilePlayslips.MobilePlayslipsAnalyticsDelegate?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "MobilePlayslipsAnalyticsDelegate",
+                    "printedName": "MobilePlayslips.MobilePlayslipsAnalyticsDelegate",
+                    "usr": "s:15MobilePlayslips0aB17AnalyticsDelegateP"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:15MobilePlayslips0aB14ViewControllerC17analyticsDelegateAA0ab9AnalyticsF0_pSgvp",
+            "mangledName": "$s15MobilePlayslips0aB14ViewControllerC17analyticsDelegateAA0ab9AnalyticsF0_pSgvp",
+            "moduleName": "MobilePlayslips",
+            "declAttributes": [
+              "HasInitialValue",
+              "Custom",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "MobilePlayslips.MobilePlayslipsAnalyticsDelegate?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "MobilePlayslipsAnalyticsDelegate",
+                        "printedName": "MobilePlayslips.MobilePlayslipsAnalyticsDelegate",
+                        "usr": "s:15MobilePlayslips0aB17AnalyticsDelegateP"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:15MobilePlayslips0aB14ViewControllerC17analyticsDelegateAA0ab9AnalyticsF0_pSgvg",
+                "mangledName": "$s15MobilePlayslips0aB14ViewControllerC17analyticsDelegateAA0ab9AnalyticsF0_pSgvg",
+                "moduleName": "MobilePlayslips",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "MobilePlayslips.MobilePlayslipsAnalyticsDelegate?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "MobilePlayslipsAnalyticsDelegate",
+                        "printedName": "MobilePlayslips.MobilePlayslipsAnalyticsDelegate",
+                        "usr": "s:15MobilePlayslips0aB17AnalyticsDelegateP"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:15MobilePlayslips0aB14ViewControllerC17analyticsDelegateAA0ab9AnalyticsF0_pSgvs",
+                "mangledName": "$s15MobilePlayslips0aB14ViewControllerC17analyticsDelegateAA0ab9AnalyticsF0_pSgvs",
+                "moduleName": "MobilePlayslips",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:15MobilePlayslips0aB14ViewControllerC17analyticsDelegateAA0ab9AnalyticsF0_pSgvM",
+                "mangledName": "$s15MobilePlayslips0aB14ViewControllerC17analyticsDelegateAA0ab9AnalyticsF0_pSgvM",
+                "moduleName": "MobilePlayslips",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Function",
+            "name": "viewDidLoad",
+            "printedName": "viewDidLoad()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@MobilePlayslips@objc(cs)MobilePlayslipsViewController(im)viewDidLoad",
+            "mangledName": "$s15MobilePlayslips0aB14ViewControllerC11viewDidLoadyyF",
+            "moduleName": "MobilePlayslips",
+            "overriding": true,
+            "objc_name": "viewDidLoad",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Custom",
+              "AccessControl",
+              "Override"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "viewWillDisappear",
+            "printedName": "viewWillDisappear(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@MobilePlayslips@objc(cs)MobilePlayslipsViewController(im)viewWillDisappear:",
+            "mangledName": "$s15MobilePlayslips0aB14ViewControllerC17viewWillDisappearyySbF",
+            "moduleName": "MobilePlayslips",
+            "overriding": true,
+            "objc_name": "viewWillDisappear:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Custom",
+              "Override",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(nibName:bundle:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "MobilePlayslipsViewController",
+                "printedName": "MobilePlayslips.MobilePlayslipsViewController",
+                "usr": "c:@M@MobilePlayslips@objc(cs)MobilePlayslipsViewController"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Foundation.Bundle?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bundle",
+                    "printedName": "Foundation.Bundle",
+                    "usr": "c:objc(cs)NSBundle"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@MobilePlayslips@objc(cs)MobilePlayslipsViewController(im)initWithNibName:bundle:",
+            "mangledName": "$s15MobilePlayslips0aB14ViewControllerC7nibName6bundleACSSSg_So8NSBundleCSgtcfc",
+            "moduleName": "MobilePlayslips",
+            "overriding": true,
+            "implicit": true,
+            "objc_name": "initWithNibName:bundle:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Custom",
+              "Override"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(coder:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "MobilePlayslips.MobilePlayslipsViewController?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "MobilePlayslipsViewController",
+                    "printedName": "MobilePlayslips.MobilePlayslipsViewController",
+                    "usr": "c:@M@MobilePlayslips@objc(cs)MobilePlayslipsViewController"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "NSCoder",
+                "printedName": "Foundation.NSCoder",
+                "usr": "c:objc(cs)NSCoder"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@MobilePlayslips@objc(cs)MobilePlayslipsViewController(im)initWithCoder:",
+            "mangledName": "$s15MobilePlayslips0aB14ViewControllerC5coderACSgSo7NSCoderC_tcfc",
+            "moduleName": "MobilePlayslips",
+            "overriding": true,
+            "implicit": true,
+            "objc_name": "initWithCoder:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Custom",
+              "Required"
+            ],
+            "init_kind": "Designated"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "c:@M@MobilePlayslips@objc(cs)MobilePlayslipsViewController",
+        "mangledName": "$s15MobilePlayslips0aB14ViewControllerC",
+        "moduleName": "MobilePlayslips",
+        "declAttributes": [
+          "Custom",
+          "AccessControl",
+          "ObjC"
+        ],
+        "superclassUsr": "c:objc(cs)UIViewController",
+        "inheritsConvenienceInitializers": true,
+        "superclassNames": [
+          "UIKit.UIViewController",
+          "UIKit.UIResponder",
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
+          }
         ]
       },
       {
@@ -3693,6 +4987,228 @@
       },
       {
         "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "MobilePlayslips",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Photos",
+        "printedName": "Photos",
+        "declKind": "Import",
+        "moduleName": "MobilePlayslips"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "PhotoService",
+        "printedName": "PhotoService",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "captureScreen",
+            "printedName": "captureScreen(of:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "UIKit.UIImage?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIImage",
+                    "printedName": "UIKit.UIImage",
+                    "usr": "c:objc(cs)UIImage"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UIView",
+                "printedName": "UIKit.UIView",
+                "usr": "c:objc(cs)UIView"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:15MobilePlayslips12PhotoServiceC13captureScreen2ofSo7UIImageCSgSo6UIViewC_tF",
+            "mangledName": "$s15MobilePlayslips12PhotoServiceC13captureScreen2ofSo7UIImageCSgSo6UIViewC_tF",
+            "moduleName": "MobilePlayslips",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "saveScreenshot",
+            "printedName": "saveScreenshot(fromView:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UIView",
+                "printedName": "UIKit.UIView",
+                "usr": "c:objc(cs)UIView"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:15MobilePlayslips12PhotoServiceC14saveScreenshot8fromViewySo6UIViewC_tF",
+            "mangledName": "$s15MobilePlayslips12PhotoServiceC14saveScreenshot8fromViewySo6UIViewC_tF",
+            "moduleName": "MobilePlayslips",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "image",
+            "printedName": "image(_:didFinishSavingWithError:contextInfo:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UIImage",
+                "printedName": "UIKit.UIImage",
+                "usr": "c:objc(cs)UIImage"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.Error?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Error",
+                    "printedName": "Swift.Error",
+                    "usr": "s:s5ErrorP"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UnsafeRawPointer",
+                "printedName": "Swift.UnsafeRawPointer",
+                "usr": "s:SV"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@MobilePlayslips@objc(cs)PhotoService(im)image:didFinishSavingWithError:contextInfo:",
+            "mangledName": "$s15MobilePlayslips12PhotoServiceC5image_24didFinishSavingWithError11contextInfoySo7UIImageC_s0J0_pSgSVtF",
+            "moduleName": "MobilePlayslips",
+            "declAttributes": [
+              "AccessControl",
+              "ObjC"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "PhotoService",
+                "printedName": "MobilePlayslips.PhotoService",
+                "usr": "c:@M@MobilePlayslips@objc(cs)PhotoService"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@MobilePlayslips@objc(cs)PhotoService(im)init",
+            "mangledName": "$s15MobilePlayslips12PhotoServiceCACycfc",
+            "moduleName": "MobilePlayslips",
+            "overriding": true,
+            "implicit": true,
+            "objc_name": "init",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Override"
+            ],
+            "init_kind": "Designated"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "c:@M@MobilePlayslips@objc(cs)PhotoService",
+        "mangledName": "$s15MobilePlayslips12PhotoServiceC",
+        "moduleName": "MobilePlayslips",
+        "declAttributes": [
+          "AccessControl",
+          "ObjC"
+        ],
+        "superclassUsr": "c:objc(cs)NSObject",
+        "inheritsConvenienceInitializers": true,
+        "superclassNames": [
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
         "name": "Foundation",
         "printedName": "Foundation",
         "declKind": "Import",
@@ -4006,6 +5522,16 @@
         "kind": "Import",
         "name": "Foundation",
         "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MobilePlayslips",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
         "declKind": "Import",
         "moduleName": "MobilePlayslips",
         "declAttributes": [
@@ -5393,21 +6919,21 @@
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Model\/CodablePolymorphic.swift",
       "kind": "StringLiteral",
-      "offset": 4938,
+      "offset": 4944,
       "length": 6,
       "value": "\"type\""
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Model\/CodablePolymorphic.swift",
       "kind": "StringLiteral",
-      "offset": 5878,
+      "offset": 5983,
       "length": 53,
       "value": "\"could not match type to one of \""
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Model\/CodablePolymorphic.swift",
       "kind": "StringLiteral",
-      "offset": 5930,
+      "offset": 6035,
       "length": 2,
       "value": "\"\""
     },
@@ -7535,105 +9061,105 @@
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MobilePlayslipsGameEntryViewController.swift",
       "kind": "StringLiteral",
-      "offset": 1486,
+      "offset": 1664,
       "length": 17,
       "value": "\"MobilePlayslips\""
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MobilePlayslipsGameEntryViewController.swift",
       "kind": "StringLiteral",
-      "offset": 1584,
+      "offset": 1762,
       "length": 12,
       "value": "\"new_orders\""
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MobilePlayslipsGameEntryViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 2000,
+      "offset": 2178,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MobilePlayslipsGameEntryViewController.swift",
       "kind": "StringLiteral",
-      "offset": 2402,
+      "offset": 2580,
       "length": 17,
       "value": "\"MobilePlayslips\""
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MobilePlayslipsGameEntryViewController.swift",
       "kind": "StringLiteral",
-      "offset": 2500,
+      "offset": 2678,
       "length": 20,
       "value": "\"rapid_draw_builder\""
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MobilePlayslipsGameEntryViewController.swift",
       "kind": "StringLiteral",
-      "offset": 2725,
+      "offset": 2903,
       "length": 17,
       "value": "\"MobilePlayslips\""
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MobilePlayslipsGameEntryViewController.swift",
       "kind": "StringLiteral",
-      "offset": 2823,
+      "offset": 3001,
       "length": 27,
       "value": "\"standard_playslip_builder\""
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MobilePlayslipsGameEntryViewController.swift",
       "kind": "StringLiteral",
-      "offset": 3094,
+      "offset": 3272,
       "length": 13,
       "value": "\"OrderedGame\""
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MobilePlayslipsGameEntryViewController.swift",
       "kind": "StringLiteral",
-      "offset": 3481,
+      "offset": 3659,
       "length": 17,
       "value": "\"MobilePlayslips\""
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MobilePlayslipsGameEntryViewController.swift",
       "kind": "StringLiteral",
-      "offset": 3579,
+      "offset": 3757,
       "length": 27,
       "value": "\"standard_playslip_builder\""
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MobilePlayslipsGameEntryViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 3820,
+      "offset": 3998,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MobilePlayslipsGameEntryViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 3911,
+      "offset": 4089,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MobilePlayslipsGameEntryViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 4290,
+      "offset": 4468,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MobilePlayslipsNewOrderViewController.swift",
       "kind": "StringLiteral",
-      "offset": 532,
+      "offset": 717,
       "length": 17,
       "value": "\"MobilePlayslips\""
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MobilePlayslipsNewOrderViewController.swift",
       "kind": "StringLiteral",
-      "offset": 630,
+      "offset": 815,
       "length": 12,
       "value": "\"new_orders\""
     },
@@ -7668,21 +9194,21 @@
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MobilePlayslipsSavedOrdersViewController.swift",
       "kind": "StringLiteral",
-      "offset": 538,
+      "offset": 723,
       "length": 17,
       "value": "\"MobilePlayslips\""
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MobilePlayslipsSavedOrdersViewController.swift",
       "kind": "StringLiteral",
-      "offset": 636,
+      "offset": 821,
       "length": 29,
       "value": "\"saved_order_view_controller\""
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MobilePlayslipsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 470,
+      "offset": 655,
       "length": 17,
       "value": "\"MobilePlayslips\""
     },
@@ -8095,84 +9621,133 @@
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSCompletedOrderItemViewController.swift",
       "kind": "Dictionary",
-      "offset": 864,
+      "offset": 921,
       "length": 3,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSCompletedOrderItemViewController.swift",
       "kind": "Array",
-      "offset": 1493,
+      "offset": 1550,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSCompletedOrderItemViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 2945,
+      "offset": 3002,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSCompletedOrderItemViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 2951,
+      "offset": 3008,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSCompletedOrderItemViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 3692,
+      "offset": 3749,
       "length": 4,
       "value": "12.0"
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSCompletedOrderItemViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 3708,
+      "offset": 3765,
       "length": 4,
       "value": "12.0"
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSCompletedOrderItemViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 3719,
+      "offset": 3776,
       "length": 4,
       "value": "12.0"
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSCompletedOrderItemViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 3733,
+      "offset": 3790,
       "length": 4,
       "value": "12.0"
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSCompletedOrderItemViewController.swift",
       "kind": "StringLiteral",
-      "offset": 3956,
+      "offset": 4013,
       "length": 18,
       "value": "\"save_order_segue\""
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSCompletedOrderItemViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 4495,
+      "length": 15,
+      "value": "\"Save Playslip\""
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSCompletedOrderItemViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 4521,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSCompletedOrderItemViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 4598,
+      "length": 24,
+      "value": "\"Save QR Code to Photos\""
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSCompletedOrderItemViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 4695,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSCompletedOrderItemViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 4826,
+      "length": 8,
+      "value": "\"Cancel\""
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSCompletedOrderItemViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 4882,
+      "length": 29,
+      "value": "\"Action sheet was dismissed.\""
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSCompletedOrderItemViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 5133,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSCompletedOrderItemViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 4203,
+      "offset": 5262,
       "length": 3,
       "value": "4.0"
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSCompletedOrderItemViewController.swift",
       "kind": "Array",
-      "offset": 4611,
+      "offset": 5670,
       "length": 13,
       "value": "[0.0, 16.0]"
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSCompletedOrderItemViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 4686,
+      "offset": 5745,
       "length": 3,
       "value": "0.0"
     },
@@ -8368,189 +9943,231 @@
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSGameSelectionViewController.swift",
       "kind": "StringLiteral",
-      "offset": 1429,
+      "offset": 1529,
       "length": 18,
       "value": "\"rapid_draw_segue\""
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSGameSelectionViewController.swift",
       "kind": "StringLiteral",
-      "offset": 1552,
+      "offset": 1652,
       "length": 24,
       "value": "\"playslip_builder_segue\""
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSGameSelectionViewController.swift",
       "kind": "StringLiteral",
-      "offset": 1682,
+      "offset": 1782,
       "length": 13,
       "value": "\"OrderedGame\""
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSGameSelectionViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 1961,
+      "offset": 2061,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSGameSelectionViewController.swift",
       "kind": "StringLiteral",
-      "offset": 2076,
+      "offset": 2176,
       "length": 17,
       "value": "\"MobilePlayslips\""
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSGameSelectionViewController.swift",
       "kind": "StringLiteral",
-      "offset": 2174,
+      "offset": 2274,
       "length": 26,
       "value": "\"playslip_number_selector\""
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSGameSelectionViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 2450,
+      "offset": 2550,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSGameSelectionViewController.swift",
       "kind": "StringLiteral",
-      "offset": 2540,
+      "offset": 2640,
       "length": 24,
       "value": "\"playslip_builder_segue\""
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSGameSelectionViewController.swift",
       "kind": "StringLiteral",
-      "offset": 2763,
+      "offset": 2863,
       "length": 13,
       "value": "\" quick pick\""
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSGameSelectionViewController.swift",
       "kind": "StringLiteral",
-      "offset": 2909,
+      "offset": 3009,
       "length": 18,
       "value": "\"quick_pick_segue\""
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSGameSelectionViewController.swift",
       "kind": "StringLiteral",
-      "offset": 3732,
+      "offset": 3832,
       "length": 4,
       "value": "\"QP\""
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSGameSelectionViewController.swift",
       "kind": "StringLiteral",
-      "offset": 3866,
+      "offset": 3966,
       "length": 13,
       "value": "\" quick pick\""
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSGameSelectionViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 3933,
+      "offset": 4033,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSGameSelectionViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 4007,
+      "offset": 4107,
       "length": 4,
       "value": "40.0"
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSGameSelectionViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 4024,
+      "offset": 4124,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSGameSelectionViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 4097,
+      "offset": 4197,
       "length": 5,
       "value": "40.00"
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSGameSelectionViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 4115,
+      "offset": 4215,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSGameSelectionViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 4164,
+      "offset": 4264,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSGameSelectionViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 4212,
+      "offset": 4312,
       "length": 4,
       "value": "20.0"
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSGameSelectionViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 4441,
+      "offset": 4541,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSGameSelectionViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 4505,
+      "offset": 4605,
       "length": 4,
       "value": "40.0"
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSGameSelectionViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 4522,
+      "offset": 4622,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSGameSelectionViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 4562,
+      "offset": 4662,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSGameSelectionViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 4700,
+      "offset": 4800,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSGameSelectionViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 4736,
+      "offset": 4836,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSGameSelectionViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5012,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSGameSelectionViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5021,
+      "length": 1,
+      "value": "8"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSGameSelectionViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5032,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSGameSelectionViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5042,
+      "length": 1,
+      "value": "8"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSGameSelectionViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 5234,
+      "offset": 5104,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSGameSelectionViewController.swift",
+      "kind": "FloatLiteral",
+      "offset": 5161,
+      "length": 3,
+      "value": "0.5"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSGameSelectionViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 5544,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSGameSelectionViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 5898,
+      "offset": 6208,
       "length": 2,
       "value": "12"
     },
@@ -9362,7 +10979,7 @@
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSNewOrderViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 5380,
+      "offset": 5444,
       "length": 4,
       "value": "true"
     },
@@ -10307,14 +11924,14 @@
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSOrderedWagerItemViewController.swift",
       "kind": "Array",
-      "offset": 1209,
+      "offset": 1726,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSOrderedWagerItemViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 1350,
+      "offset": 1867,
       "length": 5,
       "value": "100.0"
     },
@@ -11147,21 +12764,21 @@
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSSavedOrderCardViewController.swift",
       "kind": "StringLiteral",
-      "offset": 1368,
+      "offset": 1434,
       "length": 17,
       "value": "\"MobilePlayslips\""
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSSavedOrderCardViewController.swift",
       "kind": "StringLiteral",
-      "offset": 1466,
+      "offset": 1532,
       "length": 30,
       "value": "\"saved_orders_view_controller\""
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSSavedOrderCardViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 1576,
+      "offset": 1642,
       "length": 4,
       "value": "true"
     },
@@ -11539,42 +13156,42 @@
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSSummaryCardViewController.swift",
       "kind": "StringLiteral",
-      "offset": 8603,
+      "offset": 8806,
       "length": 23,
       "value": "\"edit_quick_pick_segue\""
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSSummaryCardViewController.swift",
       "kind": "StringLiteral",
-      "offset": 8777,
+      "offset": 8980,
       "length": 30,
       "value": "\"edit_playslip_roulette_segue\""
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSSummaryCardViewController.swift",
       "kind": "StringLiteral",
-      "offset": 8951,
+      "offset": 9154,
       "length": 17,
       "value": "\"edit_keno_segue\""
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSSummaryCardViewController.swift",
       "kind": "StringLiteral",
-      "offset": 9055,
+      "offset": 9258,
       "length": 21,
       "value": "\"edit_playslip_segue\""
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSSummaryCardViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 9764,
+      "offset": 9967,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/ViewController\/MPSSummaryCardViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 10955,
+      "offset": 11158,
       "length": 1,
       "value": "1"
     },
@@ -11776,99 +13393,169 @@
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Model\/NetworkManager.swift",
+      "kind": "StringLiteral",
+      "offset": 1390,
+      "length": 22,
+      "value": "\"Something Went Wrong\""
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Model\/NetworkManager.swift",
+      "kind": "StringLiteral",
+      "offset": 1423,
+      "length": 71,
+      "value": "\"Unable to load configuration. Please close application and try again.\""
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Model\/NetworkManager.swift",
+      "kind": "StringLiteral",
+      "offset": 1691,
+      "length": 22,
+      "value": "\"Something Went Wrong\""
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Model\/NetworkManager.swift",
+      "kind": "StringLiteral",
+      "offset": 1724,
+      "length": 71,
+      "value": "\"Unable to load configuration. Please close application and try again.\""
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Model\/NetworkManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 1530,
+      "offset": 1854,
       "length": 3,
       "value": "404"
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Model\/NetworkManager.swift",
       "kind": "StringLiteral",
-      "offset": 1911,
+      "offset": 2235,
       "length": 44,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Model\/NetworkManager.swift",
       "kind": "StringLiteral",
-      "offset": 1919,
+      "offset": 2243,
       "length": 1,
       "value": "\"\/\""
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Model\/NetworkManager.swift",
       "kind": "StringLiteral",
-      "offset": 1930,
+      "offset": 2254,
       "length": 1,
       "value": "\"\/orders\/generate-qrcodes\""
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Model\/NetworkManager.swift",
       "kind": "StringLiteral",
-      "offset": 1993,
+      "offset": 2317,
       "length": 18,
       "value": "\"application\/json\""
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Model\/NetworkManager.swift",
       "kind": "StringLiteral",
-      "offset": 2033,
+      "offset": 2357,
       "length": 14,
       "value": "\"Content-Type\""
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Model\/NetworkManager.swift",
       "kind": "StringLiteral",
-      "offset": 2074,
+      "offset": 2398,
       "length": 18,
       "value": "\"application\/json\""
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Model\/NetworkManager.swift",
       "kind": "StringLiteral",
-      "offset": 2114,
+      "offset": 2438,
       "length": 8,
       "value": "\"Accept\""
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Model\/NetworkManager.swift",
       "kind": "StringLiteral",
-      "offset": 2184,
+      "offset": 2508,
       "length": 9,
       "value": "\"Bearer \""
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Model\/NetworkManager.swift",
       "kind": "StringLiteral",
-      "offset": 2223,
+      "offset": 2547,
       "length": 15,
       "value": "\"Authorization\""
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Model\/NetworkManager.swift",
       "kind": "StringLiteral",
-      "offset": 2279,
+      "offset": 2603,
       "length": 6,
       "value": "\"POST\""
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Model\/NetworkManager.swift",
+      "kind": "StringLiteral",
+      "offset": 2872,
+      "length": 22,
+      "value": "\"Something Went Wrong\""
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Model\/NetworkManager.swift",
+      "kind": "StringLiteral",
+      "offset": 2905,
+      "length": 66,
+      "value": "\"Unable to fetch QR Code for order. Please go back and try again.\""
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Model\/NetworkManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 2608,
+      "offset": 3087,
       "length": 3,
       "value": "200"
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Model\/NetworkManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 2614,
+      "offset": 3093,
       "length": 3,
       "value": "299"
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Model\/NetworkManager.swift",
+      "kind": "StringLiteral",
+      "offset": 3184,
+      "length": 22,
+      "value": "\"Something Went Wrong\""
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Model\/NetworkManager.swift",
+      "kind": "StringLiteral",
+      "offset": 3217,
+      "length": 66,
+      "value": "\"Unable to fetch QR Code for order. Please go back and try again.\""
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Model\/NetworkManager.swift",
+      "kind": "StringLiteral",
+      "offset": 3829,
+      "length": 22,
+      "value": "\"Something Went Wrong\""
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Model\/NetworkManager.swift",
+      "kind": "StringLiteral",
+      "offset": 3862,
+      "length": 66,
+      "value": "\"Unable to fetch QR Code for order. Please go back and try again.\""
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Model\/NetworkManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 3198,
+      "offset": 3987,
       "length": 3,
       "value": "500"
     },
@@ -12125,6 +13812,104 @@
       "value": "\"X\""
     },
     {
+      "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Model\/PhotoService.swift",
+      "kind": "BooleanLiteral",
+      "offset": 291,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Model\/PhotoService.swift",
+      "kind": "StringLiteral",
+      "offset": 734,
+      "length": 29,
+      "value": "\"Error capturing screenshot.\""
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Model\/PhotoService.swift",
+      "kind": "StringLiteral",
+      "offset": 1172,
+      "length": 56,
+      "value": "\"Error saving screenshot: \""
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Model\/PhotoService.swift",
+      "kind": "StringLiteral",
+      "offset": 1227,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Model\/PhotoService.swift",
+      "kind": "StringLiteral",
+      "offset": 1413,
+      "length": 28,
+      "value": "\"Screenshot saved to Photos\""
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Model\/PhotoService.swift",
+      "kind": "StringLiteral",
+      "offset": 1452,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Model\/PhotoService.swift",
+      "kind": "StringLiteral",
+      "offset": 1533,
+      "length": 13,
+      "value": "\"Open Photos\""
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Model\/PhotoService.swift",
+      "kind": "StringLiteral",
+      "offset": 1655,
+      "length": 20,
+      "value": "\"photos-redirect:\/\/\""
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Model\/PhotoService.swift",
+      "kind": "Dictionary",
+      "offset": 1811,
+      "length": 3,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Model\/PhotoService.swift",
+      "kind": "StringLiteral",
+      "offset": 1935,
+      "length": 6,
+      "value": "\"Done\""
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Model\/PhotoService.swift",
+      "kind": "StringLiteral",
+      "offset": 2218,
+      "length": 27,
+      "value": "\"Unable to save screenshot\""
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Model\/PhotoService.swift",
+      "kind": "StringLiteral",
+      "offset": 2256,
+      "length": 48,
+      "value": "\"Please check photo permissions in iOS Settings\""
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Model\/PhotoService.swift",
+      "kind": "StringLiteral",
+      "offset": 2379,
+      "length": 6,
+      "value": "\"Done\""
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Model\/PhotoService.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2840,
+      "length": 4,
+      "value": "true"
+    },
+    {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Model\/Playslip\/Playslip.swift",
       "kind": "Array",
       "offset": 274,
@@ -12225,21 +14010,21 @@
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Model\/Playslip\/Playslip.swift",
       "kind": "Array",
-      "offset": 6618,
+      "offset": 7264,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Model\/Playslip\/Playslip.swift",
       "kind": "IntegerLiteral",
-      "offset": 6642,
+      "offset": 7288,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Model\/Playslip\/Playslip.swift",
       "kind": "BooleanLiteral",
-      "offset": 6997,
+      "offset": 7643,
       "length": 4,
       "value": "true"
     },
@@ -13182,6 +14967,13 @@
       "value": "\"bundle\""
     },
     {
+      "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Flux\/Reducers\/RootReducer.swift",
+      "kind": "StringLiteral",
+      "offset": 318,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Model\/SavedOrdersRepository.swift",
       "kind": "Array",
       "offset": 628,
@@ -13225,22 +15017,36 @@
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Flux\/Store.swift",
+      "kind": "Dictionary",
+      "offset": 266,
+      "length": 3,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Flux\/Store.swift",
+      "kind": "StringLiteral",
+      "offset": 302,
+      "length": 6,
+      "value": "\"none\""
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Flux\/Store.swift",
       "kind": "Array",
-      "offset": 359,
+      "offset": 771,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Flux\/Store.swift",
       "kind": "Array",
-      "offset": 568,
+      "offset": 980,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Flux\/Store.swift",
       "kind": "Array",
-      "offset": 658,
+      "offset": 1070,
       "length": 2,
       "value": "[]"
     },
@@ -13334,6 +15140,27 @@
       "offset": 3049,
       "length": 70,
       "value": "\"Unable to encode The Numbers Game Playslip, DrawSequence unavailable\""
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Extensions\/UIAlertController+extensions.swift",
+      "kind": "StringLiteral",
+      "offset": 408,
+      "length": 4,
+      "value": "\"OK\""
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Extensions\/UIAlertController+extensions.swift",
+      "kind": "BooleanLiteral",
+      "offset": 593,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Extensions\/UIAlertController+extensions.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1031,
+      "length": 4,
+      "value": "true"
     },
     {
       "filePath": "\/Users\/vagrant\/git\/mobile-playslips\/ui-library\/ios-library\/MobilePlayslips\/Classes\/Extensions\/UIButton+extension.swift",
