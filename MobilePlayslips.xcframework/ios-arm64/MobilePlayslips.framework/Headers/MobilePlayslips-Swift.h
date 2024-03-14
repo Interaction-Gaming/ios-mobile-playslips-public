@@ -342,6 +342,7 @@ SWIFT_CLASS("_TtC15MobilePlayslips29MobilePlayslipsViewController")
 - (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder OBJC_DESIGNATED_INITIALIZER;
 @end
 
+
 @class UIImage;
 
 SWIFT_CLASS("_TtC15MobilePlayslips12PhotoService")
