@@ -398,7 +398,7 @@
 		</data>
 		<key>Modules/MobilePlayslips.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		MtaPtrMlb988XroQtLbi1cY7v1I=
+		9d/MS2tUAe7p4BWP346YYCZQL9A=
 		</data>
 		<key>Modules/MobilePlayslips.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -414,11 +414,11 @@
 		</data>
 		<key>Modules/MobilePlayslips.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		0Itnk1NYhQxJ/7MY+q2tn8CpvEc=
+		/7KWgx/PJLfuqPvj+/oauMtQ8pU=
 		</data>
 		<key>Modules/MobilePlayslips.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		MtaPtrMlb988XroQtLbi1cY7v1I=
+		9d/MS2tUAe7p4BWP346YYCZQL9A=
 		</data>
 		<key>Modules/MobilePlayslips.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -434,7 +434,7 @@
 		</data>
 		<key>Modules/MobilePlayslips.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		FPgAKoPb6dLxyb3aGmhJPQ5TnCk=
+		p486rb5FTHoKyY/oKist4+bITPY=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -1126,7 +1126,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			/aB3s/zt96ecO0gYFCeXgY8QL20jNHDNcvyU8NFdoa4=
+			SU5BoGkK2YmG10KICzp994U9lWPE5FPB28DRzKvSTok=
 			</data>
 		</dict>
 		<key>Modules/MobilePlayslips.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -1154,14 +1154,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Oj4317ckgSQ4EyFHSFnim+AGc6N0MFyNoxugnNvA6Mc=
+			vENLtb2T7QBIEqyRr3276cGMuPNjz/8Fa4VTbn9Xhcc=
 			</data>
 		</dict>
 		<key>Modules/MobilePlayslips.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			/aB3s/zt96ecO0gYFCeXgY8QL20jNHDNcvyU8NFdoa4=
+			SU5BoGkK2YmG10KICzp994U9lWPE5FPB28DRzKvSTok=
 			</data>
 		</dict>
 		<key>Modules/MobilePlayslips.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -1189,7 +1189,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			BzDEcY4afw9iuWSUjRbGRLsDKlb1hBgMgosq1UayRMQ=
+			OMCTKyKzrJkzVkpx3h04KqNswnmercHa2vIgnzoFngY=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
